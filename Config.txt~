@@ -828,7 +828,7 @@ Players
 
 	// > Percentage [0 to 1] of skill levels to retain when killed by another player.
 	// > Default: 1
-	Lose_Skills_PvP 1
+	Lose_Skills_PvP 0
 
 	// > Percentage [0 to 1] of skill levels to retain when killed by the environment (e.g., zombies).
 	// > Default: 1
@@ -844,11 +844,11 @@ Players
 
 	// > Percentage [0 to 1] of XP to retain when killed by another player.
 	// > Default: 0.5
-	Lose_Experience_PvP 1
+	Lose_Experience_PvP 0
 
 	// > Percentage [0 to 1] of XP to retain when killed by the environment (e.g., zombies).
 	// > Default: 0.5
-	Lose_Experience_PvE 0.6
+	Lose_Experience_PvE 1
 
 	// > Scales XP cost to purchase/upgrade skills.
 	// > Default: 1
@@ -856,8 +856,8 @@ Players
 
 	// > Percentage [0 to 1] chance to lose each inventory item when killed by another player.
 	// > Depends on Lose_Clothes_PvP because losing storage will drop contained items.
-	// > Default: 1
-	Lose_Items_PvP
+	// > Default: 
+	Lose_Items_PvP 0
 
 	// > Percentage [0 to 1] chance to lose each inventory item when killed by the environment (e.g., zombies).
 	// > Depends on Lose_Clothes_PvE because losing storage will drop contained items.
@@ -866,7 +866,7 @@ Players
 
 	// > If true, drop all clothing items when killed by another player.
 	// > Default: True
-	Lose_Clothes_PvP
+	Lose_Clothes_PvP False 
 
 	// > If true, drop all clothing items when killed by the environment (e.g., zombies).
 	// > Default: True
@@ -874,7 +874,7 @@ Players
 
 	// > If true, drop primary and secondary weapon when killed by another player.
 	// > Default: True
-	Lose_Weapons_PvP
+	Lose_Weapons_PvP False
 
 	// > If true, drop primary and secondary weapon when killed by the environment (e.g., zombies).
 	// > Default: True
@@ -886,7 +886,7 @@ Players
 
 	// > If false, players cannot break their leg when falling long distances.
 	// > Easy: False    Normal: True    Hard: True
-	Can_Break_Legs
+	Can_Break_Legs 
 
 	// > If false, broken legs cannot automatically heal themselves after Leg_Regen_Ticks.
 	// > Easy: True    Normal: True    Hard: False
