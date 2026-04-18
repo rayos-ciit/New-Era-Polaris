@@ -1,0 +1,14 @@
+GUID 218373e0377d45299c53e6092da2a607
+
+Type Water
+Useable Consumeable
+ID 36196
+
+
+
+
+Food 5
+Water 5
+Vision 20
+
+ConsumeAudioClip core.masterbundle:Sounds/DrinkSwallow.mp3

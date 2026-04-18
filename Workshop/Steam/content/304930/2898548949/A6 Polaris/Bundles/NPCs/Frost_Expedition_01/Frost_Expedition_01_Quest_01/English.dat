@@ -1,0 +1,10 @@
+Name <color=#d2bf22>Expedition II</color>
+Description Infiltrate the secret bunker and any secret documents you can find.
+
+Condition_0 Pickup the Drill from the Boat
+Condition_1 Drill Into the Sewers
+Condition_2 Unlock the Sewer Gate
+Condition_3 {0}/{1} Intelligence Stolen
+Condition_4 Extract
+
+Reward_1 +1 ATM Point

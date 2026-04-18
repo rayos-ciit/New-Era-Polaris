@@ -1,0 +1,26 @@
+GUID ddc3355b56914c51a151467665dc0965
+
+Type NPC
+ID 36599
+
+Face 12
+Hair 0
+Beard 4
+Color_Skin #332C25
+Color_Hair #352C22
+Backward
+
+Shirt 592
+Mask 591
+Pants 593
+
+Dialogue 36600
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36603
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Pose Rest

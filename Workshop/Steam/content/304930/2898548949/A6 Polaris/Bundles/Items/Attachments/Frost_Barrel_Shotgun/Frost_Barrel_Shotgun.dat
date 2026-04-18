@@ -1,0 +1,43 @@
+GUID bb5494c167e54c94b30892c841dcfd99
+
+Type Barrel
+Rarity Rare
+ID 36518
+
+
+
+
+Ballistic_Damage_Multiplier 1.1
+Spread 0.9
+Braked
+
+Calibers 1
+Caliber_0 36009
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36518
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36518
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

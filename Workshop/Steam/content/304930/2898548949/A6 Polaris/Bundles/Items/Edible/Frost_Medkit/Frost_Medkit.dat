@@ -1,0 +1,41 @@
+GUID aff95456df8646f0a709e5d136a7070e
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 36354
+
+Size_Y 2
+
+Food 5
+Water 5
+Aid
+Bleeding
+Broken
+Health 65
+Disinfectant 5
+Energy 100
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36362
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36357
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36354
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36354
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 36362
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 36357
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+ConsumeAudioClip core.masterbundle:Items/Medical/Medkit/Use.mp3

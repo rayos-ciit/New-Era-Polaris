@@ -1,0 +1,40 @@
+GUID 1e5a55e53e0242ebba89338f750cae61
+
+Type Shirt
+Useable Clothing
+ID 36532
+
+Size_X 3
+Size_Y 2
+
+Width 5
+Height 3
+
+Blueprints 2
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36532
+Blueprint_0_Build 32
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36045
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36015
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36532
+Blueprint_1_Build 32
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36045
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36015
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

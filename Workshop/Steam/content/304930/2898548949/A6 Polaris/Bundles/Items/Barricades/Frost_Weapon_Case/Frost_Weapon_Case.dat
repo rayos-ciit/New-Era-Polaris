@@ -1,0 +1,35 @@
+GUID c64b77469ae94effa7ef79a097d5856f
+
+Type Storage
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Storage
+ID 36481
+
+Size_X 2
+
+Health 150
+Range 4
+Radius 0.2
+Offset 0.25
+
+Storage_X 6
+Storage_Y 4
+
+Locked
+Explosion 36
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+Should_Close_When_Outside_Range true
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

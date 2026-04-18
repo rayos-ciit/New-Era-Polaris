@@ -1,0 +1,76 @@
+GUID be4fd28b91f24202b3297a1fabd0bc75
+
+Type Barrel
+Rarity Rare
+ID 36143
+
+
+
+
+
+Spread 0.85
+Ballistic_Drop 0.9
+
+Gunshot_Rolloff_Distance_Multiplier 1.2
+
+Recoil_X 0.95
+Recoil_Y 0.95
+
+Calibers 9
+Caliber_0 36002
+Caliber_1 36003
+Caliber_2 36004
+Caliber_3 36005
+Caliber_4 36006
+Caliber_5 36007
+Caliber_6 36008
+Caliber_7 36013
+Caliber_8 36015
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36144
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade attachment with gun oil
+
+Action_1_Type Blueprint
+Action_1_Source 36143
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36143
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36143
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36143
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

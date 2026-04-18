@@ -1,0 +1,161 @@
+GUID f88a01bdf8ac4bfba0a6067a380780b8
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 36599
+
+Size_X 3
+Size_Y 2
+
+Magazine 36453
+Grip 36581
+Sight 36514
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 30
+Ammo_Max 40
+
+Quality_Min 0
+Quality_Max 10
+
+Safety
+Semi
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 36005
+
+Attachment_Calibers 1
+Attachment_Caliber_0 36013
+
+Range 500
+Firerate 3
+Action Trigger
+
+Damage_Falloff_Range 0
+Damage_Falloff_Multiplier 0
+
+Player_Damage 19
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 100
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 20
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 40
+Structure_Damage 40
+Vehicle_Damage 40
+Resource_Damage 40
+Object_Damage 40
+
+Durability 0.025
+
+Spread_Aim 0.01
+Spread_Hip 0.3
+
+Recoil_Min_X 7
+Recoil_Min_Y 4
+Recoil_Max_X 7
+Recoil_Max_Y 3
+
+Recover_X 0.3
+Recover_Y 0.3
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.03
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.015
+
+Muzzle 3
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36557
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 5
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade weapon using gun parts
+
+Action_1_Type Blueprint
+Action_1_Source 36599
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36599
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage
+
+Blueprints 4
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36599
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36011
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36599
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36011
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Build 27
+Blueprint_2_Tool 36090
+Blueprint_2_Level 2
+Blueprint_2_Skill Repair
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36451
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_State_Transfer
+Blueprint_3_Build 27
+
+Blueprint_3_Conditions 1
+Blueprint_3_Condition_0_Type Flag_Bool
+Blueprint_3_Condition_0_ID 36579
+Blueprint_3_Condition_0_Value True
+Blueprint_3_Condition_0_Logic Equal

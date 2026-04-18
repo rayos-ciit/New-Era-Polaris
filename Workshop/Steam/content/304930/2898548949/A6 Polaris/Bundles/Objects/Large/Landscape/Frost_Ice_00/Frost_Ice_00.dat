@@ -1,0 +1,14 @@
+GUID 578284cd449548fe9611e30aedcd2aa6
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 600
+BladeID 2
+
+Soft
+Chart Ground
+Allow_Structures

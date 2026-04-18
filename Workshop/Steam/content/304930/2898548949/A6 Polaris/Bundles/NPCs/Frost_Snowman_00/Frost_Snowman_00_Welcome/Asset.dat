@@ -1,0 +1,74 @@
+GUID f602e7b1e01b40bdbee9df0b936a818c
+
+Type Dialogue
+ID 36600
+
+Messages 4
+
+Message_0_Pages 9
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 36601
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 36601
+Message_1_Condition_0_Status Active
+Message_1_Condition_0_Logic Equal
+
+Message_3_Pages 1
+Message_3_Conditions 1
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_ID 36601
+Message_3_Condition_0_Status Ready
+Message_3_Condition_0_Logic Equal
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 36601
+Message_2_Condition_0_Status Completed
+Message_2_Condition_0_Logic Equal
+
+Responses 5
+
+//Ill help u!!
+Response_0_Quest 36601
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36601
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36601
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36602
+
+//Complete Quest
+Response_1_Quest 36601
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 36601
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Dialogue 36605
+
+
+//Still looking for it...
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 36601
+Response_2_Condition_0_Status Active
+Response_2_Condition_0_Logic Equal
+
+//Vendor
+Response_3_Conditions 1	
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 36601
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Equal
+Response_3_Vendor 36606

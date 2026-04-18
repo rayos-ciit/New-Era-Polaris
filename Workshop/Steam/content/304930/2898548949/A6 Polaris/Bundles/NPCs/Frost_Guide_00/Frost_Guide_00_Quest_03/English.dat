@@ -1,0 +1,8 @@
+Name <color=#d2bf22>Adventurer IV</color>
+Description Kill <color=#64c819>30</color> zombies in the <color=#64c819>Deadzone</color>.<br>These specimens are quite tough but hold very precious items that cannot be found elsewhere.
+
+Condition_0 {0}/{1} Zombies
+
+Reward_1 <color=#c832fa>M349 "Penumbra"</color> Skin Recipe Unlocked
+Reward_3 Safezone Crafting Station Unlocked
+Reward_9 +1 ATM Point

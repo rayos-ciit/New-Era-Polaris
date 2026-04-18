@@ -1,0 +1,32 @@
+GUID bb5a335f089c453080c37d193df4cb80
+
+Type Medical
+Useable Consumeable
+ID 36045
+
+Aid
+Bleeding
+Health 5
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36361
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Craft Bandage
+Action_0_Tooltip ▲Upgrade to Bandage
+
+Action_1_Type Blueprint
+Action_1_Source 36088
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text ▲Compress
+Action_1_Tooltip ▲Turn 4 cloth into rope
+
+Action_2_Type Blueprint
+Action_2_Source 36119
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 0
+Action_2_Key Craft_Seed
+
+ConsumeAudioClip core.masterbundle:Items/Medical/Dressing/Use.mp3

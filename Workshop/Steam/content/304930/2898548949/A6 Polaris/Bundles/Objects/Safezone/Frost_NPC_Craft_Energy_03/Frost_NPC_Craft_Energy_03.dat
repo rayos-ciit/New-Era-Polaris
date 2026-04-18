@@ -1,0 +1,11 @@
+GUID 16a47c7eacd74d31b2d58f3277ec743e
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36022
+Condition_0_Value 4
+Condition_0_Logic Equal

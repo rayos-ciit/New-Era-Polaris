@@ -1,0 +1,50 @@
+GUID 82f3edec94fa4bccb9bbaaebd58bf000
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 4
+Condition_0_Type Flag_Bool
+Condition_0_ID 36269
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Condition_1_Type Compare_Flags
+Condition_1_A_ID 36264
+Condition_1_B_ID 36266
+Condition_1_Logic Equal
+
+Condition_2_Type Compare_Flags
+Condition_2_A_ID 36266
+Condition_2_B_ID 36267
+Condition_2_Logic Equal
+
+Condition_3_Type Compare_Flags
+Condition_3_A_ID 36267
+Condition_3_B_ID 36268
+Condition_3_Logic Equal
+
+Condition_4_Type Compare_Flags
+Condition_4_A_ID 36268
+Condition_4_B_ID 36264
+Condition_4_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36269
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 36104
+Interactability_Reward_1_Amount 1
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36172
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
+
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Reward_Currency_Instant

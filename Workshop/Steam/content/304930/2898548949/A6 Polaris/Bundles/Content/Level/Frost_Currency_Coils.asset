@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "45008b35d8184e338d756c6f1b2a0813"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0}x Copper Coils"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "4d68c01415d9432e8ef66630578f15cf"
+			}
+			"Value" "1"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+GUID 398faadc522e48e7b44c0ee6b0d01478
+
+Type Dialogue
+ID 36557
+
+Messages 1
+Message_0_Pages 8
+
+Responses 2
+
+Response_0_Quest 36386
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36386
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36386
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36387

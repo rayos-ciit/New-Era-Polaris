@@ -1,0 +1,18 @@
+GUID 9845ff27d42741cb81adacb1dfd77f23
+
+Type Large
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36377
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Tank_00

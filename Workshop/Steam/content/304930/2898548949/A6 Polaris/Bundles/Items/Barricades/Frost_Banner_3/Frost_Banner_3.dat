@@ -1,0 +1,64 @@
+GUID 0fa091d4bcfe4e4a9b142dde3ec25530
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Claim
+ID 36345
+
+Size_X 2
+Size_Y 3
+
+Health 600
+Range 4
+Radius 0.75
+Offset 0.9
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Blueprints 4
+
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 36338
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 36196
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Build 27
+
+Blueprint_2_Type Barricade
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36343
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 36196
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+
+Blueprint_3_Type Barricade
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36344
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_Build 27
+
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36346
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 36196
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27

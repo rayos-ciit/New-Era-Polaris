@@ -1,0 +1,37 @@
+GUID aa861226992c4683a35d1d20dd542732
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Epic
+ID 36025
+Can_Steal_Battery False
+Speed_Min -2
+Speed_Max 16
+
+Steer_Min 16
+Steer_Max 8
+
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 7.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+
+IgnitionAudioClip core.masterbundle:Sounds/CarIgnition.mp3
+
+Drops_Table_ID 36123
+Drops_Min 4
+Drops_Max 6

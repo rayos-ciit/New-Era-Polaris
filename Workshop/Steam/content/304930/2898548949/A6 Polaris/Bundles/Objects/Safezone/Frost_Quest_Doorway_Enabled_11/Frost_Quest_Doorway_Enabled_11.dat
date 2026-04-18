@@ -1,0 +1,15 @@
+GUID c23a61a37f684f058fbc735765e3b856
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36367
+Condition_0_Value 0
+Condition_0_Logic Less_Than_Or_Equal_To
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Quest_Doorway_Enabled

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HardcoreDurabilityConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnableCrateDegradation>true</EnableCrateDegradation>
+  <CrateMinQuality>5</CrateMinQuality>
+  <CrateMaxQuality>75</CrateMaxQuality>
+  <EnableWeaponDegradation>true</EnableWeaponDegradation>
+  <WeaponDegradationMultiplier>5.5</WeaponDegradationMultiplier>
+  <EnableClothingDegradation>true</EnableClothingDegradation>
+  <ClothingDegradationMultiplier>5.5</ClothingDegradationMultiplier>
+</HardcoreDurabilityConfiguration>

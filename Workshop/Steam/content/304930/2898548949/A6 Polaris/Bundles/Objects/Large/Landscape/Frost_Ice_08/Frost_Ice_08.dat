@@ -1,0 +1,16 @@
+GUID 4cc271d358564374958d9c0ca8c74f75
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 65000
+Rubble_Reward_XP 20
+BladeID 2
+
+Soft
+Chart Ground
+Allow_Structures
+Bundle_Override_Path /Objects/Large/Landscape/Frost_Ice_02

@@ -1,0 +1,46 @@
+GUID c17705d84eef4b07bde5573e29c83571
+
+Type Charge
+Rarity Legendary
+Useable Barricade
+Has_Clip_Prefab false
+Build Charge
+ID 36369
+
+Health 1
+Range 7
+Offset 0.06
+
+Player_Damage 200
+Zombie_Damage 960
+Animal_Damage 320
+Barricade_Damage 650
+Structure_Damage 650
+Vehicle_Damage 1500
+Resource_Damage 3500
+Object_Damage 2500
+
+Range2 7
+Explosion2 36032
+
+PlacementAudioClip core.masterbundle:Items/Barricades/Charge_Precision/Use.mp3
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 36092
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36370
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 36412
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 36284
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32

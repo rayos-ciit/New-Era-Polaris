@@ -1,0 +1,117 @@
+GUID 8d46a3977f854e77904da43fcf92447e
+
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Any
+ID 36331
+
+Size_X 3
+Size_Y 2
+
+Barrel 36332
+Magazine 36334
+
+Hook_Sight
+Hook_Grip
+Hook_Tactical
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 36006
+
+Attachment_Calibers 1
+Attachment_Caliber_0 36013
+
+Firerate 1
+Replace 0.4
+Action String
+
+Player_Damage 61
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 130
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 7
+Structure_Damage 7
+Vehicle_Damage 25
+Resource_Damage 20
+Object_Damage 30
+
+Durability 0.1
+
+Spread_Aim 0.001
+Spread_Hip 0.2
+
+Range 400
+Ballistic_Steps 160
+Ballistic_Travel 2.5
+Ballistic_Drop 0.0025
+Damage_Falloff_Range 0
+Damage_Falloff_Multiplier 0
+
+Recoil_Min_X -0.5
+Recoil_Min_Y 0.15
+Recoil_Max_X 0.5
+Recoil_Max_Y 0.14
+
+Recover_X 0.5
+Recover_Y 50
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supply_0_ID 36331
+Blueprint_2_Build 27
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 36011
+Blueprint_2_Output_0_Amount 2
+
+Blueprint_2_Conditions 1
+Blueprint_2_Condition_0_Type Flag_Short
+Blueprint_2_Condition_0_ID 36011
+Blueprint_2_Condition_0_Value 0
+Blueprint_2_Condition_0_Logic Equal
+Blueprint_2_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36331
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36011
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

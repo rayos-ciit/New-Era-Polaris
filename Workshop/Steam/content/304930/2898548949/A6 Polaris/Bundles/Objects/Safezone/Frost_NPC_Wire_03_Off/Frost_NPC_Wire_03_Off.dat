@@ -1,0 +1,26 @@
+GUID 5ff500058fc84fecb074b2c3c01b5563
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 36436
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+Condition_1_Type Flag_Bool
+Condition_1_ID 36435
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36436
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Wire_01_Off

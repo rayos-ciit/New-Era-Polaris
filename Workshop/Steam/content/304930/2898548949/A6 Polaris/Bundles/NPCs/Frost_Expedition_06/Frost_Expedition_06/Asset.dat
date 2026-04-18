@@ -1,0 +1,20 @@
+GUID 4a14caf613614dddaa6f0bf95e070b71
+
+Type NPC
+ID 36538
+
+Face 5
+Hair 3
+Beard 2
+Color_Skin #9D886B
+Color_Hair #B9B9B9
+
+Backpack 36159
+Shirt 36154
+Pants 36193
+Vest 36530
+Hat 36218
+
+Secondary 36568
+
+Dialogue 36539

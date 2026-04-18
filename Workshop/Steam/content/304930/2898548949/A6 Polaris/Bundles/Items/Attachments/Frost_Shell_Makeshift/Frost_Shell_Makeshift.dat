@@ -1,0 +1,30 @@
+GUID b3f0f876b292487d89312b5a114b36fa
+
+Type Magazine
+Rarity Rare
+ID 36526
+
+
+
+
+Amount 4
+Count_Min 4
+Count_Max 4
+
+Calibers 1
+Caliber_0 36003
+
+Pellets 8
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36526
+Blueprint_0_Build 30
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Delete_Empty

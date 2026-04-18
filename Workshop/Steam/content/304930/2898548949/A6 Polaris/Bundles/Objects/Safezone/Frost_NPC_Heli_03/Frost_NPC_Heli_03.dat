@@ -1,0 +1,14 @@
+GUID dffc0a9ed2bc484093617e5f4894ecc3
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36366
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Heli_02

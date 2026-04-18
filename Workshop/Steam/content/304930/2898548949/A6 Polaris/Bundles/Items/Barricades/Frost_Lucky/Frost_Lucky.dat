@@ -1,0 +1,26 @@
+GUID d9e465a6241e4acca2a41c2d032d3de7
+
+Type Farm
+Useable Barricade
+Has_Clip_Prefab false
+Build Farm
+ID 36523
+
+
+
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.375
+
+Growth 0
+Grow_SpawnTable fb90ace4983a4650a77a25fd8f74e83e
+
+Explosion 43
+Ignore_Soil_Restrictions
+Allow_Fertilizer False
+
+PlacementAudioClip core.masterbundle:Sounds/FoliagePlacement.mp3
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Barricades/Frost_Wheat_Seed

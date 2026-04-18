@@ -1,0 +1,77 @@
+GUID dc694a1da8504f79933c0b2b89b77afc
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 36042
+
+Quality_Min 0
+Quality_Max 50
+
+Size_X 2
+Size_Y 2
+
+Width 6
+Height 4
+
+Armor 0.8
+
+Actions 4
+Action_0_Type Blueprint
+Action_0_Source 36162
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 3
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade clothing using bevlar
+
+Action_1_Type Blueprint
+Action_1_Source 36042
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36042
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage
+
+Action_3_Type Blueprint
+Action_3_Source 36042
+Action_3_Blueprints 1
+Action_3_Blueprint_0_Index 2
+Action_3_Key Repair
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36042
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36042
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 32

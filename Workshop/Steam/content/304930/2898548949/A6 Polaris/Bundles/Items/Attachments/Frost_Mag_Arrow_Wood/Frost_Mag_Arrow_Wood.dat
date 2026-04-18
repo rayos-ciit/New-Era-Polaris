@@ -1,0 +1,35 @@
+GUID 90d83250b6d24ea1803f071df16eb8b7
+
+Type Magazine
+ID 36333
+
+
+
+Size_Z 0.2
+Use_Auto_Icon_Measurements False
+
+Amount 1
+
+Tracer 48
+
+Calibers 1
+Caliber_0 36006
+
+Speed 1.4
+
+Ballistic_Damage_Multiplier 1
+
+Stuck 5
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36011
+Blueprint_0_Products 5
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 36016
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27

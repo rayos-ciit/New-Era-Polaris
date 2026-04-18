@@ -1,0 +1,34 @@
+GUID 46db2f7812e04ebc843d919126c99e2c
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Shutter
+ID 36503
+
+Health 1200
+Range 4
+Radius 1
+
+Locked
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36504
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade using armored plates

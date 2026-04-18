@@ -1,0 +1,20 @@
+GUID 8ce2527ff8bd4613bfadb8f1404982d6
+
+Type Food
+Useable Consumeable
+ID 36080
+
+Food 20
+Virus 5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Beef_Raw
+ConsumeAudioClip Sounds/EatCrunchy.mp3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36081
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Cook
+Action_0_Tooltip ▲Cook raw meat

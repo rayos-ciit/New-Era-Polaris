@@ -1,0 +1,17 @@
+GUID 36ef79b2bc6c4a25b9e898bbcd5b7ecc
+Type Spawn
+ID 36087
+
+Tables 6
+Table_0_Asset_ID 36011
+Table_0_Weight 100
+Table_1_Asset_ID 36016
+Table_1_Weight 100
+Table_2_Asset_ID 36045
+Table_2_Weight 100
+Table_3_Asset_ID 36284
+Table_3_Weight 50
+Table_4_Asset_ID 36358
+Table_4_Weight 50
+Table_5_Asset_ID 36399
+Table_5_Weight 10

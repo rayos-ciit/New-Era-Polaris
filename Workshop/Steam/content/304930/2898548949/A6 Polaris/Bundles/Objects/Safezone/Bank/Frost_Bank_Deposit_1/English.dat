@@ -1,0 +1,4 @@
+Name Frost Bank [Deposit 1]
+
+Interact Deposit <color=#64c819>金1</color> Quid[{0}]
+Interactability_Condition_1 Max Capacity Reached

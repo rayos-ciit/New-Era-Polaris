@@ -1,0 +1,22 @@
+GUID 25a64a2e5a474c4bbfd889ddb8709f0c
+
+Type Food
+Useable Consumeable
+ID 36414
+
+Shared_Skin_Lookup_ID 13
+
+
+
+
+Food 40
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Canned_Beans
+ConsumeAudioClip Sounds/EatCrunchy.mp3

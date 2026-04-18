@@ -1,0 +1,19 @@
+GUID 7b1410a9f68f4c9c8afd0d26e4a97254
+
+Type Resource
+Has_Clip_Prefab false
+ID 36030
+
+Health 1200
+Radius 5
+Scale 0.175
+
+Explosion 40
+Reward_ID 36002
+Reward_XP 2
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+BladeID 36

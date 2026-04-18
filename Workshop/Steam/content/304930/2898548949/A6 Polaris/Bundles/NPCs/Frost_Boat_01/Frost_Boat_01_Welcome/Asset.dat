@@ -1,0 +1,20 @@
+GUID 8e2f84bfa87b4394b4e113ceb0bc79d9
+
+Type Dialogue
+ID 36003
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+//Boat0
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Boat1
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Teleport
+Response_1_Reward_0_Spawnpoint Boat2

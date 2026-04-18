@@ -1,0 +1,17 @@
+GUID 4a92faded36c47baa24e0a31a2c090b9
+
+Type NPC
+ID 36073
+
+Face 9
+Hair 0
+Beard 1
+Color_Skin #9D886B
+Color_Hair #373737
+
+Shirt 674
+Hat 36109
+Pants 36309
+Glasses 36051
+
+Dialogue 36074

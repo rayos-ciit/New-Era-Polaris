@@ -1,0 +1,8 @@
+GUID 9605d715c75e4b408932aa8b6045a295
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Door_00

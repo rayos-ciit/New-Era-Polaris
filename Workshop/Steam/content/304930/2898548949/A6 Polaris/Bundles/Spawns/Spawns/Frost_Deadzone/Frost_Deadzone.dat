@@ -1,0 +1,11 @@
+GUID 7f39d35f198d49319bec62de2e51eb76
+Type Spawn
+ID 36025
+
+Tables 3
+Table_0_Spawn_ID 36033
+Table_0_Weight 600
+Table_1_Spawn_ID 36132
+Table_1_Weight 150
+Table_2_Asset_ID 36617
+Table_2_Weight 2

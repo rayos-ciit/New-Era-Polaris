@@ -1,0 +1,16 @@
+GUID b5cc8e6c67454b10a478300a72f6f53a
+
+Type Dialogue
+ID 36492
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Safezone
+
+Response_1_Dialogue 36493

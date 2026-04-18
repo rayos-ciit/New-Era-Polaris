@@ -1,0 +1,23 @@
+GUID 4d68c01415d9432e8ef66630578f15cf
+
+Type Supply
+Rarity Rare
+ID 36009
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36009 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36010
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Compress
+Action_0_Tooltip ▲Turn 4 Coils into a Coil Bundle

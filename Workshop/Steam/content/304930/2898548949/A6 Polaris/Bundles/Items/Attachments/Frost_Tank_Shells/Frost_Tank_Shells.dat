@@ -1,0 +1,50 @@
+GUID 1cfca0973b314b51a5230e6d8b7e80ce
+
+Type Magazine
+Rarity Legendary
+ID 36014
+
+Delete_Empty
+
+Size_X 2
+Size_Y 2
+Calibers 1
+Caliber_0 36001
+Tracer 36004
+Explosion 36007
+Explosive
+
+Amount 5
+Count_Min 5
+Count_Max 5
+
+//stats split 50/50 with non-explosion
+Range 8
+Player_Damage 50
+Zombie_Damage 240
+Animal_Damage 80
+Barricade_Damage 120
+Structure_Damage 120
+Vehicle_Damage 300
+Resource_Damage 350
+Object_Damage 250
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36014
+Blueprint_0_Build 30
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 36092
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 36370
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 36412
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Supply_3_ID 36284
+Blueprint_1_Supply_3_Amount 2
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

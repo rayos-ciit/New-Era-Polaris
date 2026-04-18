@@ -1,0 +1,53 @@
+GUID 435d45dee8074c1c91a047f39f0a8cca
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36398
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 9
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Helipad
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 36457
+Interactability_Reward_1_Value True
+
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 36364
+Interactability_Reward_2_Value True
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 36371
+Interactability_Reward_3_Value 2
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 36396
+Interactability_Reward_4_Value 1
+Interactability_Reward_4_Modification Assign
+
+Interactability_Reward_5_Type Flag_Short
+Interactability_Reward_5_ID 36366
+Interactability_Reward_5_Value 1
+Interactability_Reward_5_Modification Assign
+
+Interactability_Reward_6_Type Flag_Bool
+Interactability_Reward_6_ID 36379
+Interactability_Reward_6_Value True
+
+Interactability_Reward_7_Type Flag_Bool
+Interactability_Reward_7_ID 36381
+Interactability_Reward_7_Value True
+
+Interactability_Reward_8_Type Flag_Bool
+Interactability_Reward_8_ID 36398
+Interactability_Reward_8_Value True
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Heli_00

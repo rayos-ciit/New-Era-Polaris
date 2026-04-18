@@ -1,0 +1,49 @@
+GUID 0f409fc0318b4823980e0d097cc65e7b
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 6
+Condition_0_Type Flag_Bool
+Condition_0_ID 36364
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 36363
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Condition_2_Type Flag_Bool
+Condition_2_ID 36359
+Condition_2_Value True
+Condition_2_Logic Equal
+
+Condition_3_Type Flag_Bool
+Condition_3_ID 36356
+Condition_3_Value True
+Condition_3_Logic Equal
+
+Condition_4_Type Flag_Bool
+Condition_4_ID 36352
+Condition_4_Value True
+Condition_4_Logic Equal
+
+Condition_5_Type Flag_Bool
+Condition_5_ID 36350
+Condition_5_Value True
+Condition_5_Logic Equal
+
+
+//next
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36364
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Drill_Button_Drill_00

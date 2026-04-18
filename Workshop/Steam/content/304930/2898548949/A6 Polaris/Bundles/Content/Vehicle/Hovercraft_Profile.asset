@@ -1,0 +1,12 @@
+"Metadata"
+{
+    "GUID" "d52e54738b3c41209b02ad8f10f210d5"
+    "Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Wheel_Suspension_Damper" "10",
+	"Wheel_Drive_Model" "All",
+	"Wheel_Damping_Rate" "0.7",
+	"Carjack_Force_Multiplier" "5"
+}

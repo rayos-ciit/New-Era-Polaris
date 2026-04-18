@@ -1,0 +1,38 @@
+GUID 0cdc22348c8d48c398c049ab78b83310
+
+Type Small
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36400
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 5
+
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36400
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 36377
+Interactability_Reward_1_Value True
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 36377
+Interactability_Reward_2_Value False
+
+//INCREASES TANKS DESTROYED
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 36535
+Interactability_Reward_3_Value 1
+Interactability_Reward_3_Modification Increment
+
+Interactability_Reward_4_Type Achievement
+Interactability_Reward_4_ID Frost_Expedition

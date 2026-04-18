@@ -1,0 +1,52 @@
+GUID 6910fb31d36d4037b5ff695dae352246
+
+Type Dialogue
+ID 36061
+
+Messages 2
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 36062
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 36062
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+
+Responses 4
+
+Response_0_Quest 36062
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36062
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36062
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36063
+
+//Complete Quest
+Response_1_Quest 36062
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 36062
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Dialogue 36064
+
+//Venodor
+Response_2_Conditions 1	
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 36062
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Logic Equal
+//TRADE
+Response_2_Vendor 36065

@@ -1,0 +1,25 @@
+GUID 8f2da417d3d94006a41781b20e6c2a69
+
+Type Grip
+Rarity Uncommon
+ID 36127
+
+Size_X 3
+
+
+Recoil_X 0.5
+Recoil_Y 0.5
+
+Calibers 1
+Caliber_0 36012
+
+Spread 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36127
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36016
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

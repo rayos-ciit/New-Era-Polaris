@@ -1,0 +1,13 @@
+GUID d89fe2b182f346f9bb10b17eb95d7e3a
+
+Type Vest
+Useable Clothing
+ID 36635
+
+Armor_Explosion 0
+
+Width 5
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Vest_Powerplant

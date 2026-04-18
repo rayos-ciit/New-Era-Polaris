@@ -1,0 +1,20 @@
+GUID 0c1d61bf888847d380803d2ee66551bb
+
+Type Dialogue
+ID 36388
+
+Messages 1
+Message_0_Pages 3
+
+Responses 2
+
+Response_0_Quest 36554
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36554
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36554
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36559

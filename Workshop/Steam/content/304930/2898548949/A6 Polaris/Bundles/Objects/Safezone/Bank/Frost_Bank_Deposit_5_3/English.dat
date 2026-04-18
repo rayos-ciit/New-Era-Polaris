@@ -1,0 +1,4 @@
+Name Frost Bank [Deposit 5 #4]
+
+Interact Deposit <color=#64c819>金5</color>[{0}]
+Interactability_Condition_1 Max Capacity Reached

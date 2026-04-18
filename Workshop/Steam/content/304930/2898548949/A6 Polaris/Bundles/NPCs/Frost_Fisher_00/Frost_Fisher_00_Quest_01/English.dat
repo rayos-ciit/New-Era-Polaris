@@ -1,0 +1,6 @@
+Name <color=#d2bf22>Fisher II</color>
+Description Fish can be turned into <color=#ffffff>Raw Fish Meat</color> and then cooked. I love eating it raw but my MOMMY always yells at me if I do that! I don't know what her problem is...
+
+Condition_0 {0}/{1} Cooked Fish Crafted
+
+Reward_2 +1 ATM Point

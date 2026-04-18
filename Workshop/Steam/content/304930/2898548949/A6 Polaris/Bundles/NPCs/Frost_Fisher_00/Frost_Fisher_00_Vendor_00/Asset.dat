@@ -1,0 +1,32 @@
+GUID cef7eb6bfae7452fb195044eb3427b1a
+
+Type Vendor
+ID 36115
+
+Buying 9
+Buying_0_ID 36074
+Buying_0_Cost 5
+Buying_1_ID 36073
+Buying_1_Cost 5
+Buying_2_ID 36075
+Buying_2_Cost 10
+Buying_3_ID 36069
+Buying_3_Cost 20
+Buying_4_ID 36076
+Buying_4_Cost 40
+Buying_5_ID 36070
+Buying_5_Cost 70
+Buying_6_ID 36071
+Buying_6_Cost 200
+Buying_7_ID 36072
+Buying_7_Cost 400
+Buying_8_ID 36068
+Buying_8_Cost 700
+
+Selling 1
+Selling_0_ID 36035
+Selling_0_Cost 150
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

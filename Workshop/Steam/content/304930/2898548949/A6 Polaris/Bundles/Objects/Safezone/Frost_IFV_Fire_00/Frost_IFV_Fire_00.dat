@@ -1,0 +1,34 @@
+GUID 160e5c5a1a794ec199b58798ceb525b3
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36398
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Conditions 2
+Interactability_Effect 7
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36381
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 36398
+Interactability_Condition_1_Value False
+Interactability_Condition_1_Logic Equal
+Interactability_Condition_1_Allow_Unset
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36398
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_IFV_Fire_00

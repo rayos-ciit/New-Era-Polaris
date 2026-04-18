@@ -1,0 +1,46 @@
+GUID 9a2db37775604f559a11d5fd2d7cf558
+
+Type Magazine
+Rarity Rare
+ID 36527
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 36003
+
+Pellets 1
+
+Tracer 36019
+
+Spread 0
+
+Range 6
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion_Launch_Speed 38
+Explosion 36020
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36527
+Blueprint_0_Build 30
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+
+Ballistic_Damage_Multiplier 3
+
+Delete_Empty

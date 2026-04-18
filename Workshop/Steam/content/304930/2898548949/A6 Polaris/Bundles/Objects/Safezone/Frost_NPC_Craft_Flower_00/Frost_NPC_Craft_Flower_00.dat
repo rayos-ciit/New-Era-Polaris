@@ -1,0 +1,14 @@
+GUID 496058a9d16e4253a9630e799c82c057
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36018
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Craft_Flower

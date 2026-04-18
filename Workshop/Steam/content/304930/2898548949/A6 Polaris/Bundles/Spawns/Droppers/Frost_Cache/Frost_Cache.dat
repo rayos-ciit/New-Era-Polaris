@@ -1,0 +1,27 @@
+GUID f424378246af4bf8bdd4077b51cdd474
+Type Spawn
+ID 36014
+
+Tables 11
+Table_0_Spawn_ID 36073
+Table_0_Weight 1500
+Table_1_Spawn_ID 36025
+Table_1_Weight 1500
+Table_2_Asset_ID 36009
+Table_2_Weight 200
+Table_3_Asset_ID 36015
+Table_3_Weight 200
+Table_4_Asset_ID 36017
+Table_4_Weight 200
+Table_5_Asset_ID 36355
+Table_5_Weight 200
+Table_6_Asset_ID 36104
+Table_6_Weight 200
+Table_7_Asset_ID 36085
+Table_7_Weight 200
+Table_8_Asset_ID 36412
+Table_8_Weight 200
+Table_9_Asset_ID 36403
+Table_9_Weight 10
+Table_10_Asset_ID 36010
+Table_10_Weight 5

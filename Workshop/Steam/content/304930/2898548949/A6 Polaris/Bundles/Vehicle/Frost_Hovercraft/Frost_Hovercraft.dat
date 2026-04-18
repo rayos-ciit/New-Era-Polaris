@@ -1,0 +1,39 @@
+GUID b558ff8b434147509a55b891c58f6307
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Epic
+ID 36030
+Can_Steal_Battery False
+Speed_Min -26
+Speed_Max 38
+Steer_Min 22
+Steer_Max 46
+Brake 64
+
+Physics_Profile 3e927d82f7f54282bb43afd62e036225
+Wheel_Collider_Mass_Override 5
+
+Fuel_Min 500
+Fuel_Max 1000
+Fuel 2000
+Health_Min 500
+Health_Max 1500
+Health 2000
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 12	
+
+Exit 4
+Cam_Follow_Distance 10
+Tires_Invulnerable
+Bumper_Multiplier 4
+Bumper_Invulnerable
+Environment_Invulnerable
+Explosion 20
+IgnitionAudioClip core.masterbundle:Sounds/CarIgnition.mp3
+HornAudioClip core.masterbundle:Sounds/CarHorn_03.mp3
+
+Drops_Table_ID 36123
+Drops_Min 4
+Drops_Max 6

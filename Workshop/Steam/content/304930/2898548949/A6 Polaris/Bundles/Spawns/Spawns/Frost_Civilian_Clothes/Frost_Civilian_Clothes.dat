@@ -1,0 +1,17 @@
+GUID 28209ca5d1a842ea97f56eb1fb733a4d
+Type Spawn
+ID 36054
+
+Tables 6
+Table_0_Spawn_ID 36057
+Table_0_Weight 100
+Table_1_Spawn_ID 36058
+Table_1_Weight 100
+Table_2_Spawn_ID 36060
+Table_2_Weight 100
+Table_3_Spawn_ID 36062
+Table_3_Weight 50
+Table_4_Spawn_ID 36059
+Table_4_Weight 25
+Table_5_Spawn_ID 36061
+Table_5_Weight 5

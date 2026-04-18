@@ -1,0 +1,136 @@
+"Metadata"
+{
+	"GUID" "f30a01005f0b42baacd78f2d3002bfd2"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Component_Type" "SDG.Unturned.LegacyRainComponent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+	"Volume_Mask" "1"
+	"Fade_In_Duration" "25.0"
+	"Fade_Out_Duration" "25.0"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Override_Cloud_Colors" "true"
+	"Shadow_Strength_Multiplier" "0.15"
+	"Fog_Blend_Exponent" "1.25"
+	"Cloud_Blend_Exponent" "0.5"
+	"Wind_Main" "0.5"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+			"R" "100"
+			"G" "100"
+			"B" "100"
+		}
+		"Fog_Density" "1"
+		"Cloud_Color"
+		{
+			"R" "15"
+			"G" "15"
+			"B" "15"
+		}
+		"Cloud_Rim_Color"
+		{
+			"Level_Enum" "Clouds"
+			"R" "30"
+			"G" "30"
+			"B" "30"
+		}
+		"Brightness_Multiplier" "0.55"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+			"R" "150"
+			"G" "135"
+			"B" "135"
+		}
+		"Fog_Density" "1"
+		"Cloud_Color"
+		{
+			"R" "15"
+			"G" "15"
+			"B" "15"
+		}
+		"Cloud_Rim_Color"
+		{
+			"Level_Enum" "Clouds"
+			"R" "30"
+			"G" "30"
+			"B" "30"
+		}
+		"Brightness_Multiplier" "0.55"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+			"R" "100"
+			"G" "100"
+			"B" "100"
+		}
+		"Fog_Density" "1"
+		"Cloud_Color"
+		{
+			"R" "15"
+			"G" "15"
+			"B" "15"
+		}
+		"Cloud_Rim_Color"
+		{
+			"Level_Enum" "Clouds"
+			"R" "30"
+			"G" "30"
+			"B" "30"
+		}
+		"Brightness_Multiplier" "0.55"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+			"R" "100"
+			"G" "100"
+			"B" "100"
+		}
+		"Fog_Density" "1"
+		"Cloud_Color"
+		{
+			"R" "15"
+			"G" "15"
+			"B" "15"
+		}
+		"Cloud_Rim_Color"
+		{
+			"Level_Enum" "Clouds"
+			"R" "30"
+			"G" "30"
+			"B" "30"
+		}
+		"Brightness_Multiplier" "0.75"
+	}
+	"Effects"
+	[
+		{
+			"Prefab"{
+				"MasterBundle" "core.masterbundle"
+				"AssetPath" "Effects/Weather/DefaultRainParticles.prefab"
+			}
+			"Emission_Exponent" "2.0"
+			"Pitch" "75.0"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+	]
+	"Ambient_Audio_Clip"{
+		"MasterBundle" "core.masterbundle"
+		"AssetPath" "Effects/Weather/DefaultRainAmbience.ogg"
+	}
+}

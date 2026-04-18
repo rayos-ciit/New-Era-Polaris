@@ -1,0 +1,9 @@
+GUID e41a8ec73d7b47049f7e9edc4c4a2d0d
+Type Spawn
+ID 36111
+
+Tables 2
+Table_0_Asset_ID 36568
+Table_0_Weight 70
+Table_1_Asset_ID 36566
+Table_1_Weight 30

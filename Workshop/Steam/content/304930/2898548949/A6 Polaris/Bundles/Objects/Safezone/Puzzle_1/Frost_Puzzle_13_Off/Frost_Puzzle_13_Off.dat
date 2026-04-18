@@ -1,0 +1,57 @@
+GUID 5cabbe4e18d146f5a4903e91731ff5c8
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 2
+//State
+Condition_0_Type Flag_Short
+Condition_0_ID 36301
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//Start
+Condition_1_Type Flag_Short
+Condition_1_ID 36283
+Condition_1_Value 2
+Condition_1_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 6
+
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36301
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 36301
+Interactability_Reward_1_B_Value 2
+Interactability_Reward_1_Operation Modulo
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36300
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
+
+Interactability_Reward_3_Type Flag_Math
+Interactability_Reward_3_A_ID 36300
+Interactability_Reward_3_B_Value 2
+Interactability_Reward_3_Operation Modulo
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 36298
+Interactability_Reward_4_Value 1
+Interactability_Reward_4_Modification Increment
+
+Interactability_Reward_5_Type Flag_Math
+Interactability_Reward_5_A_ID 36298
+Interactability_Reward_5_B_Value 2
+Interactability_Reward_5_Operation Modulo
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Puzzle_00_Off

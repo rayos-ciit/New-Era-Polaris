@@ -1,0 +1,45 @@
+GUID 49b0da8ba2244c4ba2498502acd3956b
+
+Type Structure
+Rarity Rare
+Useable Structure
+Has_Clip_Prefab false
+Construct Post
+ID 36242
+
+
+
+
+Health 300
+Range 8
+
+Explosion 29
+
+Blueprints 2
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36242
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Structure
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36220
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36242
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36220
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text ▲Craft Pillar
+Action_0_Tooltip ▲Combine 2 posts into a pillar
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

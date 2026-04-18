@@ -1,0 +1,8 @@
+GUID 67bcaa7711874f2dafb292f3abbd5527
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Puzzle_Board_00

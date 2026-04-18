@@ -1,0 +1,31 @@
+GUID 947bfb6fae584450abe7a40fe29af972
+
+Type Medical
+Useable Consumeable
+ID 36011
+
+Aid
+Broken
+
+Actions 3
+
+Action_0_Type Blueprint
+Action_0_Source 36357
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Craft Splint
+Action_0_Tooltip ▲Craft Splint
+
+Action_1_Type Blueprint
+Action_1_Source 36355
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text ▲Compress
+Action_1_Tooltip ▲Turn 4 scrap metal into a metal sheet
+
+Action_2_Type Blueprint
+Action_2_Source 36527
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Text ▲Craft Flare
+Action_2_Tooltip ▲Turn 1 scrap metal into a flare

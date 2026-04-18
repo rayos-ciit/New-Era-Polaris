@@ -1,0 +1,38 @@
+GUID 77897b362ad547c7bdf93e4f1fe61267
+
+Type Magazine
+Rarity Epic
+ID 36131
+
+
+Size_Y 2
+
+Amount 16
+Count_Min 14
+Count_Max 16
+
+Calibers 1
+Caliber_0 36002
+
+Tracer 36001
+
+Speed 0.9
+
+Blueprints 4
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36130
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36131
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36329
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 36330
+Blueprint_3_Build 30

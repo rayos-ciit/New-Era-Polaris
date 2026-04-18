@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+    <Group>
+      <Id>default</Id>
+      <DisplayName>Guest</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>white</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">tpa</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">homes</Permission>
+        <Permission Cooldown="0">sethome</Permission>
+        <Permission Cooldown="0">destroyhome</Permission>
+        <Permission Cooldown="0">renamehome</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>admin</Id>
+      <DisplayName>Admin</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>red</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">*</Permission>
+      </Permissions>
+    </Group>
+  </Groups>
+</RocketPermissions>

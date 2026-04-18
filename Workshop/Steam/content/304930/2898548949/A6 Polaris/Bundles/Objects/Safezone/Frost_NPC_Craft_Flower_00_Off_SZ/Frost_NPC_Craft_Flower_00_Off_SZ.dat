@@ -1,0 +1,65 @@
+GUID 7c00de04725f48a2bd0c425da0d25ee0
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 5
+Condition_0_Type Flag_Bool
+Condition_0_ID 36018
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Condition_1_Type Flag_Short
+Condition_1_ID 36017
+Condition_1_Value 2
+Condition_1_Logic Less_Than
+Condition_1_Allow_Unset
+
+Condition_2_Type Flag_Bool
+Condition_2_ID 36021
+Condition_2_Value False
+Condition_2_Logic Equal
+Condition_2_Allow_Unset
+
+Condition_3_Type Flag_Short
+Condition_3_ID 36020
+Condition_3_Value 1
+Condition_3_Logic Not_Equal
+Condition_3_Allow_Unset
+
+Condition_4_Type Flag_Short
+Condition_4_ID 36022
+Condition_4_Value 0
+Condition_4_Logic Greater_Than
+
+
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 36015
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 36588
+Interactability_Condition_1_Value False
+Interactability_Condition_1_Logic Equal
+
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36018
+Interactability_Reward_0_Value True
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 36017
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Craft_Flower_Off

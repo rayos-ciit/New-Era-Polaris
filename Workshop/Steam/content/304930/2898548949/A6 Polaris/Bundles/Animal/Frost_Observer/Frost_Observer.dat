@@ -1,0 +1,24 @@
+GUID d2c923773e1444859bd2aa4ddb047503
+
+Type Animal
+ID 36000
+
+Speed_Run 0
+Speed_Walk 0
+
+Behaviour Offense
+
+Health 500
+Regen 0.2
+Damage 35
+
+Reward_ID 36003
+Reward_XP 10
+Reward_Min 1
+Reward_Max 1
+
+Horizontal_Attack_Range 8
+Horizontal_Vehicle_Attack_Range 8
+Vertical_Attack_Range 5
+
+Roars 1

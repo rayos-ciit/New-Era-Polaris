@@ -1,0 +1,17 @@
+GUID c361cb646c30448088ecbf847329390f
+Type Spawn
+ID 36046
+
+Tables 6
+Table_0_Spawn_ID 36049
+Table_0_Weight 300
+Table_1_Spawn_ID 36063
+Table_1_Weight 300
+Table_2_Spawn_ID 36041
+Table_2_Weight 300
+Table_3_Spawn_ID 36051
+Table_3_Weight 200
+Table_4_Spawn_ID 36050
+Table_4_Weight 100
+Table_5_Asset_ID 36612
+Table_5_Weight 1

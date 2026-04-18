@@ -1,0 +1,19 @@
+GUID 6bd0b78a977d4479837bc0f2713c57d5
+Type Spawn
+ID 36070
+
+Tables 7
+Table_0_Spawn_ID 36055
+Table_0_Weight 100
+Table_1_Spawn_ID 36064
+Table_1_Weight 20
+Table_2_Spawn_ID 36069
+Table_2_Weight 10
+Table_3_Spawn_ID 36068
+Table_3_Weight 10
+Table_4_Asset_ID 36363
+Table_4_Weight 5
+Table_5_Asset_ID 36077
+Table_5_Weight 5
+Table_6_Asset_ID 36179
+Table_6_Weight 1

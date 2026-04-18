@@ -1,0 +1,20 @@
+GUID bf7459b07b2346aa8bb58938873d1414
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 36099
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Width 5
+Height 3
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False

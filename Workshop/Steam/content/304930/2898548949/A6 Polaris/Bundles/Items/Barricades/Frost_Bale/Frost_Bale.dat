@@ -1,0 +1,44 @@
+GUID 0e829e605a9d4f5dbb110735c9448a0b
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+ID 36482
+
+Size_X 2
+Size_Y 2
+
+Health 100
+Range 4
+Radius 0.45
+Offset 0.525
+
+Explosion 75
+Vulnerable
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 36026
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36482
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36026
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36482
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text ▼Decompress
+Action_0_Tooltip ▼Turn hay bale into 10 wheat
+
+PlacementAudioClip core.masterbundle:Sounds/FoliagePlacement.mp3

@@ -1,0 +1,19 @@
+GUID fceb1cbdecb84b5e85051bdf0408e1d6
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 36418
+
+Quality_Min 50
+Quality_Max 100
+
+Food 80
+Water 90
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

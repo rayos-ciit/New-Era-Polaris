@@ -1,0 +1,66 @@
+GUID 5fda64eb7829432aa74f011ba77d6922
+
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 36162
+
+Size_X 2
+Size_Y 2
+
+Width 6
+Height 5
+
+Armor 0.7
+Armor_Explosion 0.45
+
+Blueprint_0_Supply_0_ID 36162
+Blueprint_1_Supply_0_ID 36162
+
+Blueprint_0_Output_0_Amount 3
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_3_Supply_0_ID 36042
+
+Blueprints 4
+Blueprint_0_Type Apparel
+Blueprint_0_Build 27
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_1_ID 36155
+Blueprint_0_Output_1_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Build 27
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_1_ID 36155
+Blueprint_1_Output_1_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Build 32
+
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 36155
+Blueprint_3_Supply_1_Amount 2
+Blueprint_3_Level 3
+Blueprint_3_Skill Craft
+Blueprint_3_Build 32

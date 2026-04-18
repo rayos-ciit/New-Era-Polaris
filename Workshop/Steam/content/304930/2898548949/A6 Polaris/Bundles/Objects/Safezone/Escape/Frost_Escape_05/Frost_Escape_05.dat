@@ -1,0 +1,14 @@
+GUID dfbd4f83c1934f35855e3058d4a3d3d2
+
+Type Large
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36400
+Condition_0_Value 4
+Condition_0_Logic Equal

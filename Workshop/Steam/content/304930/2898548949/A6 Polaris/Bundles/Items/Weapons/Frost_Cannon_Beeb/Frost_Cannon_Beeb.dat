@@ -1,0 +1,73 @@
+GUID 5017d1634a4442a68ce720494b1e4dc7
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 36089
+
+Sight 1301
+Magazine 36014
+Hook_Grip
+Hook_Tactical
+Grip 36520 
+
+Ammo_Min 255
+Ammo_Max 255
+
+Auto
+Bursts 250
+
+Hook_Sight
+
+Caliber 36001
+
+Range 750
+Firerate 17
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 40
+Resource_Damage 400
+Object_Damage 50
+
+Invulnerable
+
+Spread_Aim 0.025
+Spread_Hip 0.025
+
+Recoil_Min_X -0.2
+Recoil_Min_Y -0.2
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.2
+
+Recover_X 0
+Recover_Y 0
+
+Muzzle 4
+
+
+
+Reload_Time 2
+Turret
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Weapons/Frost_Cannon

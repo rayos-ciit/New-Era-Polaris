@@ -1,0 +1,4 @@
+Name Frost NPC Craft Flower #1 Off SZ
+
+Interact Place <color=rare>Flower</color> [{0}]
+Interactability_Condition_1 Safezone Radar Unlocked After <color=#d2bf22>Adventurer IV</color>

@@ -1,0 +1,48 @@
+GUID 150a3b81db2147b19d40ccfb4907831c
+
+Type Grip
+Rarity Rare
+ID 36128
+
+Size_X 3
+
+Equipable_Movement_Speed_Multiplier 1.2
+Aim_Duration_Multiplier 0.5
+
+Spread 0.4
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Calibers 1
+Caliber_0 36012
+
+Sway 0.1
+Shake 0.1
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36128
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36011
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36128
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36011
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

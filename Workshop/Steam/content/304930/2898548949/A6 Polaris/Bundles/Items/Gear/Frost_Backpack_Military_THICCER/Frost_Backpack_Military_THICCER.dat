@@ -1,0 +1,18 @@
+GUID 735a1fad314244b2b7abcbc4734dfd02
+
+Type Backpack
+Rarity Mythical
+Useable Clothing
+ID 36178
+
+Size_X 2
+Size_Y 3
+
+Quality_Min 100
+Quality_Max 100
+
+Width 8
+Height 40
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Backpack_Military_THICC

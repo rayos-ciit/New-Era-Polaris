@@ -1,0 +1,16 @@
+GUID b7dbc759c1b94640af43f41a9f68ae7d
+
+Type NPC
+ID 36138
+
+Face 7
+Hair 3
+Beard 0
+Color_Skin #332C25
+Color_Hair #C1C1C1
+
+Pants 1720
+Shirt 1724
+Vest 1629
+
+Dialogue 36139

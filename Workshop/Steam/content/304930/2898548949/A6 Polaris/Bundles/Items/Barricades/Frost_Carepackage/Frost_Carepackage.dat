@@ -1,0 +1,22 @@
+GUID 1b7d9482618940f3b694f326235eb87f
+Rarity Mythical
+Type Storage
+Build Storage
+ID 36095
+
+
+
+Size_Z 1
+
+Health 3000
+
+Storage_X 7
+Storage_Y 7
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+
+Should_Close_When_Outside_Range true

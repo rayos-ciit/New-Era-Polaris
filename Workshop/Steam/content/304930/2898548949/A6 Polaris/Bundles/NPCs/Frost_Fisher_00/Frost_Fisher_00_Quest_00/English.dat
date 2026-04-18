@@ -1,0 +1,6 @@
+Name <color=#d2bf22>Fisher I</color>
+Description Boats and piers are FILLED with fishing crates, you can WHACK them and pillage their contents. Don't worry about the repercussions of theft, it's always morrally correct to steal from unattended boxes.
+
+Condition_0 {0}/{1} Fishing Crates Opened
+
+Reward_3 +1 ATM Point

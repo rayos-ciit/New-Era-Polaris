@@ -1,0 +1,52 @@
+GUID b46175f179bf4482a90abbc5cea946fe
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 36562
+
+
+
+
+Quality_Min 100
+Quality_Max 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Flag_Short
+Quest_Reward_0_ID 36428
+Quest_Reward_0_Value 1
+Quest_Reward_0_Modification Assign
+
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Blueprint Learned
+Quest_Reward_1_Duration 5
+
+
+Blueprints 2
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36562
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36045
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36015
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36562
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36045
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36015
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

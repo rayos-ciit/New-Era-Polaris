@@ -1,0 +1,55 @@
+GUID bbdf0f984079410a93d39be395247a59
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+ID 36279
+
+Size_X 2
+Size_Y 2
+
+Health 250
+Range 4
+Radius 0.4
+Offset 0.55
+
+Explosion 35
+
+Blueprints 3
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36279
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 1
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 0
+Blueprint_1_Condition_0_Logic Equal
+Blueprint_1_Condition_0_Allow_Unset
+
+Blueprint_2_Type Tool
+Blueprint_2_Supply_0_ID 36279
+Blueprint_2_Build 27
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 36011
+Blueprint_2_Output_0_Amount 2
+
+Blueprint_2_Conditions 1
+Blueprint_2_Condition_0_Type Flag_Short
+Blueprint_2_Condition_0_ID 36013
+Blueprint_2_Condition_0_Value 1
+Blueprint_2_Condition_0_Logic Equal
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

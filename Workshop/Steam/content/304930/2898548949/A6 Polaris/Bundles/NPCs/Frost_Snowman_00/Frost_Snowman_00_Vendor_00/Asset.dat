@@ -1,0 +1,18 @@
+GUID 8d58277456d346cc9d413627396243d1
+
+Type Vendor
+ID 36606
+
+Buying 1
+Buying_0_ID 36467
+Buying_0_Cost 25
+
+Selling 2
+Selling_0_ID 36467
+Selling_0_Cost 25
+Selling_1_ID 36578 
+Selling_1_Cost 500
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

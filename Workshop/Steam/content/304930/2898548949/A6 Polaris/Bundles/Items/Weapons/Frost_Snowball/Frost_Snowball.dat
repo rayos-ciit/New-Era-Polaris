@@ -1,0 +1,25 @@
+GUID e2f5f2e12f4b4cd0bcad48d16bec543a
+
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 36467
+
+
+
+
+Player_Damage 55
+Zombie_Damage 200
+Animal_Damage 60
+Vehicle_Damage 60
+Resource_Damage 1000
+Object_Damage 500
+Explosion_Launch_Speed 10
+
+Range 5
+Explosion 36031
+Explode_On_Impact
+
+Boost_Throw_Force_Multiplier 2
+
+Explosive

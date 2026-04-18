@@ -1,0 +1,17 @@
+GUID 88c6021344fa4dc282dc32618a0fde0c
+
+Type NPC
+ID 36004
+
+Face 2
+Hair 2
+Beard 0
+Color_Skin #9D886B
+Color_Hair #665037
+
+Glasses 36058
+Pants 1454 
+Vest 36530
+Backpack 36062
+
+Dialogue 36005

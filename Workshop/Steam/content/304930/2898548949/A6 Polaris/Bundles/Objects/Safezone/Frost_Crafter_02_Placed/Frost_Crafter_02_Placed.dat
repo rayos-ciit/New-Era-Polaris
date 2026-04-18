@@ -1,0 +1,14 @@
+GUID 23a488ce9ff04c898aa5468bf245e141
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36395
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Crafter_02

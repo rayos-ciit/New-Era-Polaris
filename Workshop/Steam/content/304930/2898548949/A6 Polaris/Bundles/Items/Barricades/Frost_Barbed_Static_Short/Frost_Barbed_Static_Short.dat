@@ -1,0 +1,28 @@
+GUID dc4f7185e0794dba946838a40a92f5b5
+
+Type Trap
+Rarity Mythical
+Useable Barricade
+Has_Clip_Prefab false
+Build Wire
+ID 36004
+
+Size_X 2
+
+Size_Z 0.2
+
+Health 65000
+Range 4
+Radius 0.15
+Offset 0.2
+
+Player_Damage 15
+Zombie_Damage 80
+Animal_Damage 80
+
+Explosion 36
+Unrepairable
+Unpickupable
+Proof_Explosion
+
+Can_Be_Damaged False

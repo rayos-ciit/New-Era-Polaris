@@ -1,0 +1,6 @@
+Name Frost IFV Fire #1
+
+Interactability_Condition_0 No ammo
+Interactability_Condition_1 No ammo
+
+Interact Fire [{0}]

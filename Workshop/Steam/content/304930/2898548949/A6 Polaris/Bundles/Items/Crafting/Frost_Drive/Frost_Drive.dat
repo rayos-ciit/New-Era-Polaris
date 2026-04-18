@@ -1,0 +1,38 @@
+GUID 27729b894648448ab145b710a8605274
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Stereo
+Rarity Rare
+ID 36012
+
+Size_X 2
+
+
+Health 150
+Range 4
+Radius 0.1
+Offset 0.25
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36012
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36012
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Salvage

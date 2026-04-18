@@ -1,0 +1,16 @@
+GUID 1b32e9b1b62d4b3bb0478cf6d11dd6fd
+
+Type NPC
+ID 36184
+
+Face 19
+Hair 0
+Beard 0
+Color_Skin #637C63
+Color_Hair #C1C1C1
+
+Shirt 36319
+Pants 36321
+Vest 36579
+
+Dialogue 36185

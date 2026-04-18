@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "061e140a3af14ed4baaeb99d1a8461c4"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.A6.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "frost.masterbundle"
+		"AssetPath" "A6.wav"
+	}
+	"Link_URL" "https://soundcloud.com/user-153434712/hello"
+}

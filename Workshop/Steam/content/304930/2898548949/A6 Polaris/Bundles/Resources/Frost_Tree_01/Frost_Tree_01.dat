@@ -1,0 +1,21 @@
+GUID 315007e9410e4098a1b30ff59076ed67
+
+Type Resource
+Has_Clip_Prefab false
+ID 36003
+
+Health 1200
+Radius 7
+Scale 0.185
+
+Explosion 40
+Reward_ID 36002
+Reward_XP 2
+Reward_Min 4
+Reward_Max 6
+
+Reset 750
+
+BladeID 36
+
+Auto_Skybox

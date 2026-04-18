@@ -1,0 +1,42 @@
+GUID 1b1aba22da084b4a9750b8ce60b39b89
+
+Type Structure
+Rarity Rare
+Useable Structure
+Has_Clip_Prefab false
+Construct Rampart
+ID 36243
+
+Size_X 2
+
+
+Health 600
+Range 8
+
+Explosion 29
+
+Blueprints 2
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+Blueprint_1_Type Structure
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36217
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36243
+Blueprint_1_Output_0_Amount 3
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36217
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text ▲Craft Wall
+Action_0_Tooltip ▲Combine 3 ramparts into a wall
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

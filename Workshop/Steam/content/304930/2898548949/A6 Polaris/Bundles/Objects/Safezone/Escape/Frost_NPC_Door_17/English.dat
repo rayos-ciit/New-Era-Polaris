@@ -1,0 +1,7 @@
+Name Frost NPC Door #18
+
+Interactability_Condition_0 Locked
+Interactability_Condition_1 Locked
+Interactability_Condition_2 Locked
+
+Interact Enter [{0}]

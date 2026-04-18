@@ -1,0 +1,24 @@
+GUID 27b44ccf4da14c2987a4b5903557ad78
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 36033
+
+Size_X 2
+
+Size_Z 0.225
+Use_Auto_Icon_Measurements False
+
+Food 30
+Water 10
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36026
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3

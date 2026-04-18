@@ -1,0 +1,21 @@
+GUID c625711ef52643628f8ecda5e67ebddc
+
+Type NPC
+ID 36044
+
+Face 11
+Color_Skin #937E61
+Color_Hair #414141
+
+Shirt 36096
+
+Dialogue 36045
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36046
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Pose Asleep

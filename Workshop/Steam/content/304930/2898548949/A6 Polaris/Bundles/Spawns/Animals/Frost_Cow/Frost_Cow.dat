@@ -1,0 +1,9 @@
+GUID 95ec3628612344f5a07397b1ae1d1dce
+Type Spawn
+ID 36004
+
+Tables 2
+Table_0_Asset_ID 36084
+Table_0_Weight 70
+Table_1_Asset_ID 36080
+Table_1_Weight 30

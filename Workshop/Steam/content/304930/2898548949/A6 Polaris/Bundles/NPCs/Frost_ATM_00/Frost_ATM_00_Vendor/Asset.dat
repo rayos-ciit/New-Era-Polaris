@@ -1,0 +1,28 @@
+GUID ad482933f73a47d8b4b5b5084348ea88
+
+Type Vendor
+ID 36186
+
+Buying 4
+Buying_0_ID 36102
+Buying_0_Cost 1
+Buying_1_ID 36103
+Buying_1_Cost 4
+Buying_2_ID 36104
+Buying_2_Cost 20
+Buying_3_ID 36105
+Buying_3_Cost 100
+
+Selling 5
+Selling_0_ID 36101
+Selling_0_Cost 10
+Selling_1_ID 36102
+Selling_1_Cost 50
+Selling_2_ID 36103
+Selling_2_Cost 200
+Selling_3_ID 36104
+Selling_3_Cost 1000
+Selling_4_ID 36105
+Selling_4_Cost 5000
+
+Disable_Sorting

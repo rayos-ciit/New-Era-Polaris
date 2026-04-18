@@ -1,0 +1,16 @@
+GUID 7e1743aeb1ad4fc1b93edd8143fce35d
+
+Type Quest
+ID 36555
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 36580
+Condition_0_Amount 1
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset
+
+Rewards 1
+Reward_0_Type Item
+Reward_0_ID 36091
+Reward_0_Amount 0

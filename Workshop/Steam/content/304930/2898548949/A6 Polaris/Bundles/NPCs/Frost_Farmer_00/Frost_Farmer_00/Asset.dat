@@ -1,0 +1,20 @@
+GUID 3c9962639bc8405c8ef8d23aca7651ee
+
+Type NPC
+ID 36153
+
+Face 6
+Hair 0
+Beard 3
+Color_Skin #9D886B
+Color_Hair #352C22
+
+Glasses 1610
+Shirt 36313
+Pants 36311
+Hat 36318
+
+Primary 1034
+Secondary 36410
+
+Dialogue 36154

@@ -1,0 +1,20 @@
+GUID 36eb824ae01944f1a63569dc0cab0aea
+
+Type Dialogue
+ID 36392
+
+Messages 1
+Message_0_Pages 2
+
+Responses 2
+
+Response_0_Quest 36555
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36555
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36555
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36559

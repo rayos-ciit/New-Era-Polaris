@@ -1,0 +1,25 @@
+GUID 3602f8b686734b70a3f04925498449a6
+
+Type Farm
+Useable Barricade
+Has_Clip_Prefab false
+Build Farm
+ID 36120
+
+
+
+Size_Z 0.2
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.375
+
+Growth 3600
+Grow 36121
+
+Explosion 7
+Vulnerable
+Allow_Fertilizer False
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

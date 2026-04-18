@@ -1,0 +1,13 @@
+GUID 3611e80144e94844857ea85a5039bf3b
+Type Spawn
+ID 36106
+
+Tables 4
+Table_0_Asset_ID 36574
+Table_0_Weight 100
+Table_1_Asset_ID 36575
+Table_1_Weight 100
+Table_2_Asset_ID 36576
+Table_2_Weight 100
+Table_3_Asset_ID 36051
+Table_3_Weight 10

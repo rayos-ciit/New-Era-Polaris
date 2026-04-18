@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TeleportationConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MessageColor>purple</MessageColor>
+  <TPACooldown>20</TPACooldown>
+  <TPADelay>3</TPADelay>
+  <TPADuration>80</TPADuration>
+  <AllowCave>false</AllowCave>
+  <AllowRaid>false</AllowRaid>
+  <RaidDuration>30</RaidDuration>
+  <AllowCombat>false</AllowCombat>
+  <CombatDuration>20</CombatDuration>
+  <UseUnsafeTeleport>false</UseUnsafeTeleport>
+</TeleportationConfiguration>

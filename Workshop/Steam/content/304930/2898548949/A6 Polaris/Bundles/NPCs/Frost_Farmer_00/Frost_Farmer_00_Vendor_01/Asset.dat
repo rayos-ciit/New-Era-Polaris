@@ -1,0 +1,31 @@
+GUID 5103d82525fb4bbca3cd96960187b6be
+
+Type Vendor
+ID 36496
+
+Buying 3
+Buying_0_ID 36027
+Buying_0_Cost 2
+Buying_1_ID 36025
+Buying_1_Cost 2
+Buying_2_ID 36023
+Buying_2_Cost 2
+
+Selling 4
+Selling_0_ID 36027
+Selling_0_Cost 2
+Selling_1_ID 36025
+Selling_1_Cost 2
+Selling_2_ID 36023
+Selling_2_Cost 2
+Selling_3_ID 36120
+Selling_3_Cost 2
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 36161
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

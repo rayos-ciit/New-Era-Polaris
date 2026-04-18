@@ -1,0 +1,23 @@
+GUID 95f927660b124986996346e7ed57dff7
+
+Type Food
+Useable Consumeable
+ID 36024
+
+
+
+Size_Z 0.45
+
+Use_Auto_Icon_Measurements False
+
+Food 20
+Water 30
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36025
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed

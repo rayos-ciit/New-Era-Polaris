@@ -1,0 +1,37 @@
+GUID 32dc1c7e0d6a4db79305afaee2966f88
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+Rarity Legendary
+ID 36356
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.275
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36017
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36284
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36641
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Compress
+Action_0_Tooltip ▲Turn 4 Gun Oils into a Gun Oil Bundle

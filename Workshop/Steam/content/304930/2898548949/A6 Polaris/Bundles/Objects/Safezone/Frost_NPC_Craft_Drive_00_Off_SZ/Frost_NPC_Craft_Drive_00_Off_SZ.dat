@@ -1,0 +1,34 @@
+GUID 02288641ac014fdb8fa0428776f8256a
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36022
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 36012
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 36588
+Interactability_Condition_1_Value False
+Interactability_Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36022
+Interactability_Reward_0_Value 4
+Interactability_Reward_0_Modification Assign
+
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Craft_Drive_Off

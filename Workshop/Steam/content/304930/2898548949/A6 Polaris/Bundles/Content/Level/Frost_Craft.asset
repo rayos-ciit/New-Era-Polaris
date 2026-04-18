@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "dcddca4d05564563aa2aac8144615c46"
+	"Type" "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Allow_Core_Blueprints" "False"
+	"Input_Items"
+	[
+		{
+		"NoteToSelf" "car battery"
+		"GUID" "098b13be34a7411db7736b7f866ada69"
+		}
+	]
+	"Output_Items"
+	[
+		{
+		"NoteToSelf" "car battery"
+		"GUID" "098b13be34a7411db7736b7f866ada69"
+		}
+	]
+}
+

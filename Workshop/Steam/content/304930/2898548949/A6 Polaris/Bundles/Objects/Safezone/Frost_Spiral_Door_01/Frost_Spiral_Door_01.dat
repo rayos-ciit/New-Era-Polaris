@@ -1,0 +1,20 @@
+GUID d1c68d52a725482ca28cbf5927c3e4e0
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Spiral_0
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36416
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Infected_Door_00

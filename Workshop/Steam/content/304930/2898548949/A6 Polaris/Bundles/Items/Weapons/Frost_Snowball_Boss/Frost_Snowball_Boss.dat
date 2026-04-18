@@ -1,0 +1,27 @@
+GUID 0130cffdb05b44a0a2537d38a27e43e7
+
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 36578
+
+
+
+Size_Z 0.3
+
+Player_Damage 5
+Zombie_Damage 1000
+Animal_Damage 25
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 25
+Resource_Damage 25
+Object_Damage 25
+
+Range 10
+Explosion 34
+Explode_On_Impact
+Explosion_Launch_Speed 20
+
+Explosive
+Sticky

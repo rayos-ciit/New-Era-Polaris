@@ -1,0 +1,181 @@
+GUID 92e7229c39f64781a5323527ef4ed19a
+
+Type Dialogue
+ID 36104
+
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 36105
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 36105
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 36105
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 36105
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 36105
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 36105
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 14
+
+Response_0_Quest 36178
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36178
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36178
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36181
+
+//Complete Quest
+Response_1_Quest 36178
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 36178
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Dialogue 36180
+
+
+Response_2_Quest 36564
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 36564
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Allow_Unset
+Response_2_Condition_0_ID 36564
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 36178
+Response_2_Condition_1_Status Completed
+Response_2_Condition_1_Logic Equal
+Response_2_Dialogue 36181
+
+Response_3_Quest 36564
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 36564
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Reset
+Response_3_Dialogue 36565
+
+
+Response_4_Quest 36567
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 36567
+Response_4_Conditions 2
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Allow_Unset
+Response_4_Condition_0_ID 36567
+Response_4_Condition_0_Status None
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 36564
+Response_4_Condition_1_Status Completed
+Response_4_Condition_1_Logic Equal
+Response_4_Dialogue 36181
+
+Response_5_Quest 36567
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 36567
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Reset
+Response_5_Dialogue 36568
+
+
+Response_6_Quest 36570
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 36570
+Response_6_Conditions 2
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Allow_Unset
+Response_6_Condition_0_ID 36570
+Response_6_Condition_0_Status None
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 36567
+Response_6_Condition_1_Status Completed
+Response_6_Condition_1_Logic Equal
+Response_6_Dialogue 36181
+
+Response_7_Quest 36570
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 36570
+Response_7_Condition_0_Status Ready
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Reset
+Response_7_Dialogue 36571
+
+//TRADE
+Response_8_Vendor 36501
+Response_8_Conditions 1
+Response_8_Condition_0_Type Flag_Bool
+Response_8_Condition_0_ID 36566
+Response_8_Condition_0_Value True
+Response_8_Condition_0_Logic Equal
+
+Response_9_Vendor 36502
+Response_9_Conditions 1
+Response_9_Condition_0_Type Flag_Bool
+Response_9_Condition_0_ID 36581
+Response_9_Condition_0_Value True
+Response_9_Condition_0_Logic Equal
+
+Response_10_Vendor 36106
+Response_10_Conditions 1
+Response_10_Condition_0_Type Flag_Bool
+Response_10_Condition_0_ID 36179
+Response_10_Condition_0_Value True
+Response_10_Condition_0_Logic Equal
+Response_11_Vendor 36182
+Response_11_Conditions 1
+Response_11_Condition_0_Type Flag_Bool
+Response_11_Condition_0_ID 36179
+Response_11_Condition_0_Value True
+Response_11_Condition_0_Logic Equal
+Response_12_Vendor 36499
+Response_12_Conditions 1
+Response_12_Condition_0_Type Flag_Bool
+Response_12_Condition_0_ID 36179
+Response_12_Condition_0_Value True
+Response_12_Condition_0_Logic Equal

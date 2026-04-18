@@ -1,0 +1,9 @@
+GUID 76e44c058b914cd3ae7e150e6f758ffb
+Type Spawn
+ID 36069
+
+Tables 2
+Table_0_Asset_ID 36090
+Table_0_Weight 80
+Table_1_Asset_ID 36091
+Table_1_Weight 20

@@ -1,0 +1,73 @@
+GUID 6cdd48df08084c56ae21a9cd81184d64
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Bed
+ID 36300
+
+
+Size_Y 2
+
+Health 300
+Range 4
+Radius 0.2
+Offset 0.3
+
+Blueprints 5
+
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 36298
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 36196
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Build 27
+
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36299
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 36196
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+
+Blueprint_3_Type Furniture
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36301
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_Build 27
+
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36302
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 36196
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+
+Blueprint_4_Type Furniture
+Blueprint_4_Supplies 3
+Blueprint_4_Supply_0_ID 36016
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_1_ID 36045
+Blueprint_4_Supply_1_Amount 6
+Blueprint_4_Supply_2_ID 36084
+Blueprint_4_Supply_2_Amount 1
+Blueprint_4_Supply_2_Critical
+Blueprint_4_Build 27
+
+Explosion 37
+Vulnerable
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

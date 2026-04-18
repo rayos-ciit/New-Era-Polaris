@@ -1,0 +1,24 @@
+GUID 2222903caa35465f971f5eb818f13bd3
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36526
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36526
+Interactability_Reward_0_Value True
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 36561
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset

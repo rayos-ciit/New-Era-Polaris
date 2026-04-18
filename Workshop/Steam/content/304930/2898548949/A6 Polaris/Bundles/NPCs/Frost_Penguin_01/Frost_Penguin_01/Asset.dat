@@ -1,0 +1,16 @@
+GUID 5d94f2aa1d7d42088a6bfeaea0d0ec6f
+
+Type NPC
+ID 36593
+
+Face 22
+Hair 3
+Beard 0
+Color_Skin #937E61
+Color_Hair #414141
+
+Shirt 36099
+
+Dialogue 36594
+
+Pose Asleep

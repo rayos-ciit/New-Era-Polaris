@@ -1,0 +1,30 @@
+GUID 220a10ea3c5b4f7eba37b5702b5f1bc2
+
+Type Vehicle_Repair_Tool
+Rarity Uncommon
+Useable Battery_Vehicle
+ID 36585
+
+Size_X 2
+Size_Y 2
+
+Quality_Min 100
+Quality_Max 100
+
+Override_Show_Quality
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36585
+Blueprint_0_Product 36011
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tools/Battery_Vehicle

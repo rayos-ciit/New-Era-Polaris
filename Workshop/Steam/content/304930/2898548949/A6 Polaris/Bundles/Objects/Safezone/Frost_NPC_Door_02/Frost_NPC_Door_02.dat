@@ -1,0 +1,18 @@
+GUID bc38a3a1844449bc9e99e0a72d262fdb
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 2
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Safezone
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 36008
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Assign
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Door_00

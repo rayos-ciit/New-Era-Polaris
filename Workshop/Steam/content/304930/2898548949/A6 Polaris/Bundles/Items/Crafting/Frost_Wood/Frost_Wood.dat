@@ -1,0 +1,17 @@
+GUID 961e30160faa4e139c75faa801a4c826
+
+Type Supply
+ID 36016
+
+
+
+Size_Z 0.6
+Use_Auto_Icon_Measurements False
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36474
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Compress
+Action_0_Tooltip ▲Turn 4 wood into a log

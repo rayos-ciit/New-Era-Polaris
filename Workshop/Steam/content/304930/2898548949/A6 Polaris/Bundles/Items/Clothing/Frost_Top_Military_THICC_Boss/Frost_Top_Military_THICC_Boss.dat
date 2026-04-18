@@ -1,0 +1,17 @@
+GUID c28d279bbaf54cc4a20415b8b9ae78c8
+
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 36589
+
+Size_X 3
+Size_Y 2
+
+Armor 0.7
+
+Width 6
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Top_Military_THICC

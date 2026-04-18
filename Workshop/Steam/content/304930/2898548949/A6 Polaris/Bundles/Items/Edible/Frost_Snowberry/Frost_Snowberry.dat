@@ -1,0 +1,34 @@
+GUID 4becd3bd29b34d15a66680a0d2d0aae8
+
+Type Water
+Useable Consumeable
+ID 36021
+
+Food 5
+Water 5
+Vision 20
+Disinfectant 2
+
+ConsumeAudioClip core.masterbundle:Sounds/EatSquishy.mp3
+
+Actions 3
+
+Action_0_Type Blueprint
+Action_0_Source 36022
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Refine
+Action_0_Tooltip ▲Turn 1 snowberry into a crushed snowberry
+
+Action_1_Type Blueprint
+Action_1_Source 36429
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text ▲Juice
+Action_1_Tooltip ▲Turn 2 snowberries into juice
+
+Action_2_Type Blueprint
+Action_2_Source 36023
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 0
+Action_2_Key Craft_Seed

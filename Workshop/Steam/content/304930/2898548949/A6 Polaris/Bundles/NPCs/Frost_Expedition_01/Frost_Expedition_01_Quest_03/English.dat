@@ -1,0 +1,11 @@
+Name <color=#d2bf22>Expedition IV</color>
+Description Infiltrate the base and destroy armored vehicles.
+
+Condition_0 {0}/{1} Tanks Destroyed
+Condition_1 Extract
+
+Reward_1 <color=#c832fa>F-11 "Fälscher"</color> Skin Recipe Unlocked
+
+Reward_10 +1 ATM Point
+
+Reward_4 Safezone Radio Truck Unlocked

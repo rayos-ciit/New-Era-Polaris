@@ -1,0 +1,59 @@
+GUID a0dccdb181bf4309903e314f296c527b
+
+Type Melee
+Rarity Common
+Useable Melee
+Slot Any
+ID 36379
+
+Blueprint_0_Supply_0_ID 36379
+Blueprint_0_Output_0_Amount 1
+
+Player_Damage 33
+Zombie_Damage 34
+Animal_Damage 34
+Range 3
+
+Size_X 2
+Size_Y 3
+
+
+
+
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Strength 1.5
+Stamina 0
+
+Barricade_Damage 15
+Structure_Damage 10
+Vehicle_Damage 20
+Resource_Damage 20
+Object_Damage 20
+
+Durability 0.1
+
+Blueprints 2
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 36016
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+
+Blueprint_0_Type Tool
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36016
+
+AttackAudioClip core.masterbundle:Sounds/MeleeAttack_01.mp3

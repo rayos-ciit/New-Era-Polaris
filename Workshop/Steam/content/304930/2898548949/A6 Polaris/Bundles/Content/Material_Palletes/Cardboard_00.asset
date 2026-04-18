@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "509f5a2643c54ebaac30a527c139f59c"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Cardboard_00/Material_00.mat"
+		}
+	]
+}

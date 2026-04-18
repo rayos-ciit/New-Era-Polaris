@@ -1,0 +1,39 @@
+GUID 8f1d7411d45f4cf5a47693e04fa15682
+
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 36022
+
+
+
+Size_Z 0.3
+
+Energy 50
+Food 20
+Water 30
+Disinfectant 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36021
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+ConsumeAudioClip core.masterbundle:Sounds/EatSquishy.mp3
+
+Actions 2
+
+Action_0_Type Blueprint
+Action_0_Source 36359
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Adrenaline
+Action_0_Tooltip ▲Turn 1 crushed snowberry into an adrenaline
+
+Action_1_Type Blueprint
+Action_1_Source 36079
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text ▲Sandwich
+Action_1_Tooltip ▲Combine with a loaf to make a sandwich

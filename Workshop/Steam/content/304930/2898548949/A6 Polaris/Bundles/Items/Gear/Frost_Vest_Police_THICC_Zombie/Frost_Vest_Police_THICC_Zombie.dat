@@ -1,0 +1,15 @@
+GUID 0cddff4cbc55458284a174e9a615f6dc
+
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 36637
+
+Width 6
+Height 5
+
+Armor 0.75
+Armor_Explosion 0
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Vest_Police_THICC

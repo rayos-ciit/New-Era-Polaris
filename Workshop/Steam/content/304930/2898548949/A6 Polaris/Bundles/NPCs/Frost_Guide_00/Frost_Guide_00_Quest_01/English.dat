@@ -1,0 +1,7 @@
+Name <color=#d2bf22>Adventurer II</color>
+Description A <color=#964bfa>Mechanical Lotus</color> can be crafted at <color=#64c819>Radar Vehicles</color> using a <color=#4b64fa>Cyan Crystal</color>, <color=#4b64fa>Flower</color> and a <color=#4b64fa>Coil</color>.<br><color=#64c819>Radar Vehicles</color> can be powered up using a <color=#4b64fa>Military Drive</color>, found in crashed drones.
+
+Condition_0 {0}/{1} Mechanical Lotuses Crafted
+
+Reward_2 <color=#964bfa>Stealy Wheely Automobiley</color> Buyable
+Reward_7 +1 ATM Point

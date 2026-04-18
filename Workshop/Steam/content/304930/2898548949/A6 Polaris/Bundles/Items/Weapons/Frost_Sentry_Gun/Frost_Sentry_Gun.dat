@@ -1,0 +1,73 @@
+GUID a20057e198934b4188a5a3c1391002de
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 36400
+
+Size_X 6
+Size_Y 3
+
+Magazine 36401
+
+Ammo_Min 1
+Ammo_Max 1
+
+Auto
+
+Caliber 36007
+
+Range 50
+Firerate 6
+Action Trigger
+
+Player_Damage 20
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 7
+Structure_Damage 7
+Vehicle_Damage 40
+Resource_Damage 50
+Object_Damage 50
+
+Spread_Aim 1
+Spread_Hip 0.4
+
+Muzzle 3
+
+Can_Player_Equip False
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+Gunshot_Rolloff_Distance 1000
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 36402
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36403
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 36404
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 36092
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 36090
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

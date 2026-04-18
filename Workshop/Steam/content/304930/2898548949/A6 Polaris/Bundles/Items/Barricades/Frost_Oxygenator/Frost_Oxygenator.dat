@@ -1,0 +1,33 @@
+GUID 248c6c04185f4278b41dfc03e39d7e27
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Oxygenator
+ID 36365
+
+Size_X 2
+Size_Y 2
+
+Health 200
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36062
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 36009
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

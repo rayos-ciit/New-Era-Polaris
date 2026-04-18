@@ -1,0 +1,46 @@
+GUID ea59fa6c07de4b18a8595be49132f631
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 2
+//State
+Condition_0_Type Flag_Short
+Condition_0_ID 36293
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+//Start
+Condition_1_Type Flag_Short
+Condition_1_ID 36283
+Condition_1_Value 2
+Condition_1_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 4
+
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36294
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 36294
+Interactability_Reward_1_B_Value 2
+Interactability_Reward_1_Operation Modulo
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36293
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
+
+Interactability_Reward_3_Type Flag_Math
+Interactability_Reward_3_A_ID 36293
+Interactability_Reward_3_B_Value 2
+Interactability_Reward_3_Operation Modulo
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Puzzle_00_On

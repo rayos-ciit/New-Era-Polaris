@@ -1,0 +1,49 @@
+GUID 2ccfc32445fc4f1fa845b71de84a5084
+
+Type Tactical
+Rarity Rare
+ID 36460
+
+Spread 0.9
+
+Calibers 10
+Caliber_0 36002
+Caliber_1 36003
+Caliber_2 36004
+Caliber_3 36005
+Caliber_4 36006
+Caliber_5 36007
+Caliber_6 36008
+Caliber_7 36009
+Caliber_8 36013
+Caliber_9 36015
+
+Light
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36460
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36460
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

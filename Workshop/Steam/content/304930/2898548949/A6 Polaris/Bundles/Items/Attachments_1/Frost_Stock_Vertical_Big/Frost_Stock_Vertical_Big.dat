@@ -1,0 +1,72 @@
+GUID b07cc8e9c6fa4b5ea57b31561ffed4f0
+
+Type Grip
+Rarity Legendary
+ID 36553
+
+Size_X 2
+
+
+Recoil_X 0.4
+Recoil_Y 0.35
+
+Spread 0.4
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 4
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36553
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36553
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 36552
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 36356
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 36015
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Build 27
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Rewards 1
+Blueprint_2_Reward_0_Type Flag_Short
+Blueprint_2_Reward_0_ID 36569
+Blueprint_2_Reward_0_Value 1
+Blueprint_2_Reward_0_Modification Increment
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36608
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_State_Transfer
+Blueprint_3_Build 27

@@ -1,0 +1,169 @@
+GUID 69d80e62ed7e433495414d6029fa2713
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+//win condition
+Conditions 16
+Condition_0_Type Flag_Short
+Condition_0_ID 36310
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 36311
+Condition_1_Value 1
+Condition_1_Logic Equal
+Condition_2_Type Flag_Short
+Condition_2_ID 36312
+Condition_2_Value 1
+Condition_2_Logic Equal
+Condition_3_Type Flag_Short
+Condition_3_ID 36313
+Condition_3_Value 1
+Condition_3_Logic Equal
+Condition_4_Type Flag_Short
+Condition_4_ID 36314
+Condition_4_Value 1
+Condition_4_Logic Equal
+Condition_5_Type Flag_Short
+Condition_5_ID 36315
+Condition_5_Value 1
+Condition_5_Logic Equal
+Condition_6_Type Flag_Short
+Condition_6_ID 36316
+Condition_6_Value 1
+Condition_6_Logic Equal
+Condition_7_Type Flag_Short
+Condition_7_ID 36317
+Condition_7_Value 1
+Condition_7_Logic Equal
+Condition_8_Type Flag_Short
+Condition_8_ID 36318
+Condition_8_Value 1
+Condition_8_Logic Equal
+Condition_9_Type Flag_Short
+Condition_9_ID 36319
+Condition_9_Value 1
+Condition_9_Logic Equal
+Condition_10_Type Flag_Short
+Condition_10_ID 36320
+Condition_10_Value 1
+Condition_10_Logic Equal
+Condition_11_Type Flag_Short
+Condition_11_ID 36321
+Condition_11_Value 1
+Condition_11_Logic Equal
+Condition_12_Type Flag_Short
+Condition_12_ID 36322
+Condition_12_Value 1
+Condition_12_Logic Equal
+Condition_13_Type Flag_Short
+Condition_13_ID 36323
+Condition_13_Value 1
+Condition_13_Logic Equal
+Condition_14_Type Flag_Short
+Condition_14_ID 36324
+Condition_14_Value 1
+Condition_14_Logic Equal
+Condition_15_Type Flag_Short
+Condition_15_ID 36325
+Condition_15_Value 1
+Condition_15_Logic Equal
+
+
+
+
+
+//next round
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 17
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36283
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+//reset
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36310
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 36311
+Interactability_Reward_3_Value 0
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 36312
+Interactability_Reward_4_Value 0
+Interactability_Reward_4_Modification Assign
+
+Interactability_Reward_5_Type Flag_Short
+Interactability_Reward_5_ID 36313
+Interactability_Reward_5_Value 0
+Interactability_Reward_5_Modification Assign
+
+Interactability_Reward_6_Type Flag_Short
+Interactability_Reward_6_ID 36314
+Interactability_Reward_6_Value 0
+Interactability_Reward_6_Modification Assign
+
+Interactability_Reward_7_Type Flag_Short
+Interactability_Reward_7_ID 36315
+Interactability_Reward_7_Value 0
+Interactability_Reward_7_Modification Assign
+
+Interactability_Reward_8_Type Flag_Short
+Interactability_Reward_8_ID 36316
+Interactability_Reward_8_Value 0
+Interactability_Reward_8_Modification Assign
+
+Interactability_Reward_9_Type Flag_Short
+Interactability_Reward_9_ID 36317
+Interactability_Reward_9_Value 0
+Interactability_Reward_9_Modification Assign
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 36318
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_10_Type Flag_Short
+Interactability_Reward_10_ID 36319
+Interactability_Reward_10_Value 0
+Interactability_Reward_10_Modification Assign
+
+Interactability_Reward_11_Type Flag_Short
+Interactability_Reward_11_ID 36320
+Interactability_Reward_11_Value 0
+Interactability_Reward_11_Modification Assign
+
+Interactability_Reward_12_Type Flag_Short
+Interactability_Reward_12_ID 36321
+Interactability_Reward_12_Value 0
+Interactability_Reward_12_Modification Assign
+
+Interactability_Reward_13_Type Flag_Short
+Interactability_Reward_13_ID 36322
+Interactability_Reward_13_Value 0
+Interactability_Reward_13_Modification Assign
+
+Interactability_Reward_14_Type Flag_Short
+Interactability_Reward_14_ID 36323
+Interactability_Reward_14_Value 0
+Interactability_Reward_14_Modification Assign
+
+Interactability_Reward_15_Type Flag_Short
+Interactability_Reward_15_ID 36324
+Interactability_Reward_15_Value 0
+Interactability_Reward_15_Modification Assign
+
+Interactability_Reward_16_Type Flag_Short
+Interactability_Reward_16_ID 36325
+Interactability_Reward_16_Value 0
+Interactability_Reward_16_Modification Assign
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Drill_Button_Drill_00

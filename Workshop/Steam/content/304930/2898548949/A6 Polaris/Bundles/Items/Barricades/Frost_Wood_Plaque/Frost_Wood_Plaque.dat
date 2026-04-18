@@ -1,0 +1,33 @@
+GUID f750f239039c43f4a747b145bebdf22d
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Storage_Wall
+ID 36493
+
+
+
+
+Health 300
+Range 4
+Offset 0.125
+Vulnerable
+Storage_X 5
+Storage_Y 2
+Display
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

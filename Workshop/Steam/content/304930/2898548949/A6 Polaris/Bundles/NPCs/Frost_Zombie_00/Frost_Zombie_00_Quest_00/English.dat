@@ -1,0 +1,7 @@
+Name <color=#d2bf22>Executioner I</color>
+Description Kill <color=#64c819>64</color> zombies within a <color=#64c819>75</color>m radius of yourself.
+
+Condition_0 {0}/{1} Zombies
+
+Reward_6 Clothing Shop Unlocked
+Reward_8 +1 ATM Point

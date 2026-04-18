@@ -1,0 +1,27 @@
+GUID 7f58a852c40d4a79814521151224c943
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Glass
+ID 36491
+
+Health 1200
+Range 4
+Radius 0.5
+
+Explosion 97
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Water_Height_Transparent_Sort
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

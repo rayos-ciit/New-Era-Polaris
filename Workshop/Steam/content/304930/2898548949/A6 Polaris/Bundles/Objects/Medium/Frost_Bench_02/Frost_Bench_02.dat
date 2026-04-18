@@ -1,0 +1,8 @@
+GUID 1d77ac7705ea4bd7a93bfe5c15e83716
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Medium/Frost_Bench_00

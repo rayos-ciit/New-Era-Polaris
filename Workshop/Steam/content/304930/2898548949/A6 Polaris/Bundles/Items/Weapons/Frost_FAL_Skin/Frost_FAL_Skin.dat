@@ -1,0 +1,142 @@
+GUID 6497f72a06e0490e9f1ba7aeb1f64762
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 36594
+
+Size_X 5
+Size_Y 2
+
+Magazine 36131
+Sight 36449
+Grip 36450
+Tactical 36445
+
+Hook_Sight
+Hook_Grip
+Hook_Barrel
+Hook_Tactical
+
+Ammo_Min 8
+Ammo_Max 16
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 36002
+
+Attachment_Calibers 1
+Attachment_Caliber_0 36013
+
+Range 500
+Firerate 8
+Action Trigger
+
+Gunshot_Rolloff_Distance 1000
+Damage_Falloff_Range 0.5
+Damage_Falloff_Multiplier 0
+Equipable_Movement_Speed_Multiplier 0.9
+Aim_In_Duration 0.3
+
+Player_Damage 91
+Player_Leg_Multiplier 0.3
+Player_Arm_Multiplier 0.3
+Player_Spine_Multiplier 0.5
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 300
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 60
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 80
+Structure_Damage 80
+Vehicle_Damage 80
+Resource_Damage 80
+Object_Damage 80
+
+Durability 0.025
+
+Spread_Aim 0.01
+Spread_Hip 0.5
+
+Recoil_Min_X 8
+Recoil_Min_Y 20
+Recoil_Max_X 10
+Recoil_Max_Y 30
+
+Recover_X -1
+Recover_Y -1
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.00075
+Shake_Min_Z -0.15
+Shake_Max_X -0.01
+Shake_Max_Y 0.0005
+Shake_Max_Z -0.1
+
+Ballistic_Drop 0.0005
+
+Muzzle 4
+
+Blueprints 4
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36594
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36011
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36594
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36011
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 36356
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Build 27
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36150
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_State_Transfer
+Blueprint_3_Build 27
+
+Blueprint_3_Conditions 1
+Blueprint_3_Condition_0_Type Flag_Bool
+Blueprint_3_Condition_0_ID 36574
+Blueprint_3_Condition_0_Value True
+Blueprint_3_Condition_0_Logic Equal

@@ -1,0 +1,96 @@
+"Metadata"
+{
+	"GUID" "77e3a2e0fd6b4c768928dc2861888a6e"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	
+	"Dropship"
+	{
+		"MasterBundle" "frost.masterbundle"
+		"AssetPath" "Content/Airdrop/Dropship.prefab"
+	}
+	
+	"Airdrop"
+	{
+		"GUID" "bb8add5682a74fffb21055a9661a66e6"
+	}
+	
+	"Loading_Screen_Music"
+	[
+		{
+			"Loop" "Content/Ambience/Quiet.wav"
+			"Outro" "Content/Ambience/Intro.wav"
+		}
+	]
+	
+	"Crafting_Blacklists"
+	[
+		{"GUID" "dcddca4d05564563aa2aac8144615c46"}
+	]
+	
+	"Should_Animate_Background_Image" "false"
+	
+	"Skills"
+	[
+		{
+			"Id" "Sharpshooter"
+			"Default_Level" "4"
+			"Cost_Multiplier" "0.5"
+		}
+		{
+			"Id" "Diving"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "2"
+		}
+		{
+			"Id" "Agriculture"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Cooking"
+			"Default_Level" "1"
+		}
+		{
+			"Id" "Sneakybeaky"
+			"Max_Unlockable_Level" "4"
+		}
+		{
+			"Id" "Warmblooded"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Mechanic"
+			"Max_Unlockable_Level" "0"
+		}
+	]
+	"Weather_Types"
+	[
+		{
+			//Fog
+			"Asset" "a26ceb552f244563a2aa0b2c967731a6"
+			"Min_Frequency" "3"
+			"Max_Frequency" "5" 
+			"Min_Duration" ".4"
+			"Max_Duration" ".6"}
+		{
+			//Heavy Rain
+			"Asset" "f30a01005f0b42baacd78f2d3002bfd2"
+			"Min_Frequency" "3"
+			"Max_Frequency" "4" 
+			"Min_Duration" ".4"
+			"Max_Duration" ".6"}
+		{
+			//Light Snow
+			"Asset" "6574c05111e84c4c985d463a830f9a7a"
+			"Min_Frequency" "1"
+			"Max_Frequency" "3" 
+			"Min_Duration" ".7"
+			"Max_Duration" "1"
+		}
+	]
+}
+

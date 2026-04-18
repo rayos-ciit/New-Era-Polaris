@@ -1,0 +1,49 @@
+GUID b6e4cd31b86a42ad92153b2d2c6ce21b
+
+Type Quest
+ID 36119
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 36068
+Condition_0_Amount 1
+
+Rewards 10
+Reward_0_Type Item
+Reward_0_ID 36068
+Reward_0_Amount 1
+
+Reward_1_Type Item
+Reward_1_ID 36600
+Reward_1_Amount 1
+Reward_2_Type Item
+Reward_2_ID 36600
+Reward_2_Amount 0
+
+Reward_7_Type Item
+Reward_7_ID 36104
+Reward_7_Amount 1
+
+Reward_9_Type Item
+Reward_9_ID 36122
+Reward_9_Amount 0
+Reward_3_Type Flag_Short
+Reward_3_ID 36134
+Reward_3_Value 1
+Reward_3_Modification Increment
+Reward_4_Type Flag_Short
+Reward_4_ID 36135
+Reward_4_Value 0
+Reward_4_Modification Assign
+Reward_5_Type Flag_Math
+Reward_5_A_ID 36135
+Reward_5_B_ID 36134
+Reward_5_Operation Addition
+Reward_6_Type Flag_Math
+Reward_6_A_ID 36135
+Reward_6_B_Value 4
+Reward_6_Operation Modulo
+
+Reward_8_Type Flag_Bool
+Reward_8_ID 36580
+Reward_8_Value True

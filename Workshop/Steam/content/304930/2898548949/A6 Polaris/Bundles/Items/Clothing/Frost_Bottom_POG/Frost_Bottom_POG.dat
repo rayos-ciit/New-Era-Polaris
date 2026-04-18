@@ -1,0 +1,72 @@
+GUID 0f5ce02fb7074317a8a269d8f2b2fe4f
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 36621
+
+Size_X 2
+Size_Y 2
+
+Proof_Radiation
+Proof_Fire
+Armor 0.75
+Armor_Explosion 0.55
+Movement_Speed_Multiplier 0.98
+
+Width 5
+Height 3
+
+Blueprints 4
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36621
+Blueprint_0_Build 32
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 36045
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 36155
+Blueprint_0_Output_1_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36015
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36621
+Blueprint_1_Build 32
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 36045
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Output_1_ID 36155
+Blueprint_1_Output_1_Amount 1
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36015
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36045
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 32
+
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 4
+Blueprint_3_Supply_0_ID 36153
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36156
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_Supply_2_ID 36284
+Blueprint_3_Supply_2_Amount 2
+Blueprint_3_Supply_3_ID 36605 
+Blueprint_3_Supply_3_Amount 1
+Blueprint_3_Build 32
+Blueprint_3_Level 3
+Blueprint_3_Skill Craft

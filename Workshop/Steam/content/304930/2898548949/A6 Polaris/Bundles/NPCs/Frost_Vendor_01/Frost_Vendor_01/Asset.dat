@@ -1,0 +1,20 @@
+GUID 39a5e4b609f142b6b281d1e5bf5c41a7
+
+Type NPC
+ID 36103
+
+Face 6
+Hair 1
+Beard 10
+Color_Skin #BEA582
+Color_Hair #C1C1C1
+
+Shirt 673
+Glasses 36051
+Vest 36052
+Backpack 36054
+Pants 36055
+
+Secondary 36381
+
+Dialogue 36104

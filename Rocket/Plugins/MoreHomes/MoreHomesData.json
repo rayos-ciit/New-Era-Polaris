@@ -1,0 +1,49 @@
+[
+  {
+    "PlayerId": 76561198973711492,
+    "DefaultHomeName": "bed",
+    "Homes": []
+  },
+  {
+    "PlayerId": 76561198374187872,
+    "DefaultHomeName": "bed",
+    "Homes": [
+      {
+        "Name": "bed1",
+        "Position": {
+          "X": 293.2256,
+          "Y": 41.1655273,
+          "Z": -687.4834
+        }
+      }
+    ]
+  },
+  {
+    "PlayerId": 76561199571006509,
+    "DefaultHomeName": "bed",
+    "Homes": [
+      {
+        "Name": "bed1",
+        "Position": {
+          "X": 290.844238,
+          "Y": 41.0776367,
+          "Z": -687.1865
+        }
+      }
+    ]
+  },
+  {
+    "PlayerId": 76561198811868695,
+    "DefaultHomeName": "bed",
+    "Homes": [
+      {
+        "Name": "bed1",
+        "Position": {
+          "X": 294.606445,
+          "Y": 40.79541,
+          "Z": -694.7876
+        }
+      }
+    ]
+  }
+]

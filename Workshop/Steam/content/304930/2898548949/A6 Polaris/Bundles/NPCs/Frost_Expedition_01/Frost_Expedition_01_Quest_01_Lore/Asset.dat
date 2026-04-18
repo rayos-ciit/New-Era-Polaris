@@ -1,0 +1,33 @@
+GUID 6d08b5270fdd403eb94fbbdc54dcc4c7
+
+Type Dialogue
+ID 36383
+
+Messages 1
+Message_0_Pages 3
+
+Responses 2
+
+Response_0_Quest 36552
+Response_0_Rewards 4
+
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36552
+
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 36560
+Response_0_Reward_1_Value True
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 36561
+Response_0_Reward_2_Value True
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 36562
+Response_0_Reward_3_Value True
+
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36552
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36559
+

@@ -1,0 +1,14 @@
+GUID 102eec2a78254e12ab910f22e8f1810b
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36130
+Condition_0_Value 5
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Bank/Numbers/Frost_ATM_5

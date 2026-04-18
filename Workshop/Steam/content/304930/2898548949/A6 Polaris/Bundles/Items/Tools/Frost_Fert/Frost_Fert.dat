@@ -1,0 +1,37 @@
+GUID 98bbe2a893d14b43af318dd20403f219
+
+Type Grower
+Rarity Uncommon
+Useable Grower
+ID 36118
+
+
+
+Size_Z 0.27
+Use_Auto_Icon_Measurements False
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 36088
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36160
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Barricade
+Blueprint_1_Supply_0_ID 36088
+Blueprint_1_Build 27
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36160
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+Blueprint_1_Product 36118
+Blueprint_1_Products 2
+
+ConsumeAudioClip core.masterbundle:Items/Growers/Fertilizer/Use.mp3

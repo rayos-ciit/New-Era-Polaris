@@ -1,0 +1,14 @@
+GUID e93eb8ffd04b4c368e9bb65d6ab8aa12
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36134
+Condition_0_Value 16
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Bank/Numbers/Frost_ATM_MAX

@@ -1,0 +1,41 @@
+GUID 18d305557fa245c18e7e03518186110a
+
+Type Magazine
+Rarity Legendary
+ID 36140
+
+Size_X 2
+Size_Y 2
+
+Amount 100
+Count_Min 50
+Count_Max 100
+
+Calibers 1
+Caliber_0 36008
+
+Tracer 36021
+
+Speed 0.9
+
+Blueprints 5
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36140
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36151
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36152
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 36327
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 36328
+Blueprint_4_Build 30

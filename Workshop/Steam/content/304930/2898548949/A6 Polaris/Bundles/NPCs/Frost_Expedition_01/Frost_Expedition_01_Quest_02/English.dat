@@ -1,0 +1,13 @@
+Name <color=#d2bf22>Expedition III</color>
+Description Infiltrate the base and cause havoc.
+
+Condition_0 Enter the facility
+Condition_1 Find a way into the mines
+Condition_2 Progress deeper into the base
+Condition_3 Gather clues regarding the origin of the virus
+Condition_4 Locate the explosives
+Condition_5 Load the launcher
+Condition_6 Blow up the "Expensive Equipment"
+Condition_7 Extract
+
+Reward_1 +1 ATM Point

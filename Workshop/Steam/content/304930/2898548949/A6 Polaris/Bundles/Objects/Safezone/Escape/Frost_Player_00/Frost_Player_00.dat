@@ -1,0 +1,14 @@
+GUID 5634f3a6ae804e4786680faf8ee69b6e
+
+Type Medium
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36546
+Condition_0_Value True
+Condition_0_Logic Equal

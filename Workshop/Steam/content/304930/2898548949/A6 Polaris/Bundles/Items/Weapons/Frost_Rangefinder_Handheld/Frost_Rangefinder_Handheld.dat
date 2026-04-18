@@ -1,0 +1,41 @@
+GUID f12983b73ca74386b4ba3c6cb7930447
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Tertiary
+ID 36007
+
+
+
+Size_Z 0.4
+
+Tactical 1008
+Sight 296
+Magazine 36008
+
+Ammo_Min 0
+Ammo_Max 0
+
+Semi
+
+Caliber 36000
+
+Can_Aim_During_Sprint True
+Allow_Magazine_Change False
+Can_Use_Underwater True
+
+Range 2000
+Firerate 1
+Action Trigger
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36007
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Guns/Eaglefire

@@ -1,0 +1,36 @@
+GUID 3581999904df4bb9ae7f4f6e744e64cd
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Mannequin
+ID 36572
+
+Size_X 2
+Size_Y 2
+
+Health 200
+Range 4
+Radius 0.8
+Offset 1
+
+Explosion 37
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36045
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Mannequin_Cloth
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+// References human read/writeable texture.
+Ignore_TexRW

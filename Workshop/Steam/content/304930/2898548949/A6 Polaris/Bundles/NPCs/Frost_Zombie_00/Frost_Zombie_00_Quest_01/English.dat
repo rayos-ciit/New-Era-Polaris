@@ -1,0 +1,6 @@
+Name <color=#d2bf22>Executioner II</color>
+Description Kill <color=#64c819>128</color> zombies within a <color=#64c819>75</color>m radius of yourself.
+
+Condition_0 {0}/{1} Zombies
+
+Reward_6 +1 ATM Point

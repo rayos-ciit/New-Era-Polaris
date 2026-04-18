@@ -1,0 +1,6 @@
+Name <color=#d2bf22>Expedition II</color> Prelude
+Description Explore the mines of Polaris and find drill components.
+
+Condition_0 {0}/{1} Drill Components Found
+
+Reward_0 <color=#d2bf22>Expedition II</color> Quest Unlocked

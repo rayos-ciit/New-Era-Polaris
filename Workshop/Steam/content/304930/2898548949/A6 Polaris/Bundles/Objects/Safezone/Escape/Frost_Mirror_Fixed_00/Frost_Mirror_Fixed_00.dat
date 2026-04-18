@@ -1,0 +1,11 @@
+GUID 89c8b2a758464715bc31dd1f1d911224
+
+Type Small
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Escape/Frost_Mirror_Fixed_00
