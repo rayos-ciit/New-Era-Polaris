@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HardcoreDurabilityConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EnableCrateDegradation>true</EnableCrateDegradation>
-  <CrateMinQuality>10</CrateMinQuality>
-  <CrateMaxQuality>50</CrateMaxQuality>
+  <CrateMinQuality>20</CrateMinQuality>
+  <CrateMaxQuality>85</CrateMaxQuality>
   <EnableAmmoRandomization>true</EnableAmmoRandomization>
-  <AmmoMinPercent>30</AmmoMinPercent>
-  <AmmoMaxPercent>95</AmmoMaxPercent>
+  <AmmoMinPercent>20</AmmoMinPercent>
+  <AmmoMaxPercent>85</AmmoMaxPercent>
   <EnableWeaponDegradation>true</EnableWeaponDegradation>
-  <WeaponDegradationMultiplier>10</WeaponDegradationMultiplier>
+  <WeaponDegradationMultiplier>8</WeaponDegradationMultiplier>
   <EnableClothingDegradation>true</EnableClothingDegradation>
-  <ClothingDegradationMultiplier>10</ClothingDegradationMultiplier>
+  <ClothingDegradationMultiplier>8</ClothingDegradationMultiplier>
 </HardcoreDurabilityConfiguration>
