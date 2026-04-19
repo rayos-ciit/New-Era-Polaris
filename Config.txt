@@ -228,7 +228,7 @@ Items
 	// > Percentage [0 to 1] of item spawns to use.
 	// > For example, if set to 0.2 and level has 100 item spawns, max 20 items will spawn at a time.
 	// > Easy: 0.35    Normal: 0.35    Hard: 0.15
-	Spawn_Chance 0.335
+	Spawn_Chance 0.35
 
 	// > How long (in seconds) before an item dropped by a player is despawned.
 	// > Default: 600
@@ -267,7 +267,7 @@ Items
 
 	// > When a magazine spawns without full ammo, the random amount is scaled by this factor.
 	// > Easy: 1    Normal: 0.5    Hard: 0.25
-	Magazine_Bullets_Multiplier 0.3
+	Magazine_Bullets_Multiplier 0.4
 
 	// > Percentage [0 to 1] probability of non-magazines spawning with full amount.
 	// > (E.g., ammo boxes.)
@@ -277,7 +277,7 @@ Items
 	// > When a non-magazine spawns without full amount, the random amount is scaled by this factor.
 	// > (E.g., ammo boxes.)
 	// > Easy: 1    Normal: 1    Hard: 0.75
-	Crate_Bullets_Multiplier 0.855
+	Crate_Bullets_Multiplier 0.875
 
 	// > Original option for disabling item quality. If false, items spawn at 100% quality and
 	// > their quality doesn't decrease. For backwards compatibility, the newer per-item-type
@@ -415,7 +415,7 @@ Zombies
 	// > Percentage [0 to 1] of zombie spawns to use.
 	// > For example, if set to 0.2 and an area has 100 zombie spawns, max 20 zombies will spawn at a time.
 	// > Easy: 0.2    Normal: 0.25    Hard: 0.3
-	Spawn_Chance 0.475
+	Spawn_Chance 0.55
 
 	// > Percentage [0 to 1] chance of zombie dropping an item except when dropping more than one item.
 	// > Easy: 0.55    Normal: 0.5    Hard: 0.3
@@ -751,7 +751,7 @@ Players
 	// > How quickly players food meter depletes.
 	// > Lower values burn food faster, higher values burn food slower.
 	// > Easy: 350    Normal: 300    Hard: 250
-	Food_Use_Ticks 195
+	Food_Use_Ticks 180
 
 	// > How quickly players starve to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
@@ -765,7 +765,7 @@ Players
 	// > How quickly players water meter depletes.
 	// > Lower values lose water faster, higher values lose water slower.
 	// > Easy: 320    Normal: 270    Hard: 220
-	Water_Use_Ticks 195
+	Water_Use_Ticks 180
 
 	// > How quickly players dehydrate to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
@@ -832,7 +832,7 @@ Players
 
 	// > Percentage [0 to 1] of skill levels to retain when killed by the environment (e.g., zombies).
 	// > Default: 1
-	Lose_Skills_PvE 0.6
+	Lose_Skills_PvE 0.75
 
 	// > Number of skill levels to remove when killed by another player.
 	// > Easy: 0    Normal: 1    Hard: 2
@@ -848,7 +848,7 @@ Players
 
 	// > Percentage [0 to 1] of XP to retain when killed by the environment (e.g., zombies).
 	// > Default: 0.5
-	Lose_Experience_PvE 1
+	Lose_Experience_PvE
 
 	// > Scales XP cost to purchase/upgrade skills.
 	// > Default: 1

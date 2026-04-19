@@ -751,7 +751,7 @@ Players
 	// > How quickly players food meter depletes.
 	// > Lower values burn food faster, higher values burn food slower.
 	// > Easy: 350    Normal: 300    Hard: 250
-	Food_Use_Ticks 195
+	Food_Use_Ticks 180
 
 	// > How quickly players starve to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
@@ -765,7 +765,7 @@ Players
 	// > How quickly players water meter depletes.
 	// > Lower values lose water faster, higher values lose water slower.
 	// > Easy: 320    Normal: 270    Hard: 220
-	Water_Use_Ticks 195
+	Water_Use_Ticks 180
 
 	// > How quickly players dehydrate to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
