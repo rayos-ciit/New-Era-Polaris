@@ -1,0 +1,25 @@
+GUID dd90a70749aa4ee08e8e468fe93e5184
+
+Type Structure
+Rarity Rare
+Useable Structure
+Has_Clip_Prefab false
+Construct Roof
+ID 36231
+
+Size_X 2
+Size_Y 2
+
+Health 600
+Range 8
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

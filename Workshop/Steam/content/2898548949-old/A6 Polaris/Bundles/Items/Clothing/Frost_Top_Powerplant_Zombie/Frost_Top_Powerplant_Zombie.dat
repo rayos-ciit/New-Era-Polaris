@@ -1,0 +1,13 @@
+GUID 07f56bbc28014ef0b233bfa6da230cb5
+
+Type Shirt
+Useable Clothing
+ID 36633
+
+Armor_Explosion 0
+
+Width 5
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Top_Powerplant

@@ -1,0 +1,40 @@
+GUID f7e50db121804131920a281d1f2ddd91
+
+Type Quest
+ID 36193
+
+Conditions 1
+Condition_0_Zombie None
+Condition_0_Type Kills_Zombie
+Condition_0_ID 36197
+Condition_0_Value 256
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Radius 75
+
+Rewards 7
+Reward_0_Type Item
+Reward_0_ID 36104
+Reward_0_Amount 1
+Reward_1_Type Item
+Reward_1_ID 36329
+Reward_1_Amount 1
+Reward_6_Type Item
+Reward_6_ID 36122
+Reward_6_Amount 0
+
+Reward_2_Type Flag_Short
+Reward_2_ID 36134
+Reward_2_Value 1
+Reward_2_Modification Increment
+Reward_3_Type Flag_Short
+Reward_3_ID 36135
+Reward_3_Value 0
+Reward_3_Modification Assign
+Reward_4_Type Flag_Math
+Reward_4_A_ID 36135
+Reward_4_B_ID 36134
+Reward_4_Operation Addition
+Reward_5_Type Flag_Math
+Reward_5_A_ID 36135
+Reward_5_B_Value 4
+Reward_5_Operation Modulo

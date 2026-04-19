@@ -1,0 +1,16 @@
+GUID 4b24f4078c344d409d3b75cebe6a2395
+
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 36590
+
+Size_X 2
+Size_Y 2
+
+Armor 0.7
+
+Beard
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Helmet_Military_THICC_Open

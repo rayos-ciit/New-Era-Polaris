@@ -1,0 +1,24 @@
+GUID 5efaaf65d579411eb2548e76b0a1f440
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+ID 36480
+
+Size_X 2
+
+
+Health 200
+Range 4
+Radius 0.3
+Offset 0.4
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 36045
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Build 27

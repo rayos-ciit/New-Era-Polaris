@@ -1,0 +1,17 @@
+GUID 0758542631984d919d3024039e5bbf14
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 36639
+
+Proof_Radiation
+Proof_Fire
+Armor 0.85
+Armor_Explosion 0
+
+Width 6
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Bottom_Police_THICC

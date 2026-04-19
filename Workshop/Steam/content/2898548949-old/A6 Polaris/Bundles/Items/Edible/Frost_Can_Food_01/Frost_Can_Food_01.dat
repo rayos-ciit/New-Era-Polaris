@@ -1,0 +1,18 @@
+GUID d5375a5507d84fb2985d147fab010f8d
+
+Type Food
+Useable Consumeable
+ID 36430
+
+
+
+
+Food 30
+Water 20
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+ConsumeAudioClip core.masterbundle:Sounds/DrinkSwallow.mp3

@@ -1,0 +1,43 @@
+GUID d22737cc37354067ac0657de1602e0a2
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+Rarity Legendary
+ID 36370
+
+
+Size_Y 2
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36325
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text ▲Craft 9mm
+Action_0_Tooltip ▲Craft a 9mm Ammo Crate
+
+Action_1_Type Blueprint
+Action_1_Source 36327
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 2
+Action_1_Text ▲Craft 5.56mm
+Action_1_Tooltip ▲Craft a 5.56mm Ammo Crate
+
+Action_2_Type Blueprint
+Action_2_Source 36330
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 2
+Action_2_Text ▲Craft 7.62mm
+Action_2_Tooltip ▲Craft a 7.62mm Ammo Crate
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.3
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

@@ -1,0 +1,19 @@
+GUID 8f312d148797432d9efeafaa024b4380
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Cave
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36008
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Door_00

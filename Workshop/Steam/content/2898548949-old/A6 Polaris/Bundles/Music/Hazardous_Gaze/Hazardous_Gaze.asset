@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "abd7a345a6654d818a62941f2c8723ee"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Hazardous_Gaze0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "frost.masterbundle"
+		"AssetPath" "Hazardous_Gaze.wav"
+	}
+	"Link_URL" "https://www.youtube.com/@staswalle"
+}

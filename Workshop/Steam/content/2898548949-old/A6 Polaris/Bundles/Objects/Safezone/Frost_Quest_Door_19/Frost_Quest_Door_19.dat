@@ -1,0 +1,19 @@
+GUID 3b79c9f93e274a959b0cbcb13ff5feba
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36426
+Interactability_Condition_0_Value False
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Allow_Unset
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Hint Use
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Quest_Door_00

@@ -1,0 +1,33 @@
+GUID 2c619388328341db9dde51525fb770cd
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Storage
+ID 36500
+
+Size_X 2
+Size_Y 2
+
+Health 300
+Range 4
+Radius 0.25
+Offset 0.375
+Vulnerable
+Storage_X 8
+Storage_Y 4
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

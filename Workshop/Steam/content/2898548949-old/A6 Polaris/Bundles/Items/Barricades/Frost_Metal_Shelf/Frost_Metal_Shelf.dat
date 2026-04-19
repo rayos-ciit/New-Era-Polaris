@@ -1,0 +1,26 @@
+GUID c8cb9ed09b79457c881abb7585fbb06e
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+ID 36513
+
+Health 600
+Range 4
+Radius 0.15
+Offset 0.5
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

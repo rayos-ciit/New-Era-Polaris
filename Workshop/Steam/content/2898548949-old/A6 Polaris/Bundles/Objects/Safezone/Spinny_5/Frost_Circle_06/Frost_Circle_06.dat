@@ -1,0 +1,15 @@
+GUID 72d14f59ad77423ca72550f36f696318
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36242
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Circle

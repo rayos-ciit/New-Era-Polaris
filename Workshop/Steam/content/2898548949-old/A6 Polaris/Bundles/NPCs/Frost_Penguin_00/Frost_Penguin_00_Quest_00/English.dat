@@ -1,0 +1,8 @@
+Name <color=#d2bf22>Extinction Level Event I</color>
+Description Eliminate the promiscuous monocle wearing fellow.
+
+Condition_0 {0}/{1} Benedict Slain
+
+Reward_1 <color=#964bfa>N200 "Brenter"</color> Skin Recipe Unlocked
+Reward_2 Shop Unlocked
+Reward_5 +1 ATM Point

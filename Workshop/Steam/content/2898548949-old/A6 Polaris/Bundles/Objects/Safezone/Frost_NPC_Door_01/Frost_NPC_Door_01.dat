@@ -1,0 +1,19 @@
+GUID 07330b2cda9249bf8a3015c828bf0ad9
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Lighthouse
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36008
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Door_00

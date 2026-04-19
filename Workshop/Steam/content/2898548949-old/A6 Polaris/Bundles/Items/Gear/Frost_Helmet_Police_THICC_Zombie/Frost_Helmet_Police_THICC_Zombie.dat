@@ -1,0 +1,14 @@
+GUID 26b00eb7121b4306b374a478490b1876
+
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 36638
+
+Armor 0.75
+Armor_Explosion 0
+
+Beard
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Helmet_Police_THICC_Open

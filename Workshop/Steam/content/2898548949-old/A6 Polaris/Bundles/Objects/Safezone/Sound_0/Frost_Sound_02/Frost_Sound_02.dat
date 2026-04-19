@@ -1,0 +1,8 @@
+GUID 701a2991636f40ae802ad21a3f0fc6e3
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Sound_02

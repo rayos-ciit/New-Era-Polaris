@@ -1,0 +1,20 @@
+GUID a791c6c8b1ba485aa89c0075ef9040b4
+
+Type Shirt
+Useable Clothing
+ID 36324
+
+Size_X 3
+Size_Y 2
+
+Width 5
+Height 2
+
+Blueprints 1
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36324
+Blueprint_0_Build 32
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36045
+Blueprint_0_Output_0_Amount 1

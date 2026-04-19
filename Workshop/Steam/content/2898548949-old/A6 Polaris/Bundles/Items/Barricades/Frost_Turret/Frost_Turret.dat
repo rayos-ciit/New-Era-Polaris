@@ -1,0 +1,46 @@
+GUID 32971ec453734e2094092f69327405fe
+
+Type Sentry
+Rarity Legendary
+Useable Barricade
+Has_Clip_Prefab false
+Build Sentry
+ID 36405
+
+Size_X 2
+Size_Y 3
+
+Health 300
+Range 4
+Radius 0.5
+Offset 1
+
+Storage_X 7
+Storage_Y 3
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 36406
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36195
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 36009
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 36284
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Supply_4_ID 36092
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 36090
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip Items/Structures_Armored/Frost_Armored_Pillar/Use.wav

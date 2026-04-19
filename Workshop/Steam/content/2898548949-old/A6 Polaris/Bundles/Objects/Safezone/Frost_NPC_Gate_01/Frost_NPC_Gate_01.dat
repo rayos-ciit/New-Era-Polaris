@@ -1,0 +1,24 @@
+GUID 3902ec2602644fac964a08138c402d58
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Binary_State
+Interactability_Delay 10
+Interactability_Hint Use
+Interactability_Editor Toggle
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36009
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Gate
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36009
+Interactability_Reward_0_Value False

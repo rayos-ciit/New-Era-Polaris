@@ -1,0 +1,33 @@
+GUID 4f36f478dd1b41ddac372671906b19dc
+
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 36386
+
+Size_X 3
+Size_Y 2
+
+Width 6
+Height 3
+
+Movement_Speed_Multiplier 1.04
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36386
+Blueprint_0_Product 36084
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36084
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 36084
+Blueprint_2_Supply_0_Amount 3
+Blueprint_2_Product 36386
+Blueprint_2_Products 1
+Blueprint_2_Build 32

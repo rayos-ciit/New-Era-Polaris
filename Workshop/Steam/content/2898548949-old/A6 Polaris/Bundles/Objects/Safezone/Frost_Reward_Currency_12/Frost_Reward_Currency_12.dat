@@ -1,0 +1,24 @@
+GUID 704d8f22016f48c38821c918257768f5
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36423
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36423
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 36104
+Interactability_Reward_1_Amount 1
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Reward_Currency_Instant

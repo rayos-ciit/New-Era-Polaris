@@ -1,0 +1,52 @@
+GUID e62e067d8ef54b35bd3eb7c255bfc7db
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 36134
+
+Quality_Min 0
+Quality_Max 50
+
+Size_X 2
+Size_Y 2
+
+Width 6
+Height 4
+
+Armor_Explosion 3
+Armor 0.2
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36134
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36134
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 32

@@ -1,0 +1,17 @@
+GUID de214b9a1f8842708ee6496d5e600b24
+
+Type Dialogue
+ID 36468
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 1
+
+Response_0_Rewards 2
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Safezone
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 36463
+Response_0_Reward_1_Value True

@@ -1,0 +1,17 @@
+GUID 56becb5d7d8f4595825e7fda93c65eab
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 36588
+
+Size_X 2
+Size_Y 2
+
+Armor 0.7
+
+Width 6
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Bottom_Military_THICC

@@ -1,0 +1,14 @@
+GUID c1d83521716a41c18bc86c07f64556d4
+
+Type Dialogue
+ID 36384
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 1
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Expedition_1_0

@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "089d9c6b40f041809101e4a730a0b43d"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0}x Polaris Roses"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "850c7af83f124cd395e98b2f084de60f"
+			}
+			"Value" "1"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+GUID d79e789071394ade9b0847c741d7eca5
+
+Type Beacon
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Beacon
+ID 36535
+
+Size_X 2
+Size_Y 2
+
+Health 1000
+Range 4
+Radius 0.5
+Offset 1
+
+Explosion 36
+Unpickupable
+
+Enable_Participant_Scaling false
+PlacementPreviewPrefab Items/Barricades/Frost_Horde/Placement.prefab
+Allow_Placement_Inside_Clip_Volumes True
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 36363
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36355
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 36412
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 36009
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 36090
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Wave 40
+Rewards 2
+Reward_ID 36017

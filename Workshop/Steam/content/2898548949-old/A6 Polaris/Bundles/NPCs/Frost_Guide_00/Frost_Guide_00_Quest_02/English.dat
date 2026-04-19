@@ -1,0 +1,8 @@
+Name <color=#d2bf22>Adventurer III</color>
+Description A <color=#964bfa>Filter</color> can be crafted using a <color=#964bfa>Mechanical Lotus</color> and then combined with either a <color=#4b64fa>Broken Gasmask</color> or <color=#ffffff>Biohazard Fibers</color>.
+
+Condition_0 {0}/{1} Filters Crafted
+Condition_1 {0}/{1} Gasmasks Crafted
+
+Reward_2 Blueprint Shop Unlocked
+Reward_8 +1 ATM Point

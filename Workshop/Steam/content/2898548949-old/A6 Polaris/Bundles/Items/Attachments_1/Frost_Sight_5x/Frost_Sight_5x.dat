@@ -1,0 +1,58 @@
+GUID 5089fe5faa9741beacbef2091e402678
+
+Type Sight
+Rarity Rare
+ID 36547
+
+Zoom 5
+Spread 0.95
+
+Blueprints 4
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36547
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36547
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36341
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 36284
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Build 27
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 36547
+Blueprint_2_Output_0_Amount 1
+
+Blueprint_3_Type Utilities
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36342
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 36284
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Build 27
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 36547
+Blueprint_3_Output_0_Amount 1

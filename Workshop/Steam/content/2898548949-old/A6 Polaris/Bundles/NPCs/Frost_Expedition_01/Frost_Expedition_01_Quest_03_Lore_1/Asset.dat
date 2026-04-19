@@ -1,0 +1,20 @@
+GUID a367b90a6aa1404c96dcad3a1552ab8d
+
+Type Dialogue
+ID 36558
+
+Messages 1
+Message_0_Pages 8
+
+Responses 2
+
+Response_0_Quest 36390
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36390
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36390
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36391

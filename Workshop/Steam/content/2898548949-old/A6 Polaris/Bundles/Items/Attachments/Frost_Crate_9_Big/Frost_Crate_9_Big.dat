@@ -1,0 +1,33 @@
+GUID ae247d291f98411fb349b846667f1dcf
+
+Type Supply
+Rarity Legendary
+ID 36325
+
+Size_X 3
+Size_Y 2
+
+Amount 130
+Count_Min 130
+Count_Max 130
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36326
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36325
+Blueprint_1_Build 30
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36370
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 36164
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Build 27
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft

@@ -1,0 +1,57 @@
+GUID 223afdba9dd64da7b5b4111422be3509
+
+Type Grip
+Rarity Legendary
+ID 36606
+
+Size_X 2
+
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Sway 0.1
+Shake 0.1
+Spread 0.3
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 3
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36606
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36606
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36551
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 36196
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_State_Transfer
+Blueprint_2_Build 27

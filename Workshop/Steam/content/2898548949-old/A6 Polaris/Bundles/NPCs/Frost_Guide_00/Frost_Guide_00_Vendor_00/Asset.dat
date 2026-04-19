@@ -1,0 +1,26 @@
+GUID 8be73f3b158a4bd0b4220452f63baf63
+
+Type Vendor
+ID 36201
+
+Buying 5
+Buying_0_ID 36028
+Buying_0_Cost 40
+Buying_1_ID 36410
+Buying_1_Cost 60
+Buying_2_ID 36032
+Buying_2_Cost 80
+Buying_3_ID 36038
+Buying_3_Cost 200
+Buying_4_ID 36039
+Buying_4_Cost 400
+
+Selling 2
+Selling_0_ID 36038
+Selling_0_Cost 400
+Selling_1_ID 36039
+Selling_1_Cost 600
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

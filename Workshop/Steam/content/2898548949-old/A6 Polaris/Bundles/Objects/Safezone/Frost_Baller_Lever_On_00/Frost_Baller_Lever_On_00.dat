@@ -1,0 +1,15 @@
+GUID 2a6e63c6c1ec4d42a8ef9a4a9096d1c1
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36443
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Sewer_Lever_On

@@ -1,0 +1,92 @@
+GUID e86be70b1a194ee0a64eb104db3aec71
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Any
+ID 36002
+
+Size_X 2
+Size_Y 2
+
+Magazine 36571
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 36011
+
+Firerate 50
+Replace 0.5
+Action Rocket
+
+Player_Damage 185
+Zombie_Damage 1000
+Animal_Damage 600
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 800
+Resource_Damage 1000
+Object_Damage 500
+
+Range 12
+Explosion 34
+
+Durability 0.3
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 1500
+
+Recoil_Min_X -1
+Recoil_Min_Y 1
+Recoil_Max_X 1
+Recoil_Max_Y 1.5
+
+Recover_X 5
+Recover_Y 15
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y 0.005
+Shake_Max_Z -0.02
+
+Blueprints 3
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36002
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36002
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Build 32

@@ -1,0 +1,39 @@
+GUID 7f50e255f5c74bc6a01f963c6fb9fb4f
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Mannequin
+ID 36573
+
+Size_X 2
+Size_Y 2
+
+Health 150
+Range 4
+Radius 0.8
+Offset 1
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Mannequin_Metal
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+// References human read/writeable texture.
+Ignore_TexRW

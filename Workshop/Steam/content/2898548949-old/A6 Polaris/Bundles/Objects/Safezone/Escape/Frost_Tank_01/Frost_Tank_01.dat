@@ -1,0 +1,28 @@
+GUID 1f7dc37dcf754affacaaaa91bf2e8173
+
+Type Large
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36400
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+Interactability_Reward_1_Type Teleport
+Interactability_Reward_1_Spawnpoint Tank
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36546
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Tank_01

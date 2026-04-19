@@ -1,0 +1,42 @@
+GUID 9e7292eb24b545e3b49accc4763e38f0
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Common
+ID 36026
+Can_Steal_Battery False
+Speed_Min -35
+Speed_Max 35
+
+Fuel 2000
+
+Health_Min 10000
+Health_Max 10000
+Health 10000
+
+Engine Train
+Train_Track_Offset 0.5
+Train_Wheel_Offset .5
+Train_Car_Length 4
+
+Pitch_Idle 0.625
+Pitch_Drive 0.01
+
+Stamina_Powered
+Can_Be_Locked False
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+Explosion 20
+Invulnerable
+Explosions_Invulnerable
+Environment_Invulnerable
+Bumper_Invulnerable
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Vehicle/Frost_Minecart
+
+Drops_Table_ID 36123
+Drops_Min 4
+Drops_Max 6

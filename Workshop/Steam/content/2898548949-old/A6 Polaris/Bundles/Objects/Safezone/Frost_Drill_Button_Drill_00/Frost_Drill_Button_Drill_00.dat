@@ -1,0 +1,75 @@
+GUID a222bfe654a540979c00e2c0875ef08e
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+//win condition
+Conditions 6
+Condition_0_Type Flag_Short
+Condition_0_ID 36286
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 36287
+Condition_1_Value 1
+Condition_1_Logic Equal
+Condition_2_Type Flag_Short
+Condition_2_ID 36288
+Condition_2_Value 1
+Condition_2_Logic Equal
+Condition_3_Type Flag_Short
+Condition_3_ID 36289
+Condition_3_Value 1
+Condition_3_Logic Equal
+Condition_4_Type Flag_Short
+Condition_4_ID 36290
+Condition_4_Value 1
+Condition_4_Logic Equal
+Condition_5_Type Flag_Short
+Condition_5_ID 36291
+Condition_5_Value 1
+Condition_5_Logic Equal
+
+
+
+
+//next round
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 7
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36283
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+//reset
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36286
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 36287
+Interactability_Reward_3_Value 0
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 36288
+Interactability_Reward_4_Value 0
+Interactability_Reward_4_Modification Assign
+
+Interactability_Reward_5_Type Flag_Short
+Interactability_Reward_5_ID 36289
+Interactability_Reward_5_Value 0
+Interactability_Reward_5_Modification Assign
+
+Interactability_Reward_6_Type Flag_Short
+Interactability_Reward_6_ID 36290
+Interactability_Reward_6_Value 0
+Interactability_Reward_6_Modification Assign
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 36291
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign

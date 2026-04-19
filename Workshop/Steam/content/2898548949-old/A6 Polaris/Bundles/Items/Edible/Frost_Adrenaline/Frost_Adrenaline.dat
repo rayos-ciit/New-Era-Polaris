@@ -1,0 +1,29 @@
+GUID bad05044d0f1445596dd137b685cd23d
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 36359
+
+
+
+Size_Z 0.325
+Use_Auto_Icon_Measurements False
+
+Aid
+Energy 100
+Food 20
+Water 20
+Disinfectant 5
+Bleeding
+Broken
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36022
+Blueprint_0_Supply_0_A	mount 1
+Blueprint_0_Supply_1_ID 36011
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft

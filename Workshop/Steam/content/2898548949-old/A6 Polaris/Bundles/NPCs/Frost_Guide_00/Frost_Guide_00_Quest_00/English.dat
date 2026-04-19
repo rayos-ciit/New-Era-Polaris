@@ -1,0 +1,7 @@
+Name <color=#d2bf22>Adventurer I</color>
+Description Observers can be found in the wilderness surrounded by an ominous circle of stones. They drop <color=#4b64fa>Cyan Crystals</color> upon death.
+
+Condition_0 {0}/{1} Observers Slain
+
+Reward_2 Tools Shop Unlocked
+Reward_8 +1 ATM Point

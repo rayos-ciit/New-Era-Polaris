@@ -1,0 +1,21 @@
+GUID c04d7909351644628dee0c75831d9a74
+
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Has_Clip_Prefab false
+Build Campfire
+ID 36117
+
+Health 65000
+Range 4
+Radius 0.6
+Offset 0.7
+
+Armor_Tier High
+Unpickupable
+
+Explosion 19
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Campfire

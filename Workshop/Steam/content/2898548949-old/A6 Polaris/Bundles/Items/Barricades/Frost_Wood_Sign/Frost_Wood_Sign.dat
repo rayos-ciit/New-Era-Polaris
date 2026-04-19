@@ -1,0 +1,30 @@
+GUID 91b4b04083384d6eb9f0fc80260bfd30
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Sign
+ID 36498
+
+Size_X 2
+Size_Y 2
+
+Health 300
+Range 4
+Radius 0.5
+Offset 1.25
+Vulnerable
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+
+Ignore_TexRW true
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

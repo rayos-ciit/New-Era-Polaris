@@ -1,0 +1,24 @@
+"Metadata"
+{
+    "GUID" "b6086c0cdc604908a5da339ed28acbe0"
+    "Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+    "Wheel_Suspension_Damper" "17",
+    "Carjack_Force_Multiplier" "8",
+    "Wheel_Damping_Rate" "0.2",
+    "Root_Drag_Multiplier" "0.1",
+    "Wheel_Mass_Multiplier" "6",
+    "Root_Mass" "4",
+    "Wheel_Drive_Model" "Front",
+    "Wheel_Brake_Model" "Rear",
+    "Wheel_Friction_Sideway"
+    {
+    "Extremum_Slip" "0.4"
+    "Extremum_Value" "0.3"
+    "Asymptote_Slip" "0.1"
+    "Asymptote_Value" "0.2"
+    "Stiffness" "0.7"
+    }
+}

@@ -1,0 +1,23 @@
+GUID ecbd59e0eb654a85a23d32d4042c6866
+
+Type Supply
+Rarity Rare
+ID 36329
+
+Size_X 2
+Size_Y 2
+
+Amount 40
+Count_Min 10
+Count_Max 20
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36329
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36330
+Blueprint_1_Build 30

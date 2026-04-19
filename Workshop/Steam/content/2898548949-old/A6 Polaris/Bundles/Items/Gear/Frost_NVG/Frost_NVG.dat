@@ -1,0 +1,50 @@
+GUID 066ae78ed58c40989e2ef950a92f79e4
+
+Type Glasses
+Rarity Epic
+Useable Clothing
+ID 36031
+
+Size_X 2
+
+Hair
+Beard
+
+Quality_Min 100
+Quality_Max 100
+
+Vision Military
+Nightvision_Color_R 55
+Nightvision_Color_G 179
+Nightvision_Color_B 179
+Nightvision_Fog_Intensity 0.35
+
+Proof_Water
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36031
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36031
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

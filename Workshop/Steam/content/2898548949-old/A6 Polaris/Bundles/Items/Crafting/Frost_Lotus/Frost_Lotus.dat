@@ -1,0 +1,21 @@
+GUID 7ea3a8876a6440ad8ece0acd237fa48f
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+Rarity Epic
+ID 36092
+
+Size_X 2
+Size_Y 2
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.15
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

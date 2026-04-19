@@ -1,0 +1,18 @@
+GUID 64d653cf400649c3af31800d8f816f12
+
+Type Dialogue
+ID 36481
+
+Messages 5
+
+Message_0_Pages 1
+
+Responses 6
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Safezone
+Response_1_Dialogue 36486
+Response_2_Dialogue 36489
+Response_3_Dialogue 36487
+Response_4_Dialogue 36488

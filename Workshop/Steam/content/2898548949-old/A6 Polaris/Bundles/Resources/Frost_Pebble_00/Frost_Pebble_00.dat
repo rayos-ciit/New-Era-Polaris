@@ -1,0 +1,20 @@
+GUID 88b15a6b9ff546999d92aa922d56d439
+
+Type Resource
+Has_Clip_Prefab false
+ID 36014
+
+Health 65000
+Radius 360
+Scale 0.4
+
+Explosion 36008
+Reward_ID 36002
+Reward_XP 0
+Reward_Min 0
+Reward_Max 0
+
+Reset 600
+
+No_Debris
+BladeID 5

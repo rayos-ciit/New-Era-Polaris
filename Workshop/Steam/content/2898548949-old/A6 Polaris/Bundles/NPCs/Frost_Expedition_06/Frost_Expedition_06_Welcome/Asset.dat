@@ -1,0 +1,16 @@
+GUID c0b8fb46f52049ff9e462bfe9334865f
+
+Type Dialogue
+ID 36539
+
+Messages 5
+
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Safezone
+Response_1_Dialogue 36540
+Response_2_Dialogue 36228

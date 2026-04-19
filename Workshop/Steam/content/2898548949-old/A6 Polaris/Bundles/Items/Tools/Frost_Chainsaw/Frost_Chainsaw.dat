@@ -1,0 +1,100 @@
+GUID 380ad74ce40b423c850a89c2d2cbf348
+
+Type Melee
+Rarity Rare
+Useable Melee
+Slot Any
+ID 36038
+
+Size_X 3
+Size_Y 2
+
+Range 3
+Alert_Radius 24
+
+BladeIDs 2
+BladeID_0 36
+BladeID_1 0
+
+Player_Damage 25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 10
+Resource_Damage 50
+Object_Damage 50
+
+Durability 0
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36038
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36038
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 27
+
+
+Repeated
+
+AttackAudioClip core.masterbundle:/Items/Melee/Chainsaw/Use.mp3
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36413
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 3
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade to drill
+
+Action_1_Type Blueprint
+Action_1_Source 36038
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36038
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage

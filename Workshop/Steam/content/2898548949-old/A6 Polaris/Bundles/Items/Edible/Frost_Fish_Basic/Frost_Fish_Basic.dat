@@ -1,0 +1,22 @@
+GUID f11deb70ad0947b1afd03a5c4678b753
+
+Type Food
+Useable Consumeable
+ID 36073
+
+Size_X 2
+
+
+Food 5
+Water 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36073
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36066
+Blueprint_0_Output_0_Amount 2
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3

@@ -1,0 +1,17 @@
+GUID d755c2b9dc1f4b60b4e412448d03dcec
+
+Type NPC
+ID 36000
+
+Face 2
+Hair 2
+Beard 0
+Color_Skin #9D886B
+Color_Hair #665037
+
+Glasses 36058
+Pants 1454 
+Vest 36530
+Backpack 36062
+
+Dialogue 36001

@@ -1,0 +1,29 @@
+GUID e8ccc6d35c0d4f1c9874209e0bb39756
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 36361
+
+
+
+
+Aid
+Bleeding
+Health 15
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36045
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36362
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Craft Dressing
+Action_0_Tooltip ▲Upgrade to Dressing
+
+ConsumeAudioClip core.masterbundle:Items/Medical/Dressing/Use.mp3

@@ -1,0 +1,14 @@
+GUID 6f7523d45cbc42cfa7b04b84798b1773
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36416
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Infected_Door_00

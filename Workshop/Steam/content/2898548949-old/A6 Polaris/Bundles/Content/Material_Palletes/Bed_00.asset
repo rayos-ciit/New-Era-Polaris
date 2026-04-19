@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "7763cfc4c8104182967e0f85a871c795"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Bed_00/Material_00.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Bed_00/Material_01.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Bed_00/Material_02.mat"
+		}
+	]
+}

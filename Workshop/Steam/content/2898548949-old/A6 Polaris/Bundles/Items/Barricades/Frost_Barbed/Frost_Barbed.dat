@@ -1,0 +1,34 @@
+GUID afffbda0517148a698af32cf33591875
+
+Type Trap
+Rarity Uncommon
+Useable Barricade
+Has_Clip_Prefab false
+Build Wire
+ID 36003
+
+Size_X 2
+
+Size_Z 0.2
+
+Health 70
+Range 4
+Radius 0.15
+Offset 0.55
+
+Player_Damage 35
+Zombie_Damage 80
+Animal_Damage 80
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Barricades/Frost_Barbed_Static_Short

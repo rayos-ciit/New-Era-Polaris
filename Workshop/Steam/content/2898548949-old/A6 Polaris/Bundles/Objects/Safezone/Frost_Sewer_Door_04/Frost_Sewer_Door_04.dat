@@ -1,0 +1,20 @@
+GUID 2dbaa253a0434a5badd55948b3cdd01d
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36336
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Exclude_From_Level_Batching True
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Hint Use
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Sewer_Door_00

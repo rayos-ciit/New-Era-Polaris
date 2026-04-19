@@ -1,0 +1,16 @@
+GUID ae185e97d67e46fa97261b70f94bafca
+
+Type Resource
+Has_Clip_Prefab false
+ID 36001
+
+Health 1
+Radius 3
+Scale 0.1
+
+Reward_ID 36001
+Forage
+
+Reset 600
+
+BladeID 5

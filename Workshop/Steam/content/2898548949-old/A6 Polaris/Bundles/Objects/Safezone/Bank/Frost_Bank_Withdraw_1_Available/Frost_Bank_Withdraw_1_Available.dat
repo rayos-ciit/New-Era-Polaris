@@ -1,0 +1,14 @@
+GUID 98f355c0816542159726333d61e48ae2
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Bank/Frost_Bank_Withdraw_Available
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36128
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To

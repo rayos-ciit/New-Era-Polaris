@@ -1,0 +1,22 @@
+GUID d7e14eeb29384c6daf316db96ef4124b
+
+Type Dialogue
+ID 36511
+
+Messages 1
+Message_0_Pages 1
+
+Message_0_Rewards 2
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 36026
+Message_0_Reward_0_Value True
+Message_0_Reward_1_Type Flag_Bool
+Message_0_Reward_1_ID 36506
+Message_0_Reward_1_Value True
+
+Responses 1
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 36026
+Response_0_Reward_0_Value True

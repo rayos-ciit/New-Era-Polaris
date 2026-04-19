@@ -1,0 +1,30 @@
+GUID 32e320a12cbd455cb343047591f888fd
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+ID 36064
+
+
+
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.3
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36065
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Salvage
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Crafting/Frost_Message_Bottle

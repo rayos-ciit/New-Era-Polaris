@@ -1,0 +1,30 @@
+GUID 4d61092123cf4d9c926e6c8ea293e7fa
+
+Type Structure
+Rarity Legendary
+Useable Structure
+Has_Clip_Prefab false
+Construct Wall
+ID 36268
+
+Size_X 2
+
+
+Health 2400
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36246
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36195
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Tool 36090
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip Items/Structures_Armored/Frost_Armored_Pillar/Use.wav

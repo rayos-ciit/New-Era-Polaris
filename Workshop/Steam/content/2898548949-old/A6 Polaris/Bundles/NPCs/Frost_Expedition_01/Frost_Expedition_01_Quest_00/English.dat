@@ -1,0 +1,8 @@
+Name <color=#d2bf22>Expedition I</color>
+Description "Where have I seen this before?"
+
+Condition_0 Find the Explosives
+Condition_1 Blow up the Radio Tower
+Condition_2 Extract
+
+Reward_1 +1 ATM Point

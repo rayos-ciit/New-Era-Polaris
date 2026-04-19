@@ -1,0 +1,25 @@
+GUID 01b32762c63842caa1e67366ebf52e6b
+
+Type Structure
+Rarity Rare
+Useable Structure
+Has_Clip_Prefab false
+Construct Wall
+ID 36235
+
+Size_X 2
+
+
+Health 600
+Range 8
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

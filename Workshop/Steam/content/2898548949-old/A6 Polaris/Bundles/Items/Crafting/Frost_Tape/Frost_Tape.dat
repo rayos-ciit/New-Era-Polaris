@@ -1,0 +1,21 @@
+GUID dceb70368cc242f5abd0c09a45699ad5
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Rarity Uncommon
+Build Barricade
+ID 36284
+
+
+
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.15
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

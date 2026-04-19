@@ -1,0 +1,48 @@
+GUID b951817340834da990098d27aafe9d87
+
+Type Quest
+ID 36047
+
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 36022
+Condition_0_Amount 1
+
+Condition_1_Type Kills_Zombie
+Condition_1_Zombie Crawler
+Condition_1_ID 36048
+Condition_1_Spawn
+Condition_1_Value 1
+Condition_1_Logic Greater_Than_Or_Equal_To
+Condition_1_Nav 2
+
+Rewards 8
+Reward_0_Type Item
+Reward_0_ID 36104
+Reward_0_Amount 1
+Reward_1_Type Flag_Bool
+Reward_1_ID 36055
+Reward_1_Value True
+Reward_2_Type Flag_Bool
+Reward_2_ID 36056
+Reward_2_Value True
+
+Reward_3_Type Item
+Reward_3_ID 36122
+Reward_3_Amount 0
+Reward_4_Type Flag_Short
+Reward_4_ID 36134
+Reward_4_Value 1
+Reward_4_Modification Increment
+Reward_5_Type Flag_Short
+Reward_5_ID 36135
+Reward_5_Value 0
+Reward_5_Modification Assign
+Reward_6_Type Flag_Math
+Reward_6_A_ID 36135
+Reward_6_B_ID 36134
+Reward_6_Operation Addition
+Reward_7_Type Flag_Math
+Reward_7_A_ID 36135
+Reward_7_B_Value 4
+Reward_7_Operation Modulo

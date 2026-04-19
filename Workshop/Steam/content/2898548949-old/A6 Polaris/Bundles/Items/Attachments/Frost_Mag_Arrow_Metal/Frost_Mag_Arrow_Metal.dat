@@ -1,0 +1,33 @@
+GUID 2084b61d95e24ab4b728264ce2b2e63e
+
+Type Magazine
+Rarity Uncommon
+ID 36334
+
+
+
+Size_Z 0.2
+Use_Auto_Icon_Measurements False
+
+Amount 1
+
+Tracer 48
+
+Calibers 1
+Caliber_0 36006
+
+Ballistic_Damage_Multiplier 1.6
+
+Stuck 1
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27

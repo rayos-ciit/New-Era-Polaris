@@ -1,0 +1,19 @@
+GUID 78e6cf69ec6747489dbf94bbbe1993af
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36395
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36395
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment

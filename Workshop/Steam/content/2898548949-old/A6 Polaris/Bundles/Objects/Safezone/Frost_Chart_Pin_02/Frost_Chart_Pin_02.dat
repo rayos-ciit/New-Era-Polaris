@@ -1,0 +1,13 @@
+GUID f1dfd47cadb94ddbbfc007a27052c8c0
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Windmill_0
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Chart_Pin_00

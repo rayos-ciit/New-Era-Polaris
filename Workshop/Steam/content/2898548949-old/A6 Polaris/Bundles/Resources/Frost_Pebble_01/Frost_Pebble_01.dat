@@ -1,0 +1,20 @@
+GUID 16d8c7fb17dc427099bcc62632146203
+
+Type Resource
+Has_Clip_Prefab false
+ID 36015
+
+Health 65000
+Radius 45
+Scale 0.4
+
+Explosion 36008
+Reward_ID 36002
+Reward_XP 0
+Reward_Min 0
+Reward_Max 0
+
+Reset 600
+
+No_Debris
+BladeID 6

@@ -1,0 +1,4 @@
+Name Frost Bank [Withdraw 5]
+
+Interact Withdraw <color=#64c819>金5</color>[{0}]
+Interactability_Condition_0 Insufficient Funds

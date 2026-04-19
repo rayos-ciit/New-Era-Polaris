@@ -1,0 +1,152 @@
+GUID 9312834e038c4de6b0539a4e7e060a6b
+
+Type Dialogue
+ID 36154
+
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 36105
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 36105
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 36105
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 36105
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 36105
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 36105
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 11
+
+//Quest
+Response_0_Quest 36144
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36144
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36144
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36155
+
+//Complete Quest
+Response_1_Quest 36144
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 36144
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Dialogue 36145
+
+//Quest
+Response_2_Quest 36152
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 36152
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 36152
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 36144
+Response_2_Condition_1_Status Completed
+Response_2_Condition_1_Logic Equal
+Response_2_Dialogue 36155
+
+//Complete Quest
+Response_3_Quest 36152
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 36152
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Reset
+Response_3_Dialogue 36147
+
+//Quest
+Response_4_Quest 36148
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 36148
+Response_4_Conditions 2
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 36148
+Response_4_Condition_0_Status None
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 36152
+Response_4_Condition_1_Status Completed
+Response_4_Condition_1_Logic Equal
+Response_4_Dialogue 36155
+
+//Complete Quest
+Response_5_Quest 36148
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 36148
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Reset
+Response_5_Dialogue 36149
+
+//Quest
+Response_6_Quest 36150
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 36150
+Response_6_Conditions 2
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 36150
+Response_6_Condition_0_Status None
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 36148
+Response_6_Condition_1_Status Completed
+Response_6_Condition_1_Logic Equal
+Response_6_Dialogue 36155
+
+//Complete Quest
+Response_7_Quest 36150
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 36150
+Response_7_Condition_0_Status Ready
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Reset
+Response_7_Dialogue 36151
+
+//TRADE
+Response_8_Vendor 36143
+Response_9_Vendor 36496

@@ -1,0 +1,17 @@
+GUID 4e1d1093862f493da6b2c7561cae025b
+
+Type Resource
+Has_Clip_Prefab false
+ID 36010
+
+Health 1
+Radius 3
+Scale 0.1
+
+Log 36016
+Forage
+
+Reset 120
+Explosion 7
+
+BladeID 5

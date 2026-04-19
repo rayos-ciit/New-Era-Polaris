@@ -1,0 +1,46 @@
+GUID 2d98fe11bb7243f4a48789af40b1d067
+
+Type Quest
+ID 36567
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36569
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Rewards 9
+Reward_0_Type Item
+Reward_0_ID 36356
+Reward_0_Amount 2
+Reward_1_Type Item
+Reward_1_ID 36104
+Reward_1_Amount 1
+
+Reward_2_Type Item
+Reward_2_ID 36098
+Reward_2_Amount 0
+
+Reward_7_Type Flag_Bool
+Reward_7_ID 36581
+Reward_7_Value True
+
+Reward_8_Type Item
+Reward_8_ID 36122
+Reward_8_Amount 0
+Reward_3_Type Flag_Short
+Reward_3_ID 36134
+Reward_3_Value 1
+Reward_3_Modification Increment
+Reward_4_Type Flag_Short
+Reward_4_ID 36135
+Reward_4_Value 0
+Reward_4_Modification Assign
+Reward_5_Type Flag_Math
+Reward_5_A_ID 36135
+Reward_5_B_ID 36134
+Reward_5_Operation Addition
+Reward_6_Type Flag_Math
+Reward_6_A_ID 36135
+Reward_6_B_Value 4
+Reward_6_Operation Modulo

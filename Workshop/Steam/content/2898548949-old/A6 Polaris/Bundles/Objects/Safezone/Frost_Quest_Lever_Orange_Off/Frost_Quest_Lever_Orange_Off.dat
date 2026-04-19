@@ -1,0 +1,26 @@
+GUID a755ce9c63664461846d2a709f8cd1be
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36308
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36303
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 36304
+Interactability_Reward_1_Value False
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 36308
+Interactability_Reward_2_Value True

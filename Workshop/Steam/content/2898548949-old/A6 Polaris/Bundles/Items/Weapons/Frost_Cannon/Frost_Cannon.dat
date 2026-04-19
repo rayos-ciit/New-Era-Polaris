@@ -1,0 +1,66 @@
+GUID ab202ebc2d964cc5878412b70a194531
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 36013
+
+Sight 1301
+Magazine 36014
+
+Ammo_Min 5
+Ammo_Max 5
+
+Auto
+Bursts 5
+
+Caliber 36001
+
+Range 750
+Firerate 20
+Action Trigger
+
+Gunshot_Rolloff_Distance 1500
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 240
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 120
+Structure_Damage 120
+Vehicle_Damage 300
+Resource_Damage 350
+Object_Damage 250
+
+Invulnerable
+
+Spread_Aim 0.025
+Spread_Hip 0.025
+
+Recoil_Min_X -0.2
+Recoil_Min_Y -0.2
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.2
+
+Recover_X 0
+Recover_Y 0
+
+Muzzle 4
+Shell 0
+
+Reload_Time 3
+Turret

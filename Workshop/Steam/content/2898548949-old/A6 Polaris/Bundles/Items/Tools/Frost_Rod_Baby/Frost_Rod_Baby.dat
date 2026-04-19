@@ -1,0 +1,62 @@
+GUID f952c8e3edd243ca8530f68b889d2d7f
+
+Type Fisher
+Useable Fisher
+Rarity Uncommon
+ID 36035
+
+Size_X 4
+
+Size_Z 0.25
+
+Backward
+
+Reward_ID 36091
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36035
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36035
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36037
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade fishing rod
+
+Action_1_Type Blueprint
+Action_1_Source 36035
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36035
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage

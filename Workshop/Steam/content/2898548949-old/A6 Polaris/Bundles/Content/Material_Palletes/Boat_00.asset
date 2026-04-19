@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "38f13228c90b48d1a5716ab2aee7a22a"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Boat_00/Material_00.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Boat_00/Material_01.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Boat_00/Material_02.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Boat_00/Material_03.mat"
+		}
+		{
+			"Name" "frost.masterbundle"
+			"Path" "Content/Material_Palletes/Boat_00/Material_04.mat"
+		}
+	]
+}

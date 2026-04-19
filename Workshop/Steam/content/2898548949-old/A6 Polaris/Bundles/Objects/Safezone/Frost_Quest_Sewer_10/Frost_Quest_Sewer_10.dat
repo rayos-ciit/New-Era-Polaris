@@ -1,0 +1,8 @@
+GUID 28a7f796b8f447aab380d16860adf7f3
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Quest_Sewer_08

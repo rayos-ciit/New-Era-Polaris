@@ -1,0 +1,9 @@
+GUID fda32089bddf414c8950cfec5819d1ec
+
+Type Resource
+Has_Clip_Prefab false
+ID 36016
+
+Health 100
+Radius 3
+Scale 0.2

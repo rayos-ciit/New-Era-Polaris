@@ -1,0 +1,33 @@
+GUID 67a556ee3ad241059fdb7666de5f4b31
+
+Type Vendor
+ID 36500
+
+Buying 5
+Buying_0_ID 36143
+Buying_0_Cost 40
+Buying_1_ID 36145
+Buying_1_Cost 40
+Buying_2_ID 36147
+Buying_2_Cost 40
+Buying_3_ID 36518
+Buying_3_Cost 40
+Buying_4_ID 36517
+Buying_4_Cost 40
+
+Selling 5
+Selling_0_ID 36143
+Selling_0_Cost 40
+Selling_1_ID 36145
+Selling_1_Cost 40
+Selling_2_ID 36147
+Selling_2_Cost 40
+Selling_3_ID 36518
+Selling_3_Cost 40
+Selling_4_ID 36517
+Selling_4_Cost 40
+
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

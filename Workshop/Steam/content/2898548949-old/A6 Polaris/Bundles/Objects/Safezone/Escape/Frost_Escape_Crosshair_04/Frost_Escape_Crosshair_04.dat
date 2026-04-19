@@ -1,0 +1,24 @@
+GUID 41fdfc787741434491ba04d82f5ead20
+
+Type Small
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36400
+Condition_0_Value 5
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 2
+
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36400
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+Interactability_Reward_1_Type Teleport
+Interactability_Reward_1_Spawnpoint Expedition_3_2

@@ -1,0 +1,46 @@
+GUID bdf6f74308bc4c62aaccd7bacfb3d8fc
+
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 36587
+
+Size_X 3
+Size_Y 2
+
+Quest_Rewards 7
+
+//ammo boxes
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 36010
+Quest_Reward_0_Amount 1
+
+//armor
+Quest_Reward_1_Type Item_Random
+Quest_Reward_1_ID 36011
+Quest_Reward_1_Amount 2
+
+//gun
+Quest_Reward_2_Type Item_Random
+Quest_Reward_2_ID 36012
+Quest_Reward_2_Amount 1
+
+//mags
+Quest_Reward_3_Type Item_Random
+Quest_Reward_3_ID 36045
+Quest_Reward_3_Amount 6
+
+//mats
+Quest_Reward_4_Type Item_Random
+Quest_Reward_4_ID 36033
+Quest_Reward_4_Amount 14
+
+Quest_Reward_5_Type Experience
+Quest_Reward_5_Value 20
+
+Quest_Reward_6_Type Flag_Short
+Quest_Reward_6_ID 36572
+Quest_Reward_6_Value 1
+Quest_Reward_6_Modification Increment
+
+ConsumeAudioClip core.masterbundle:Items/Medical/Medkit/Use.mp3

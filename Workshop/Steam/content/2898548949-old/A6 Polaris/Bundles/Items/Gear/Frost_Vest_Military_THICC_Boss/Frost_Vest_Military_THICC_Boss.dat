@@ -1,0 +1,17 @@
+GUID 36f8d370cb5d4f1b90536c7fe4d7fdc6
+
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 36591
+
+Size_X 2
+Size_Y 2
+
+Armor 0.7
+
+Width 6
+Height 4
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Vest_Military_THICC

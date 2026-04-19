@@ -1,0 +1,20 @@
+GUID 94a9abf7526543dd886505920eb36255
+
+Type Dialogue
+ID 36454
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 5
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Safezone
+
+Response_1_Dialogue 36455
+
+Response_2_Dialogue 36471
+
+Response_3_Dialogue 36472

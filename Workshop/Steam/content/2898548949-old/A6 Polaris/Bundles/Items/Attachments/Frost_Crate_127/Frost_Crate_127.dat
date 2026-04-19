@@ -1,0 +1,30 @@
+GUID 06a7d88d3d7b47ada6fb3cd23fceb737
+
+Type Supply
+Rarity Epic
+ID 36603
+
+Size_X 2
+Size_Y 2
+
+Amount 10
+Count_Min 10
+Count_Max 10
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36603
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36604
+Blueprint_0_Output_0_Amount 10
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type 36603
+Action_0_Source 36603
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Unbox
+Action_0_Tooltip ▲Open the Ammo Crate

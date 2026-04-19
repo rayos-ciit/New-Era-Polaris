@@ -1,0 +1,32 @@
+GUID 0379c4442cf04816accaee2a7cc46113
+
+Type Library
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Library
+ID 36351
+
+Size_X 2
+Size_Y 2
+
+Health 300
+Range 4
+Radius 0.25
+Offset 1.35
+Vulnerable
+Capacity 2000
+Tax 0
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 36123
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

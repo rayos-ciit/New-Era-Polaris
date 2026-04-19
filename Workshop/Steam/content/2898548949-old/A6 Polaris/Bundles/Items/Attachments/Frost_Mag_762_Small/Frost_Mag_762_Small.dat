@@ -1,0 +1,36 @@
+GUID 9577cce574524fa0b11fcb82d6447bef
+
+Type Magazine
+Rarity Rare
+ID 36130
+
+
+
+
+Amount 8
+Count_Min 5
+Count_Max 8
+
+Calibers 1
+Caliber_0 36002
+
+Tracer 36001
+
+Blueprints 4
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36130
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36131
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 36329
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 36330
+Blueprint_3_Build 30

@@ -1,0 +1,30 @@
+GUID 96ae3438854247feaa9098fb30e11b47
+
+Type Structure
+Rarity Legendary
+Useable Structure
+Has_Clip_Prefab false
+Construct Roof_Poly
+ID 36278
+
+Size_X 2
+Size_Y 2
+
+Health 2400
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36256
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36195
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Tool 36090
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip Items/Structures_Armored/Frost_Armored_Pillar/Use.wav

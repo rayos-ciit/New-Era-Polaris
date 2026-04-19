@@ -1,0 +1,20 @@
+GUID 5f87661adf164179b0d10688c11a1cf8
+
+Type Food
+Useable Consumeable
+ID 36416
+
+
+
+Size_Z 0.3
+Use_Auto_Icon_Measurements False
+
+Food 30
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3

@@ -1,0 +1,30 @@
+GUID 5d59d70eec95433490a8f9e51295a1a2
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Cage
+ID 36371
+
+
+
+
+Health 300
+Range 4
+Offset 0.15
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36009
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

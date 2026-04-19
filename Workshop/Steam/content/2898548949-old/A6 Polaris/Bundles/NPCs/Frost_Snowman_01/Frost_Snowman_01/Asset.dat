@@ -1,0 +1,26 @@
+GUID 89f87ef9ca7542f7ac6ed58b965ea310
+
+Type NPC
+ID 36607
+
+Face 12
+Hair 0
+Beard 4
+Color_Skin #332C25
+Color_Hair #352C22
+Backward
+
+Shirt 592
+Mask 591
+Pants 593
+Glasses 594
+
+Dialogue 36600
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36603
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Pose Rest

@@ -1,0 +1,32 @@
+GUID 543a0f9b04984bd2b865380a03e68291
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Freeform
+ID 36292
+
+Health 20
+Range 8
+Radius 0.25
+Offset 0.875
+
+Explosion 29
+Vulnerable
+Bypass_Claim
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36284
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 36045
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

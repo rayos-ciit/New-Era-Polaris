@@ -1,0 +1,15 @@
+GUID 90166b41a7cf4c3b9d66d380e509a47d
+
+Type Barrel
+Rarity Uncommon
+ID 36332  
+
+
+
+
+Gunshot_Rolloff_Distance_Multiplier 0.5
+Silenced 
+Volume 0.5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barrels/Crossbow_Barrel

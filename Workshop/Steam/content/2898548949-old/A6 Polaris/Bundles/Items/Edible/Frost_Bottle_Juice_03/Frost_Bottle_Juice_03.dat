@@ -1,0 +1,12 @@
+GUID d8d6711734fd433ab10a7a880f8a9789
+Type Water
+Useable Consumeable
+ID 36439
+Size_Y 2
+Water 50
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+ConsumeAudioClip core.masterbundle:Sounds/DrinkSwallow.mp3

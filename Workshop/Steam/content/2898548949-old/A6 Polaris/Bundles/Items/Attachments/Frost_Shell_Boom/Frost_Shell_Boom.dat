@@ -1,0 +1,55 @@
+GUID 6076cc0cf9eb4f6a95b63f320683c2c6
+
+Type Magazine
+Rarity Legendary
+ID 36560
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 36003
+
+Pellets 1
+
+Spread 0.1
+
+Range 5
+Player_Damage 10
+Zombie_Damage 168
+Animal_Damage 36
+Barricade_Damage 98
+Structure_Damage 98
+Vehicle_Damage 150
+Resource_Damage 12
+Object_Damage 12
+Explosion 36033
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36525
+Blueprint_0_Build 30
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 36092
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 36370
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 36412
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Supply_3_ID 36284
+Blueprint_1_Supply_3_Amount 2
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36560
+Blueprint_1_Output_0_Amount 14
+
+Ballistic_Damage_Multiplier 6
+
+Delete_Empty

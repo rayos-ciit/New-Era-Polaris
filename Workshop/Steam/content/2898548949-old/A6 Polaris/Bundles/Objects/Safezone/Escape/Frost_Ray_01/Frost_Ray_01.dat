@@ -1,0 +1,18 @@
+GUID 17143772bc1041a4ab88297ebd2f829b
+
+Type Small
+Has_Clip_Prefab false
+
+
+ID 36000
+Exclude_From_Level_Batching True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36542
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Escape/Frost_Ray_00

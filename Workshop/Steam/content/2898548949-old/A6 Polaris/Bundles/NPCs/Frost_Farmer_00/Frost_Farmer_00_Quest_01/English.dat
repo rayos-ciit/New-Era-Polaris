@@ -1,0 +1,8 @@
+Name <color=#d2bf22>Farmer II</color>
+Description Ores can be found deep in the mines, requiring a pickaxe to harvest.
+
+Condition_0 {0}/{1} Small Metal Ores Harvested
+Condition_1 {0}/{1} Large Metal Ores Harvested
+Reward_1 +1 Scrap Metal From Scrapping Recipes
+
+Reward_2 +1 ATM Point

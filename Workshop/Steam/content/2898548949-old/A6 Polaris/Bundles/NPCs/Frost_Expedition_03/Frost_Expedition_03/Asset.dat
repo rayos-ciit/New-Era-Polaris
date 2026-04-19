@@ -1,0 +1,20 @@
+GUID 430a8a7b549149218e363ea8af0e32a8
+
+Type NPC
+ID 36464
+
+Face 5
+Hair 3
+Beard 2
+Color_Skin #9D886B
+Color_Hair #B9B9B9
+
+Backpack 36159
+Shirt 36154
+Pants 36193
+Vest 36530
+Hat 36218
+
+Secondary 36568
+
+Dialogue 36454

@@ -1,0 +1,51 @@
+GUID 01a76a6896d84af5954ee9228b7be86b
+
+Type Dialogue
+ID 36108
+
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 36105
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 36105
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 36105
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 36105
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 36105
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 36105
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 2
+
+//TRADE
+Response_0_Vendor 36109

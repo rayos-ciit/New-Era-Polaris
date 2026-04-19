@@ -1,0 +1,57 @@
+"Metadata"
+{
+	"GUID" "6574c05111e84c4c985d463a830f9a7a"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Volume_Mask" "2"
+	"Fade_In_Duration" "25.0"
+	"Fade_Out_Duration" "25.0"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Fog_Blend_Exponent" "1.25"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.5"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.45"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.5"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"Level_Enum" "SKY_SKY"
+		}
+		"Fog_Density" "0.6"
+	}
+	"Effects"
+	[
+		{
+			"Prefab"{
+				"MasterBundle" "core.masterbundle"
+				"AssetPath" "Effects/Weather/GentleSnowParticles.prefab"
+			}
+			"Emission_Exponent" "0.1"
+			"Translate_With_View" "true"
+		}
+	]
+}

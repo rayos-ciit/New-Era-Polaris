@@ -1,0 +1,29 @@
+GUID 601e48c8e81a41cc8d120619f598ab14
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36411
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36411
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 36305
+Interactability_Reward_1_Amount 1
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 36412
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Vest_Military_THICC

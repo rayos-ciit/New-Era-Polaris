@@ -1,0 +1,20 @@
+GUID be23f924ff454f98a4dfa89e718f7b7f
+
+Type Dialogue
+ID 36005
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+//Boat1
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Boat0
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Teleport
+Response_1_Reward_0_Spawnpoint Boat2

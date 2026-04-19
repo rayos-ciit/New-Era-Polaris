@@ -1,0 +1,20 @@
+GUID 724142ac9192479785f018aa90049b93
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+Rarity Legendary
+ID 36618
+
+Size_X 2
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.15
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

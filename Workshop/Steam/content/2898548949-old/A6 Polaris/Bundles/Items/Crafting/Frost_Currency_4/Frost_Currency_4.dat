@@ -1,0 +1,39 @@
+GUID fe88122200bc402aad01b3a098d11b9b
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Barricade
+Rarity Legendary
+ID 36105
+
+Size_Z 0.34
+Use_Auto_Icon_Measurements False
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.15
+Explosion 36
+Vulnerable
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership True
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36105
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36104
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36105
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▼Degrade
+Action_0_Tooltip ▼Break down into 5x <color=#964bfa>Gold Nuggets</color>

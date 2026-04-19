@@ -1,0 +1,31 @@
+GUID c64eca9a15dd43ac92068631637f7923
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Sign_Wall
+ID 36497
+
+Size_X 2
+Size_Y 2
+
+Health 600
+Range 4
+Offset 0.125
+Locked
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Ignore_TexRW true
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

@@ -1,0 +1,56 @@
+GUID 62058b33c4634c59ad747be901657cdc
+
+Type Fisher
+Useable Fisher
+Rarity Rare
+ID 36600
+
+Size_X 5
+
+Size_Z 0.25
+
+Backward
+
+Reward_ID 36093
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36600
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36011
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36600
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36011
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36037
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 36196
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+
+Blueprint_3_Conditions 1
+Blueprint_3_Condition_0_Type Flag_Bool
+Blueprint_3_Condition_0_ID 36580
+Blueprint_3_Condition_0_Value True
+Blueprint_3_Condition_0_Logic Equal

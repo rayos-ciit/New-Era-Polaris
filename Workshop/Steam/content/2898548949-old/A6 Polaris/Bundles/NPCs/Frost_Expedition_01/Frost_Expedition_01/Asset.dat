@@ -1,0 +1,26 @@
+GUID b32ba7c466504910a779efa94a2d069b
+
+Type NPC
+ID 36020
+
+Face 5
+Hair 3
+Beard 2
+Color_Skin #9D886B
+Color_Hair #B9B9B9
+
+Backpack 36159
+Shirt 36154
+Pants 36193
+Vest 36530
+Hat 36218
+
+Secondary 36568
+
+Dialogue 36021
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36026
+Condition_0_Value True
+Condition_0_Logic Equal

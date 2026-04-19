@@ -1,0 +1,51 @@
+GUID 6f1a3178bbd14605a8033aa4f601ad54
+
+Type Quest
+ID 36152
+
+Conditions 2
+Condition_0_Type Kills_Object
+Condition_0_ID 36157
+Condition_0_Value 5
+Condition_0_Object 53a15b59f0cb4d56a1067dc8a12cf449
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Condition_1_Type Kills_Object
+Condition_1_ID 36158
+Condition_1_Value 5
+Condition_1_Object e4cdb8de23664bfb95252f2159367d5e
+Condition_1_Logic Greater_Than_Or_Equal_To
+
+Rewards 8
+Reward_0_Type Item
+Reward_0_ID 36104
+Reward_0_Amount 1
+
+Reward_1_Type Item
+Reward_1_ID 36562
+Reward_1_Amount 0
+
+Reward_7_Type Flag_Short
+Reward_7_ID 36013
+Reward_7_Value 1
+Reward_7_Modification Assign
+
+Reward_2_Type Item
+Reward_2_ID 36122
+Reward_2_Amount 0
+Reward_3_Type Flag_Short
+Reward_3_ID 36134
+Reward_3_Value 1
+Reward_3_Modification Increment
+Reward_4_Type Flag_Short
+Reward_4_ID 36135
+Reward_4_Value 0
+Reward_4_Modification Assign
+Reward_5_Type Flag_Math
+Reward_5_A_ID 36135
+Reward_5_B_ID 36134
+Reward_5_Operation Addition
+Reward_6_Type Flag_Math
+Reward_6_A_ID 36135
+Reward_6_B_Value 4
+Reward_6_Operation Modulo

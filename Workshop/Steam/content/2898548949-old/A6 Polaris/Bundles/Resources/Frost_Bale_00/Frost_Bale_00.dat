@@ -1,0 +1,16 @@
+GUID 8b704dc9bc624ec39fb90931071b3251
+
+Type Resource
+Has_Clip_Prefab false
+ID 36026
+
+Health 1
+Radius 0
+Scale 0.1
+
+Explosion 36018
+
+Log 36026
+Forage
+
+Reset 120

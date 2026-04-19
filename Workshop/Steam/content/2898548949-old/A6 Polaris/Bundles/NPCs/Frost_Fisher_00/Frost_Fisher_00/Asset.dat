@@ -1,0 +1,21 @@
+GUID b88c9225ae0245d38f0ebda77c2c4b33
+
+Type NPC
+ID 36110
+
+Face 6
+Hair 1
+Beard 0
+Color_Skin #D9CAB4
+Color_Hair #C1C1C1
+
+Hat 36383
+Shirt 36385
+Pants 36384
+
+Equipped Tertiary
+Primary 36037
+Secondary 36382
+Tertiary 36035
+
+Dialogue 36111

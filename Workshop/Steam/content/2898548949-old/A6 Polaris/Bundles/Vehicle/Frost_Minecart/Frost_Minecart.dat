@@ -1,0 +1,39 @@
+GUID 7e8c5356b1244a0c8012915b0b6011a1
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Common
+ID 36024
+Can_Steal_Battery False
+Speed_Min -35
+Speed_Max 35
+
+Fuel 2000
+
+Health_Min 10000
+Health_Max 10000
+Health 10000
+
+Engine Train
+Train_Track_Offset 0.5
+Train_Wheel_Offset .5
+Train_Car_Length 4
+
+Pitch_Idle 0.625
+Pitch_Drive 0.01
+
+Stamina_Powered
+Can_Be_Locked False
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+Explosion 20
+Invulnerable
+Explosions_Invulnerable
+Environment_Invulnerable
+Bumper_Invulnerable
+
+Drops_Table_ID 36123
+Drops_Min 4
+Drops_Max 6

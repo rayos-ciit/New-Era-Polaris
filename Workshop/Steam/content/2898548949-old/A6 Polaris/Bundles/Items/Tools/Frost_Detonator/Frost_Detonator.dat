@@ -1,0 +1,56 @@
+GUID 85f79b8f099043d68bd525c3f6d3a2ca
+
+Type Detonator
+Rarity Legendary
+Useable Detonator
+ID 36368
+
+Size_X 2
+Size_Y 2
+
+Shared_Skin_Lookup_ID 1240
+
+Backward
+
+Blueprints 3
+
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36368
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36368
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 36092
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 36412
+Blueprint_2_Supply_1_Amount 2
+Blueprint_2_Supply_2_ID 36284
+Blueprint_2_Supply_2_Amount 2
+Blueprint_2_Product 36368
+Blueprint_2_Products 1
+Blueprint_2_Level 2
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27

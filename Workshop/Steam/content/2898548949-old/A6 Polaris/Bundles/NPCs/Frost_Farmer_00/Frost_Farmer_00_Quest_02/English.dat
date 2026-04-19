@@ -1,0 +1,10 @@
+Name <color=#d2bf22>Farmer III</color>
+Description Cows provide tasty meat that can be shoved between two bits of bread and then eaten.
+
+Condition_0 {0}/{1} Cows Slain
+Condition_1 {0}/{1} <color=#1f871f>Meat Sandwich</color> Crafted
+
+Reward_1 +1 Fertilizer From Rope
+Reward_2 Metal Seeds Buyable
+
+Reward_4 +1 ATM Point

@@ -1,0 +1,40 @@
+GUID 443dbf34f4e948348bc407528cac1d14
+
+Type Vendor
+ID 36499
+
+Buying 7
+Buying_0_ID 36440
+Buying_0_Cost 50
+Buying_1_ID 36461
+Buying_1_Cost 50
+Buying_2_ID 36463
+Buying_2_Cost 50
+Buying_3_ID 36460
+Buying_3_Cost 50
+Buying_4_ID 36462
+Buying_4_Cost 50
+Buying_5_ID 36441
+Buying_5_Cost 50
+Buying_6_ID 36442
+Buying_6_Cost 50
+
+Selling 7
+Selling_0_ID 36440
+Selling_0_Cost 200
+Selling_1_ID 36461
+Selling_1_Cost 200
+Selling_2_ID 36463
+Selling_2_Cost 200
+Selling_3_ID 36460
+Selling_3_Cost 200
+Selling_4_ID 36462
+Selling_4_Cost 200
+Selling_5_ID 36441
+Selling_5_Cost 200
+Selling_6_ID 36442
+Selling_6_Cost 200
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

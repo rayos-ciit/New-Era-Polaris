@@ -1,0 +1,27 @@
+GUID 122b743b47344d2c8e389c1088b8b991
+
+Type NPC
+ID 36014
+
+Face 5
+Hair 3
+Beard 2
+Color_Skin #9D886B
+Color_Hair #B9B9B9
+
+Backpack 36159
+Shirt 36154
+Pants 36193
+Vest 36530
+Hat 36218
+
+Secondary 36568
+
+Dialogue 36015
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36026
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

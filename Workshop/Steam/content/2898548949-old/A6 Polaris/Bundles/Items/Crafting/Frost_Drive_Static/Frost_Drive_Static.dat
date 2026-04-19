@@ -1,0 +1,20 @@
+GUID 77b8d27c58394bacbd0764e501f5e5d4
+
+Type Barricade
+Rarity Mythical
+Has_Clip_Prefab false
+Build Stereo
+ID 36644
+
+Health 65000
+Range 4
+Radius 0.6
+Offset 0.7
+
+Armor_Tier High
+Unpickupable
+
+Explosion 36
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Crafting/Frost_Drive

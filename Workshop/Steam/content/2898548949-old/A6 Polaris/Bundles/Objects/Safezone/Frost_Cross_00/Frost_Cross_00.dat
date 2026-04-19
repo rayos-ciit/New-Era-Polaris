@@ -1,0 +1,27 @@
+GUID bd55403e23e549d68ca2dbb1a97818dd
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36173
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 4
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36173
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 36043
+Interactability_Reward_1_Amount 1
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 36174
+Interactability_Reward_2_Value True
+Interactability_Reward_3_Type Item
+Interactability_Reward_3_ID 36519
+Interactability_Reward_3_Amount 1

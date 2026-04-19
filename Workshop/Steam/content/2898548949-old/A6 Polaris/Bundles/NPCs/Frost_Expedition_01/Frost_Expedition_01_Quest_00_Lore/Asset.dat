@@ -1,0 +1,20 @@
+GUID 67773ed8489d42a6af57344caaa12875
+
+Type Dialogue
+ID 36022
+
+Messages 1
+Message_0_Pages 5
+
+Responses 2
+
+Response_0_Quest 36029
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 36029
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 36029
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Dialogue 36025

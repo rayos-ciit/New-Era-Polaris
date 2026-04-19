@@ -1,0 +1,28 @@
+GUID 1609607140a34f73b9a94b87329b997a
+
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab false
+Build Ladder
+ID 36290
+
+Health 20
+Range 4
+Offset 0.25
+
+Explosion 19
+Vulnerable
+Bypass_Claim
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36284
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

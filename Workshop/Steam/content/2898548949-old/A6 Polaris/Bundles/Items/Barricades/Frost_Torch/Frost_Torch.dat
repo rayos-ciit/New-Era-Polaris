@@ -1,0 +1,28 @@
+GUID 92c510f16b074d51b66a943b3c0736c2
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Torch
+ID 36372
+
+
+Size_Y 2
+
+Health 100
+Range 4
+Offset 0.2
+
+Vulnerable
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36016
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Products 2
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3

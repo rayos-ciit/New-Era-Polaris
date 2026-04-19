@@ -1,0 +1,22 @@
+GUID e8c1d3ae51a543deaf2767ca94960343
+
+Type Fuel
+Rarity Rare
+Useable Fuel
+ID 36077
+
+Size_X 2
+Size_Y 2
+Size_Z 0.625
+
+Fuel 500
+
+Use_Auto_Icon_Measurements False
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36078
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Combine with other jerry cans

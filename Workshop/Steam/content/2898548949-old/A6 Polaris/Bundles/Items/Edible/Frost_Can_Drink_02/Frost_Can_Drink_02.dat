@@ -1,0 +1,18 @@
+GUID 92ab72c929cf49ab976d14e13b934b10
+
+Type Water
+Useable Consumeable
+ID 36432
+
+
+
+
+Water 30
+Energy 100
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 36360
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+ConsumeAudioClip core.masterbundle:Items/Water/Canned_Cola/Use.mp3

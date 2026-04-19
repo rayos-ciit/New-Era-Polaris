@@ -1,0 +1,23 @@
+GUID 122308608a7a432e81cd055ea51356c8
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 36071
+
+
+
+
+Food 5
+Water 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36071
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36066
+Blueprint_0_Output_0_Amount 1
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3

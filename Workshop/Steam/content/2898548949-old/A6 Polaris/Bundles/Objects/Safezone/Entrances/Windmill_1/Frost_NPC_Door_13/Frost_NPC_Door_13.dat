@@ -1,0 +1,19 @@
+GUID 86cefebfa9d7430a9516442893a2b56b
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Windmill_1
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36008
+Condition_0_Value 6
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_NPC_Door_00

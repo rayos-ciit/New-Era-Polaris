@@ -1,0 +1,35 @@
+GUID 11367f8ecfff4c26a34d01b6ddc6cbaf
+
+Type Structure
+Rarity Epic
+Useable Structure
+Has_Clip_Prefab false
+Construct Roof
+ID 36251
+
+Size_X 2
+Size_Y 2
+
+Health 1200
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36272
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade using armored plates

@@ -1,0 +1,17 @@
+GUID 8cc28c107e634f01b0d6e474dce4efa9
+
+Type Quest
+ID 36554
+
+Conditions 1
+
+Condition_0_Type Item
+Condition_0_ID 36100
+Condition_0_Amount 3
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset
+
+Rewards 1
+Reward_0_Type Item
+Reward_0_ID 36091
+Reward_0_Amount 0

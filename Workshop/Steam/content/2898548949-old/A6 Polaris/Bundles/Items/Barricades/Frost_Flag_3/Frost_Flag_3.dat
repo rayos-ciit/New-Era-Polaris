@@ -1,0 +1,64 @@
+GUID 5c7e4ae7ad214a4391eed49f70421db3
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab false
+Build Claim
+ID 36349
+
+
+Size_Y 2
+
+Health 30
+Range 4
+Radius 0.75
+Offset 0.9
+
+Explosion 29
+Vulnerable
+Proof_Explosion
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Blueprints 4
+
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36339
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 36196
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 36347
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 36196
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Build 27
+
+Blueprint_2_Type Barricade
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36348
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 36196
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+
+Blueprint_3_Type Barricade
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36350
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 36196
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_Build 27

@@ -1,0 +1,14 @@
+GUID ba6f787098814e0ebae099cc0015413d
+
+Type Dialogue
+ID 36025
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 1
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint Expedition_0_0

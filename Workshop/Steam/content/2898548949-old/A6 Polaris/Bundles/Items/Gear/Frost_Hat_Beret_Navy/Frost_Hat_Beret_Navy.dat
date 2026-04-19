@@ -1,0 +1,39 @@
+GUID 34c0587651f545d48f21c607d55ae2cb
+
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 36106
+
+Size_X 2
+Size_Y 2
+
+Beard
+Armor 0.85
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36106
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36045
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36015
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 36106
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36045
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36015
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal

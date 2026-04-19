@@ -1,0 +1,28 @@
+GUID 0fcc81ce6be74bae9a5b765fce66af3a
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Clock
+ID 36475
+
+
+
+
+Health 300
+Range 4
+Offset 0.05
+
+Explosion 60
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36011
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 36084
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27

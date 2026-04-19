@@ -1,0 +1,78 @@
+GUID 06fbe12dcd6a492fb59da0419537d8bb
+
+Type Melee
+Useable Melee
+Slot Any
+Rarity Uncommon
+ID 36032
+
+Size_X 2
+Size_Y 3
+
+Range 4
+BladeIDs 2
+BladeID_0 2
+BladeID_1 0
+Strength 1.5
+Stamina 0
+
+Player_Damage 34
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 34
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 34
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 200
+Object_Damage 200
+
+Durability 0
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 36032
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 2
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 36032
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 3
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 27
+
+
+AttackAudioClip core.masterbundle:Sounds/MeleeAttack_01.mp3

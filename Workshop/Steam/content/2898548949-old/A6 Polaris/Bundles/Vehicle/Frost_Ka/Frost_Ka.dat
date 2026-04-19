@@ -1,0 +1,41 @@
+GUID 2739e0fb2d3149fe8b359626e7e7702c
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Legendary
+ID 36027
+Can_Steal_Battery False
+Speed_Min -4000
+Speed_Max 36
+
+Steer_Min 150
+Steer_Max 40
+Fuel 2000
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 8
+Explosion 20
+IgnitionAudioClip core.masterbundle:Sounds/HelicopterIgnition.mp3
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Invulnerable
+Valid_Speed_Horizontal 100
+LockMouse
+Engine Helicopter
+Sleds
+Traction
+
+Cam_Follow_Distance 15
+
+Air_Turn_Responsiveness 4
+Air_Steer_Min 100
+Air_Steer_Max 100
+Pitch_Drive 0.0135
+
+Drops_Table_ID 36123
+Drops_Min 4
+Drops_Max 6

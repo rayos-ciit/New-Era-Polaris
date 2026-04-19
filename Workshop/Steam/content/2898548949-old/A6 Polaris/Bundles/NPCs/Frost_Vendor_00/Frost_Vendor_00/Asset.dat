@@ -1,0 +1,16 @@
+GUID b4d1f36d3e8048bbb5b4df8b35922864
+
+Type NPC
+ID 36060
+
+Face 22
+Hair 3
+Beard 0
+Color_Skin #937E61
+Color_Hair #414141
+
+Shirt 36099
+
+Dialogue 36061
+
+Pose Asleep

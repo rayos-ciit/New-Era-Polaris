@@ -1,0 +1,17 @@
+GUID f412168628264d8799ca3f4782b2def1
+
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 36640
+
+Proof_Radiation
+Proof_Fire
+Armor 0.85
+Armor_Explosion 0
+
+Width 6
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Top_Police_THICC

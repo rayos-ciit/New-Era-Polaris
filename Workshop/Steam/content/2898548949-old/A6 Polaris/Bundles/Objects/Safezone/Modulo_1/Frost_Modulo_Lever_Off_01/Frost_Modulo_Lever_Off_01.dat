@@ -1,0 +1,47 @@
+GUID 3424434021404014a141d7ceec26a20c
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36250
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 5
+
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 36250
+Interactability_Reward_0_Value True
+
+Interactability_Reward_1_Type Flag_Short_Random
+Interactability_Reward_1_ID 36244
+Interactability_Reward_1_Min_Value 0
+Interactability_Reward_1_Max_Value 2
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_2_Type Flag_Short_Random
+Interactability_Reward_2_ID 36246
+Interactability_Reward_2_Min_Value 0
+Interactability_Reward_2_Max_Value 2
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short_Random
+Interactability_Reward_3_ID 36247
+Interactability_Reward_3_Min_Value 0
+Interactability_Reward_3_Max_Value 2
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short_Random
+Interactability_Reward_4_ID 36248
+Interactability_Reward_4_Min_Value 0
+Interactability_Reward_4_Max_Value 2
+Interactability_Reward_4_Modification Assign
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Modulo_Lever_Off

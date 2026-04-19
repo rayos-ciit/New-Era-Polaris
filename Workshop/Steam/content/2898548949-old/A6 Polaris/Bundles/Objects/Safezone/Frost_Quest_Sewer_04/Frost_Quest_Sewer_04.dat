@@ -1,0 +1,19 @@
+GUID e9b17c6b5d594809b6d0057e3ca6125f
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36283
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 2
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Quest_Sewer_0
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 36461
+Interactability_Reward_1_Value True

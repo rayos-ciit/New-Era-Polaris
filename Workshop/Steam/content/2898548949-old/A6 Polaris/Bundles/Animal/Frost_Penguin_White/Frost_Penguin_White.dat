@@ -1,0 +1,18 @@
+GUID e5521be5f97d42ef8698ff4d0fd6850a
+
+Type Animal
+ID 36007
+
+Speed_Run 12
+Speed_Walk 1
+
+Behaviour Defense
+
+Health 20
+
+Reward_ID 36007
+Reward_XP 2
+Reward_Min 1
+Reward_Max 1
+
+Panics 1

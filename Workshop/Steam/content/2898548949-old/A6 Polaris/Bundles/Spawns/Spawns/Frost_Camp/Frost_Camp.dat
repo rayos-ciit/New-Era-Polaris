@@ -1,0 +1,23 @@
+GUID 0dcea3d578b44483b5f30b246de99b43
+Type Spawn
+ID 36082
+
+Tables 9
+Table_0_Spawn_ID 36079
+Table_0_Weight 1000
+Table_1_Spawn_ID 36042
+Table_1_Weight 1000
+Table_2_Spawn_ID 36052
+Table_2_Weight 500
+Table_3_Spawn_ID 36083
+Table_3_Weight 400
+Table_4_Spawn_ID 36077
+Table_4_Weight 400
+Table_5_Spawn_ID 36076
+Table_5_Weight 300
+Table_6_Spawn_ID 36078
+Table_6_Weight 200
+Table_7_Asset_ID 36084
+Table_7_Weight 200
+Table_8_Asset_ID 36614
+Table_8_Weight 2

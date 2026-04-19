@@ -1,0 +1,88 @@
+GUID 99bd31e3a9044cd280a9b5a79670dd86
+
+Type Melee
+Rarity Legendary
+Useable Melee
+Slot Any
+ID 36413
+
+Size_X 3
+Size_Y 2
+
+BladeIDs 3
+BladeID_0 36
+BladeID_1 2
+BladeID_2 0
+
+Range 3
+Alert_Radius 24
+
+Player_Damage 25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 45
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 10
+Resource_Damage 250
+Object_Damage 250
+
+Blueprints 4
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36413
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 3
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36413
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 4
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
+
+Blueprint_2_Type Repair
+Blueprint_2_Supply_0_ID 36011
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 27
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 3
+Blueprint_3_Supply_0_ID 36038
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 36039
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_2_ID 36356
+Blueprint_3_Supply_2_Amount 1
+Blueprint_3_Build 27
+Blueprint_3_Level 3
+Blueprint_3_Skill Craft
+
+Repeated

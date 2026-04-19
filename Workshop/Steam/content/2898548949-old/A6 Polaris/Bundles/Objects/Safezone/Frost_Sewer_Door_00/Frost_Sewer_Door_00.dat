@@ -1,0 +1,17 @@
+GUID a7f5340371384870a038be0a2baa9601
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36004
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Exclude_From_Level_Batching True
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Hint Use

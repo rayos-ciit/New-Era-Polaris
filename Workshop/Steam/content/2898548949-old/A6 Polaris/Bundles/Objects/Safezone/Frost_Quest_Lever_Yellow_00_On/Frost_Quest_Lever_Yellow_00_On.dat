@@ -1,0 +1,14 @@
+GUID a624a58f45c54161a1cf6691a9f3903e
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 36370
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Quest_Lever_Yellow_On

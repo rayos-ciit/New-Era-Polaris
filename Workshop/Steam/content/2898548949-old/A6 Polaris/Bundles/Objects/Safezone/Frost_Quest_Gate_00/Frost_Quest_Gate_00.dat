@@ -1,0 +1,16 @@
+GUID c43d6e3739454488bcb2ca89118f3f3c
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Binary_State
+Interactability_Delay 5
+Interactability_Hint Use
+Interactability_Reset 120
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 36371
+Interactability_Condition_0_Value 2
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To

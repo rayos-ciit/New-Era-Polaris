@@ -1,0 +1,32 @@
+GUID ec22392020804824b4f50385f8dc4c7c
+
+Type Vendor
+ID 36502
+
+Buying 0
+
+Selling 9
+Selling_0_ID 36524
+Selling_0_Cost 100
+Selling_1_ID 36525
+Selling_1_Cost 100
+
+Selling_2_ID 36452
+Selling_2_Cost 100
+Selling_3_ID 36130
+Selling_3_Cost 100
+Selling_4_ID 36453
+Selling_4_Cost 200
+Selling_5_ID 36152
+Selling_5_Cost 200
+
+Selling_6_ID 36326
+Selling_6_Cost 300
+Selling_7_ID 36328
+Selling_7_Cost 350
+Selling_8_ID 36329
+Selling_8_Cost 400
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

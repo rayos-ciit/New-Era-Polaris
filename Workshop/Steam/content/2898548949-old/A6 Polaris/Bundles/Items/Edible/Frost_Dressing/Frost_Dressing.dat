@@ -1,0 +1,26 @@
+GUID bc2cc03cfb7a4a41a0504c9e674e6f27
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 36362
+
+Aid
+Bleeding
+Health 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 36361
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 36354
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Craft Medkit
+Action_0_Tooltip ▲Upgrade to Medkit
+
+ConsumeAudioClip core.masterbundle:Items/Medical/Dressing/Use.mp3

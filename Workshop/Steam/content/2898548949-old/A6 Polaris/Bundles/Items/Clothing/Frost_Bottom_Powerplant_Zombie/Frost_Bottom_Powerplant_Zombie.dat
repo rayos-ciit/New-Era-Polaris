@@ -1,0 +1,13 @@
+GUID eba88c07359547249fc3d9cfe5cb4952
+
+Type Pants
+Useable Clothing
+ID 36634
+
+Armor_Explosion 0
+
+Width 4
+Height 3
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Clothing/Frost_Bottom_Powerplant_00

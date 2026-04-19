@@ -1,0 +1,12 @@
+GUID d164a5f60b5c4b37aeb0d2a81a1c2b41
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 36627
+
+Energy 80
+Food 60
+Water 60
+
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3

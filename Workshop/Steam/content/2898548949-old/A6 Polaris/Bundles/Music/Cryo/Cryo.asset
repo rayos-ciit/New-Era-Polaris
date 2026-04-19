@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "e9ba140a3c1c4ce6a58f46cd1a50b971"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Cryo0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "frost.masterbundle"
+		"AssetPath" "Cryophobia.wav"
+	}
+	"Link_URL" "https://youtu.be/G98NzvDuDHA"
+}

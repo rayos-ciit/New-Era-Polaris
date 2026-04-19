@@ -1,0 +1,13 @@
+GUID fc28882c43064897a23929d65c6d7f71
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Cave
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Chart_Pin_00

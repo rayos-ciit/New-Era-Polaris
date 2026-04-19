@@ -1,0 +1,18 @@
+GUID dc2e1866df2b48fda201b87576b4aae6
+
+Type Magazine
+Rarity Epic
+ID 36604
+
+Delete_Empty
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 36014
+
+Tracer 36030
+
+Speed 0.75

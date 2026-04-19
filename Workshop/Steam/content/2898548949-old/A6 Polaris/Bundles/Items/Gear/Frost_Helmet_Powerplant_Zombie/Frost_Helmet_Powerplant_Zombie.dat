@@ -1,0 +1,12 @@
+GUID 33ac4720e0c941d6a1d5a89576e88b02
+
+Type Hat
+Useable Clothing
+ID 36636
+
+Armor_Explosion 0
+
+Beard
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Items/Gear/Frost_Helmet_Powerplant

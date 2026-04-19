@@ -1,0 +1,56 @@
+"Metadata"
+{
+	"GUID" "a26ceb552f244563a2aa0b2c967731a6"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Fade_In_Duration" "25.0"
+	"Fade_Out_Duration" "25.0"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Shadow_Strength_Multiplier" "0.4"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"R" "157"
+			"G" "153"
+			"B" "150"
+		}
+		"Fog_Density" "0.9"
+		"Brightness_Multiplier" "0.85"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"R" "165"
+			"G" "161"
+			"B" "163"
+		}
+		"Fog_Density" "0.75"
+		"Brightness_Multiplier" "0.7"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"R" "129"
+			"G" "112"
+			"B" "112"
+		}
+		"Fog_Density" "0.85"
+		"Brightness_Multiplier" "0.85"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"R" "30"
+			"G" "40"
+			"B" "52"
+		}
+		"Fog_Density" "1.2"
+	}
+}

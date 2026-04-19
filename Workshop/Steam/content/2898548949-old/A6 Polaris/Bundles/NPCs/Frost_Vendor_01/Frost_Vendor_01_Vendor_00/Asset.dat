@@ -1,0 +1,52 @@
+GUID 9b70da711ae340118f113947e43640d0
+
+Type Vendor
+ID 36106
+
+Selling 6
+Selling_0_ID 36550
+Selling_0_Cost 200
+Selling_1_ID 36554
+Selling_1_Cost 200
+Selling_2_ID 36552
+Selling_2_Cost 200
+Selling_3_ID 36128
+Selling_3_Cost 200
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 36179
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+Selling_4_ID 36129
+Selling_4_Cost 200
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Flag_Bool
+Selling_4_Condition_0_ID 36179
+Selling_4_Condition_0_Value True
+Selling_4_Condition_0_Logic Equal
+Selling_5_ID 36556
+Selling_5_Cost 200
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Bool
+Selling_5_Condition_0_ID 36566
+Selling_5_Condition_0_Value True
+Selling_5_Condition_0_Logic Equal
+
+
+Buying 5
+Buying_0_ID 36550
+Buying_0_Cost 100
+Buying_1_ID 36554
+Buying_1_Cost 100
+Buying_2_ID 36552
+Buying_2_Cost 100
+Buying_3_ID 36128
+Buying_3_Cost 100
+Buying_4_ID 36129
+Buying_4_Cost 100
+
+
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

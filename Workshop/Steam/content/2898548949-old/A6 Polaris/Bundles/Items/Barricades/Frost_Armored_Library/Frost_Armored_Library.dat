@@ -1,0 +1,37 @@
+GUID 7fe6e5612b904a28a4dda764ae9bf8dc
+
+Type Library
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Library
+ID 36353
+
+Size_X 2
+Size_Y 2
+
+Health 1200
+Range 4
+Radius 0.25
+Offset 1.35
+
+Capacity 12000
+Tax 0
+
+Locked
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36352
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 36195
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 36090
+
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip Items/Structures_Armored/Frost_Armored_Pillar/Use.wav

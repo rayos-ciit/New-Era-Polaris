@@ -1,0 +1,14 @@
+GUID 642043a9b5cd4b28b12aede0b1727a28
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 36283
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Puzzle_Load_00

@@ -1,0 +1,47 @@
+GUID 9aa048904c48450db8aa09edf79f7e9c
+
+Type Generator
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Generator
+ID 36364
+
+Size_X 3
+Size_Y 3
+
+Health 600
+Range 6
+Radius 1.25
+Offset 1.5
+
+Capacity 20000
+Wirerange 64
+Burn 5
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36363
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 36009
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Supply_1_ID 36078
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 36009
+Blueprint_1_Supply_2_Amount 5
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

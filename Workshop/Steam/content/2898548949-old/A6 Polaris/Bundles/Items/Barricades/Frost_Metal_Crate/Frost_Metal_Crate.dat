@@ -1,0 +1,50 @@
+GUID cb1119fd15a04c10879f4960308d4f01
+
+Type Storage
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab false
+Build Storage
+ID 36294
+
+Size_X 2
+Size_Y 2
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0.725
+
+Storage_X 7
+Storage_Y 8
+
+Locked
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 36355
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Should_Close_When_Outside_Range true
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 36295
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text ▲Upgrade (Default)
+Action_0_Tooltip ▲Upgrade using armored plates
+
+Action_1_Type Blueprint
+Action_1_Source 36340
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text ▲Upgrade (Display)
+Action_1_Tooltip ▲Upgrade using armored plates

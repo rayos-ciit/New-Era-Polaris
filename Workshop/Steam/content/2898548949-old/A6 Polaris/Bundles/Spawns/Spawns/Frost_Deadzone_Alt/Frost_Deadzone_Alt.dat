@@ -1,0 +1,13 @@
+GUID 450595abb67649b3a24ef0cf42a228d5
+Type Spawn
+ID 36127
+
+Tables 4
+Table_0_Spawn_ID 36045
+Table_0_Weight 850
+Table_1_Spawn_ID 36132
+Table_1_Weight 250
+Table_2_Asset_ID 36618
+Table_2_Weight 150
+Table_3_Asset_ID 36617
+Table_3_Weight 2

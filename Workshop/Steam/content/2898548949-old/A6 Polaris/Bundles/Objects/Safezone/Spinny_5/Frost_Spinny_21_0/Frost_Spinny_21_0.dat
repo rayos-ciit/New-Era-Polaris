@@ -1,0 +1,29 @@
+GUID 5a99557d0c764be29921298601dc103b
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 36239
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 36242
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 36239
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+
+Master_Bundle_Override frost.masterbundle
+Bundle_Override_Path /Objects/Safezone/Frost_Spinny_00

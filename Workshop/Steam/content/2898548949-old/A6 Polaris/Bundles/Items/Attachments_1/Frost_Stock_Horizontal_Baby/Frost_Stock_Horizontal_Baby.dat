@@ -1,0 +1,63 @@
+GUID a5c408fa8ac84e269afa966e2b5ccf0f
+
+Type Grip
+Rarity Epic
+ID 36554
+
+Size_X 2
+
+Recoil_X 0.4
+Recoil_Y 0.45
+
+Spread 0.45
+
+Calibers 1
+Caliber_0 36013
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 36555
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text ▲Upgrade
+Action_0_Tooltip ▲Upgrade stock using gun oil
+
+Action_1_Type Blueprint
+Action_1_Source 36554
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Key Salvage
+
+Action_2_Type Blueprint
+Action_2_Source 36554
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Key Salvage
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 36554
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+Blueprint_0_Output_0_Amount 1
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Short
+Blueprint_0_Condition_0_ID 36013
+Blueprint_0_Condition_0_Value 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Condition_0_Allow_Unset
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supply_0_ID 36554
+Blueprint_1_Build 27
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36011
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Short
+Blueprint_1_Condition_0_ID 36013
+Blueprint_1_Condition_0_Value 1
+Blueprint_1_Condition_0_Logic Equal
