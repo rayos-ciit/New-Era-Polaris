@@ -1,0 +1,18 @@
+GUID 24af4b9b419b4f02a67a9acc1a5e9792
+
+
+
+
+Type Sight
+ID 30548
+
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30548
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 3

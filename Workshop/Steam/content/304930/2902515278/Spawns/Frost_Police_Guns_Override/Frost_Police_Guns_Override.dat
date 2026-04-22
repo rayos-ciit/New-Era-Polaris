@@ -1,0 +1,17 @@
+GUID 3f590d682b91415486b7f454d25bf3ae
+Type Spawn
+ID 46021
+
+Roots 1
+Root_0_Spawn_ID 36021
+Root_0_Weight 10000000
+
+Tables 4
+Table_0_Asset_ID 36125
+Table_0_Weight 300
+Table_1_Asset_ID 30507
+Table_1_Weight 115
+Table_2_Asset_ID 36465
+Table_2_Weight 75
+Table_3_Asset_ID 30500
+Table_3_Weight 30

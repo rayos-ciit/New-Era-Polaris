@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PolarisMutationsConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnableMutations>true</EnableMutations>
+  <FullMoonMultiplier>1.5</FullMoonMultiplier>
+  <BossElectricChance>0.5</BossElectricChance>
+  <BossWindChance>0.5</BossWindChance>
+  <BossFireChance>0.5</BossFireChance>
+  <BossElverStomperChance>0</BossElverStomperChance>
+  <BossKuwaitChance>0</BossKuwaitChance>
+  <DLRedVolatileChance>10</DLRedVolatileChance>
+  <DLBlueVolatileChance>10</DLBlueVolatileChance>
+  <SpiritChance>0.5</SpiritChance>
+  <AcidChance>8.5</AcidChance>
+  <BurnerChance>8.5</BurnerChance>
+  <SprinterChance>10</SprinterChance>
+  <CrawlerChance>10</CrawlerChance>
+</PolarisMutationsConfiguration>

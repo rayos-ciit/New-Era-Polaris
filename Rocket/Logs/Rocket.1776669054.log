@@ -1,0 +1,401 @@
+[19/04/2026 11:55:57 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[19/04/2026 11:55:58 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[19/04/2026 11:55:58 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[19/04/2026 11:55:58 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[19/04/2026 11:55:58 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[19/04/2026 11:55:58 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[19/04/2026 11:55:58 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[19/04/2026 11:55:58 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[19/04/2026 11:55:58 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[19/04/2026 11:55:58 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[19/04/2026 11:55:58 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[19/04/2026 11:55:58 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[19/04/2026 11:55:58 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[19/04/2026 11:55:58 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[19/04/2026 11:55:58 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[19/04/2026 11:55:58 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[19/04/2026 11:55:58 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[19/04/2026 11:55:58 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[19/04/2026 11:55:58 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[19/04/2026 11:55:58 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[19/04/2026 11:55:58 PM] [Info] Loading HardcoreDurability from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\HardcoreDurability.dll
+[19/04/2026 11:55:58 PM] [Info] Loading MoreHomes from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\MoreHomes.dll
+[19/04/2026 11:55:58 PM] [Info] Loading Teleportation from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\Teleportation.dll
+[19/04/2026 11:55:58 PM] [Error] mscorlib >> Caught exception resolving dependency: 0Harmony -> Exception in DoAssemblyResolve: System.ArgumentNullException: Value cannot be null.
+Parameter name: v1
+  at System.Version.op_LessThanOrEqual (System.Version v1, System.Version v2) [0x00003] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Version.op_GreaterThanOrEqual (System.Version v1, System.Version v2) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at Rocket.Core.Plugins.RocketPluginManager+<>c__DisplayClass12_0.<Awake>b__1 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] lib) [0x00035] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate, System.Boolean& found) [0x0003f] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at System.Linq.Enumerable.FirstOrDefault[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00000] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at Rocket.Core.Plugins.RocketPluginManager.<Awake>b__12_0 (System.Object sender, System.ResolveEventArgs args) [0x00017] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[19/04/2026 11:55:58 PM] [Error] Could not find dependency: 0Harmony
+[19/04/2026 11:55:58 PM] [Info] 
+[loading] HardcoreDurability
+[19/04/2026 11:55:58 PM] [Info] HardcoreDurability >> Hardcore Durability Loaded with Configurations!
+[19/04/2026 11:55:58 PM] [Info] 
+[loading] MoreHomes
+[19/04/2026 11:55:58 PM] [Info] [registered] /home (RestoreMonarchy.MoreHomes.Commands.HomeCommand/home)
+[19/04/2026 11:55:58 PM] [Info] [registered] /homes (RestoreMonarchy.MoreHomes.Commands.HomesCommand/homes)
+[19/04/2026 11:55:58 PM] [Info] [registered] /destroyhome (RestoreMonarchy.MoreHomes.Commands.DestroyHomeCommand/destroyhome)
+[19/04/2026 11:55:58 PM] [Info] [registered] /renamehome (RestoreMonarchy.MoreHomes.Commands.RenameHomeCommand/renamehome)
+[19/04/2026 11:55:58 PM] [Info] [registered] /restorehomes (RestoreMonarchy.MoreHomes.Commands.RestoreHomesCommand/restorehomes)
+[19/04/2026 11:55:58 PM] [Info] MoreHomes >> MoreHomes 1.7.2.0 has been loaded!
+[19/04/2026 11:55:58 PM] [Info] MoreHomes >> Brought to you by RestoreMonarchy.com
+[19/04/2026 11:55:58 PM] [Error] mscorlib >> Caught exception resolving dependency: Steamworks.NET -> Exception in DoAssemblyResolve: System.ArgumentNullException: Value cannot be null.
+Parameter name: v1
+  at System.Version.op_LessThanOrEqual (System.Version v1, System.Version v2) [0x00003] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Version.op_GreaterThanOrEqual (System.Version v1, System.Version v2) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at Rocket.Core.Plugins.RocketPluginManager+<>c__DisplayClass12_0.<Awake>b__1 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] lib) [0x00035] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate, System.Boolean& found) [0x0003f] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at System.Linq.Enumerable.FirstOrDefault[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00000] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at Rocket.Core.Plugins.RocketPluginManager.<Awake>b__12_0 (System.Object sender, System.ResolveEventArgs args) [0x00017] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[19/04/2026 11:55:58 PM] [Error] Could not find dependency: Steamworks.NET
+[19/04/2026 11:55:58 PM] [Info] 
+[loading] Teleportation
+[19/04/2026 11:55:58 PM] [Info] [registered] /tpa (RestoreMonarchy.Teleportation.Commands.TPACommand/tpa)
+[19/04/2026 11:55:58 PM] [Info] Teleportation >> Teleportation 1.6.0.0 has been loaded!
+[19/04/2026 11:55:58 PM] [Info] This server will automatically save every 1800 seconds
+[19/04/2026 11:55:58 PM] [Info] Steam servers ready!
+[19/04/2026 11:55:58 PM] [Info] Workshop install folder: E:\SteamLibrary\steamapps\common\U3DS/Servers/New Era Polaris/Workshop/Steam
+[19/04/2026 11:55:58 PM] [Info] 1 workshop item(s) requested
+[19/04/2026 11:55:58 PM] [Info] Submitting workshop query for 1 item(s)...
+[19/04/2026 11:55:58 PM] [Info] Workshop query yielded 1 result(s)
+[19/04/2026 11:55:58 PM] [Info] This server's allowed IP for Workshop downloads: [redacted]
+[19/04/2026 11:55:58 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[19/04/2026 11:55:58 PM] [Info] 1 workshop item(s) to download...
+[19/04/2026 11:55:58 PM] [Info] Workshop item found in cache: 2898548949
+[19/04/2026 11:55:58 PM] [Info] Installing workshop item: 2898548949
+[19/04/2026 11:55:58 PM] [Info] Installed workshop item: 2898548949
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 225 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 0 of 225 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 225 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 454 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 0 of 454 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 454 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 755 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 0 of 755 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 755 assets...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1 asset bundles...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 1007 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 18 of 1007 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1007 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 1272 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 140 of 1272 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1272 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 1475 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 228 of 1475 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1475 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 1706 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 302 of 1706 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1706 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 1930 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 383 of 1930 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 1930 assets...
+[19/04/2026 11:55:58 PM] [Info] Searched 0 of 1 locations and found 2169 asset files...
+[19/04/2026 11:55:58 PM] [Info] Read 469 of 2169 asset file contents into memory...
+[19/04/2026 11:55:58 PM] [Info] Loaded 0 of 2169 assets...
+[19/04/2026 11:55:59 PM] [Info] Searched 1 of 1 locations and found 2378 asset files...
+[19/04/2026 11:55:59 PM] [Info] Read 553 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Loaded 0 of 2378 assets...
+[19/04/2026 11:55:59 PM] [Info] Read 649 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 741 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 839 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 929 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1019 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1130 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1239 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1342 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1447 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1531 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1614 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1705 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1829 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 1942 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 2012 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 2087 of 2378 asset file contents into memory...
+[19/04/2026 11:55:59 PM] [Info] Read 2163 of 2378 asset file contents into memory...
+[19/04/2026 11:56:00 PM] [Info] Read 2260 of 2378 asset file contents into memory...
+[19/04/2026 11:56:00 PM] [Info] Read 2353 of 2378 asset file contents into memory...
+[19/04/2026 11:56:00 PM] [Info] Read 2378 of 2378 asset file contents into memory...
+[19/04/2026 11:56:00 PM] [Info] Loaded 1 of 1 asset bundles...
+[19/04/2026 11:56:00 PM] [Info] Loaded 3 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 7 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 54 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 86 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 212 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 270 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 304 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 311 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 327 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 349 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 374 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 397 of 2378 assets...
+[19/04/2026 11:56:00 PM] [Info] Loaded 484 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 534 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 644 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 709 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 738 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 769 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 799 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 817 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 830 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 845 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 1038 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 2035 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Loaded 2378 of 2378 assets...
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Animals.Max_Instances_Medium: 256
+[19/04/2026 11:56:01 PM] [Info] Skipping level config override Items.Quality_Full_Chance because it's overridden in server config
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Gun_Lowcal_Damage_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Gun_Highcal_Damage_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Gun_Lowcal_Damage_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Gun_Highcal_Damage_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Melee_Damage_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Structures.Melee_Repair_Multiplier: 1
+[19/04/2026 11:56:01 PM] [Info] Level overrides config Events.Airdrop_Speed: 96
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Events.Airdrop_Force: 8.55
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Gun_Lowcal_Damage_Multiplier: 2
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Melee_Damage_Multiplier: 2
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Min_Battery_Charge: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Max_Battery_Charge: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Has_Battery_Chance: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Max_Instances_Medium: 48
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Experience_Multiplier because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Lose_Experience_PvP because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Players.Lose_Experience_PvE: 1
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Lose_Skill_Levels_PvP because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Lose_Skill_Levels_PvE because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Players.Virus_Infect because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Players.Can_Break_Legs: False
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Zombies.Armor_Multiplier because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Zombies.Full_Moon_Experience_Multiplier: 2
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Zombies.Spawn_Chance because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Zombies.Max_Mega_Drops: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Zombies.Min_Boss_Drops: 1
+[19/04/2026 11:56:02 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 1
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Zombies.Loot_Chance because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Skipping level config override Gameplay.Chart because it's overridden in server config
+[19/04/2026 11:56:02 PM] [Info] Monitoring workshop map "A6 Polaris" (2898548949) for changes
+[19/04/2026 11:56:02 PM] [Info] Loading level: 5%
+[19/04/2026 11:56:04 PM] [Info] Loading level: 10%
+[19/04/2026 11:56:04 PM] [Info] Loading level: 15%
+[19/04/2026 11:56:04 PM] [Info] Loading level: 21%
+[19/04/2026 11:56:04 PM] [Info] Loading level: 26%
+[19/04/2026 11:56:04 PM] [Info] Loading level: 31%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 36%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 42%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 47%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 52%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 57%
+[19/04/2026 11:56:05 PM] [Info] Loading level: 63%
+[19/04/2026 11:56:07 PM] [Info] Loading level: 68%
+[19/04/2026 11:56:07 PM] [Info] Loading level: 73%
+[19/04/2026 11:56:07 PM] [Info] Loading level: 89%
+[19/04/2026 11:56:07 PM] [Info] Loading level: 94%
+[19/04/2026 11:56:07 PM] [Info] //////////////////////////////////////////////////////
+[19/04/2026 11:56:07 PM] [Info] Server Code: 85568392936196484
+[19/04/2026 11:56:07 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[19/04/2026 11:56:07 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[19/04/2026 11:56:07 PM] [Info] //////////////////////////////////////////////////////
+[19/04/2026 11:56:07 PM] [Info] Loading level: 100%
+[20/04/2026 12:25:58 AM] [Info] Saving server
+[20/04/2026 12:39:32 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 12:39:32 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 12:39:32 AM] [Info] Successfully saved the game.
+[20/04/2026 12:39:49 AM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 12:48:09 AM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 12:49:00 AM] [Info] Connecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 12:50:20 AM] [Info] [World] Myst [Myst_iU]: "hunni sali ka lang vc ha"
+[20/04/2026 12:50:27 AM] [Info] [World] Myst [Myst_iU]: "alsooo ano din"
+[20/04/2026 12:50:29 AM] [Info] [World] wiggielicious [wiggielicious]: "ok weit laturr"
+[20/04/2026 12:50:33 AM] [Info] [World] wiggielicious [wiggielicious]: "yeah"
+[20/04/2026 12:50:34 AM] [Info] [World] Myst [Myst_iU]: "lee and i are doing seperate stuff"
+[20/04/2026 12:50:38 AM] [Info] [World] wiggielicious [wiggielicious]: "ok"
+[20/04/2026 12:50:42 AM] [Info] [World] Myst [Myst_iU]: "do you wanna dooo your own shit or sabay ka sakin"
+[20/04/2026 12:50:52 AM] [Info] [World] wiggielicious [wiggielicious]: "tara anu b gagawin mu"
+[20/04/2026 12:51:04 AM] [Info] [World] wiggielicious [wiggielicious]: "grabeh na sanay ako sa magandang mouse bye"
+[20/04/2026 12:51:04 AM] [Info] [World] Myst [Myst_iU]: "hunt tayu for copper coils"
+[20/04/2026 12:51:09 AM] [Info] [World] wiggielicious [wiggielicious]: "ok"
+[20/04/2026 12:51:13 AM] [Info] [World] Myst [Myst_iU]: "apparently sa mga hospitals daw"
+[20/04/2026 12:51:20 AM] [Info] [World] Myst [Myst_iU]: "sa puro tayo sa mga st st eme places"
+[20/04/2026 12:51:21 AM] [Info] [World] wiggielicious [wiggielicious]: "wuuttt wala ako nakikita"
+[20/04/2026 12:51:28 AM] [Info] [World] Myst [Myst_iU]: "ayun nga e ako rin huhu"
+[20/04/2026 12:51:36 AM] [Info] [World] Myst [Myst_iU]: "mri machine daw?"
+[20/04/2026 12:51:42 AM] [Info] [World] wiggielicious [wiggielicious]: "AAAHHH gets"
+[20/04/2026 12:52:06 AM] [Info] [World] Myst [Myst_iU]: "tas ayun if may madaanan tayu patayin na rin natin mga observers"
+[20/04/2026 12:52:16 AM] [Info] [World] Myst [Myst_iU]: "we gotta grind forda masks and filters"
+[20/04/2026 12:52:20 AM] [Info] [World] Myst [Myst_iU]: "for atleast three of us"
+[20/04/2026 12:52:24 AM] [Info] [World] Myst [Myst_iU]: "tayo pa naman pinaka active e"
+[20/04/2026 12:52:32 AM] [Info] [World] Myst [Myst_iU]: "so kahit hanggang tatluhan"
+[20/04/2026 12:52:37 AM] [Info] [World] Myst [Myst_iU]: "3 masks 5 filters each"
+[20/04/2026 12:52:39 AM] [Info] [World] wiggielicious [wiggielicious]: "ok"
+[20/04/2026 12:53:05 AM] [Info] [World] Myst [Myst_iU]: "sige ayus lang me gamit"
+[20/04/2026 12:53:09 AM] [Info] [World] wiggielicious [wiggielicious]: "ok"
+[20/04/2026 12:55:34 AM] [Error] Failed to find anyone called 36517.
+[20/04/2026 12:55:40 AM] [Info] [World] Myst [Myst_iU]: "/give 36517"
+[20/04/2026 12:55:58 AM] [Info] Successfully gave Myst_iU 36517 x1!
+[20/04/2026 12:55:58 AM] [Info] Saving server
+[20/04/2026 12:57:04 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 12:57:04 AM] [Info] [World] wiggielicious [wiggielicious]: "ok n b"
+[20/04/2026 12:57:07 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[20/04/2026 12:57:08 AM] [Info] Myst enabled Godmode
+[20/04/2026 12:57:08 AM] [Info] [World] Myst [Myst_iU]: "a"
+[20/04/2026 12:57:52 AM] [Info] [World] wiggielicious [wiggielicious]: "sabihin mo lng sakwen if g n]"
+[20/04/2026 12:57:53 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[20/04/2026 12:57:53 AM] [Info] Myst disabled Godmode
+[20/04/2026 1:01:08 AM] [Info] [World] wiggielicious [wiggielicious]: "OH WOW"
+[20/04/2026 1:07:50 AM] [Info] [World] wiggielicious [wiggielicious]: "ANU NWEXT"
+[20/04/2026 1:13:40 AM] [Info] [World] wiggielicious [wiggielicious]: "do u hab gun oil on u o wait nvm maya nlng"
+[20/04/2026 1:13:45 AM] [Info] [World] Myst [Myst_iU]: "YES"
+[20/04/2026 1:13:48 AM] [Info] [World] Myst [Myst_iU]: "yes"
+[20/04/2026 1:13:56 AM] [Info] [World] wiggielicious [wiggielicious]: "oh wait"
+[20/04/2026 1:13:56 AM] [Info] [World] Myst [Myst_iU]: "sa bahay"
+[20/04/2026 1:14:04 AM] [Info] [World] wiggielicious [wiggielicious]: "hunni ur leaving me"
+[20/04/2026 1:14:06 AM] [Info] [World] Myst [Myst_iU]: "ano do we stop by"
+[20/04/2026 1:14:09 AM] [Info] [World] Myst [Myst_iU]: "ay what"
+[20/04/2026 1:14:16 AM] [Info] twicemiku [twicemiku] dehydrated to death!
+[20/04/2026 1:14:27 AM] [Info] [World] wiggielicious [wiggielicious]: "gotta repair my gun"
+[20/04/2026 1:14:54 AM] [Info] [World] twicemiku [twicemiku]: "/tp tagbro"
+[20/04/2026 1:15:42 AM] [Info] [World] wiggielicious [wiggielicious]: "halaaa"
+[20/04/2026 1:15:46 AM] [Info] [World] wiggielicious [wiggielicious]: "nyareh lee"
+[20/04/2026 1:16:13 AM] [Info] [World] twicemiku [twicemiku]: "/tp myst"
+[20/04/2026 1:16:24 AM] [Info] twicemiku teleported to Myst
+[20/04/2026 1:16:24 AM] [Info] [World] wiggielicious [wiggielicious]: "should i tp sayu rein"
+[20/04/2026 1:16:24 AM] [Info] [World] twicemiku [twicemiku]: "/tp myst"
+[20/04/2026 1:16:29 AM] [Info] twicemiku teleported to Myst
+[20/04/2026 1:16:29 AM] [Info] [World] Myst [Myst_iU]: "kahit hindi na"
+[20/04/2026 1:16:31 AM] [Info] [World] Myst [Myst_iU]: "wait lang ehe"
+[20/04/2026 1:16:36 AM] [Info] [World] wiggielicious [wiggielicious]: "ihhh"
+[20/04/2026 1:16:40 AM] [Info] [World] wiggielicious [wiggielicious]: "oke"
+[20/04/2026 1:17:54 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 1:17:54 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 1:20:57 AM] [Info] [World] Myst [Myst_iU]: "do you get your own cyan crystals hunni"
+[20/04/2026 1:20:59 AM] [Info] [World] Myst [Myst_iU]: "is it client side"
+[20/04/2026 1:21:06 AM] [Info] [World] wiggielicious [wiggielicious]: "no"
+[20/04/2026 1:21:10 AM] [Info] [World] Myst [Myst_iU]: "sayang'"
+[20/04/2026 1:21:44 AM] [Info] [World] wiggielicious [wiggielicious]: "oooh may something na canister ule got a crystal"
+[20/04/2026 1:21:50 AM] [Info] [World] wiggielicious [wiggielicious]: "knianqa"
+[20/04/2026 1:21:53 AM] [Info] [World] Myst [Myst_iU]: "nicee"
+[20/04/2026 1:21:54 AM] [Info] [World] wiggielicious [wiggielicious]: "kniani"
+[20/04/2026 1:21:58 AM] [Info] [World] wiggielicious [wiggielicious]: "knina"
+[20/04/2026 1:21:59 AM] [Info] [World] Myst [Myst_iU]: "biryani"
+[20/04/2026 1:22:06 AM] [Info] [World] wiggielicious [wiggielicious]: "luh"
+[20/04/2026 1:22:20 AM] [Info] [World] wiggielicious [wiggielicious]: "I MISS MY MOUSE"
+[20/04/2026 1:22:29 AM] [Info] [World] wiggielicious [wiggielicious]: "o sht"
+[20/04/2026 1:23:13 AM] [Info] [World] wiggielicious [wiggielicious]: "karma daw ksi u killed arthur the deer"
+[20/04/2026 1:23:20 AM] [Info] [World] wiggielicious [wiggielicious]: "low hounore sound"
+[20/04/2026 1:23:24 AM] [Info] [World] wiggielicious [wiggielicious]: "honor"
+[20/04/2026 1:25:58 AM] [Info] Saving server
+[20/04/2026 1:33:24 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 1:33:24 AM] [Info] [World] wiggielicious [wiggielicious]: "tp nlng ako"
+[20/04/2026 1:33:31 AM] [Info] [World] Myst [Myst_iU]: "there's another tractor"
+[20/04/2026 1:33:33 AM] [Info] [World] Myst [Myst_iU]: "WHAHAHAHA"
+[20/04/2026 1:33:34 AM] [Info] [World] Myst [Myst_iU]: "KUNIN MO"
+[20/04/2026 1:34:36 AM] [Info] [World] wiggielicious [wiggielicious]: "shiould we"
+[20/04/2026 1:34:41 AM] [Info] [World] wiggielicious [wiggielicious]: "oop vnm"
+[20/04/2026 1:36:09 AM] [Info] [World] wiggielicious [wiggielicious]: "sa haze? andami damit dun"
+[20/04/2026 1:36:22 AM] [Info] [World] Myst [Myst_iU]: "what's up?"
+[20/04/2026 1:36:28 AM] [Info] [World] Myst [Myst_iU]: "damit?:0"
+[20/04/2026 1:36:44 AM] [Info] [World] wiggielicious [wiggielicious]: "ou froda fibersa"
+[20/04/2026 1:36:50 AM] [Info] [World] Myst [Myst_iU]: "oooo yea"
+[20/04/2026 1:36:52 AM] [Info] [World] Myst [Myst_iU]: "doon kukuh"
+[20/04/2026 1:36:54 AM] [Info] [World] Myst [Myst_iU]: "a"
+[20/04/2026 1:36:54 AM] [Info] [World] wiggielicious [wiggielicious]: "knina mern e"
+[20/04/2026 1:37:00 AM] [Info] [World] wiggielicious [wiggielicious]: "sayang di k na kuha'"
+[20/04/2026 1:37:05 AM] [Info] [World] Myst [Myst_iU]: "ggg lanng"
+[20/04/2026 1:37:11 AM] [Info] [World] Myst [Myst_iU]: "okay na tractor mo babe"
+[20/04/2026 1:37:18 AM] [Info] [World] wiggielicious [wiggielicious]: "tp b k'"
+[20/04/2026 1:37:24 AM] [Info] [World] wiggielicious [wiggielicious]: "H TNJDKSAL"
+[20/04/2026 1:37:28 AM] [Info] [World] wiggielicious [wiggielicious]: "TAHNDNSL"
+[20/04/2026 1:43:18 AM] [Info] [World] wiggielicious [wiggielicious]: "FOUND  lot"
+[20/04/2026 1:43:40 AM] [Info] [World] wiggielicious [wiggielicious]: "may pa vest pala haze"
+[20/04/2026 1:50:22 AM] [Info] [World] wiggielicious [wiggielicious]: "ok n we gotta weit for it to respawn"
+[20/04/2026 1:50:28 AM] [Info] [World] Myst [Myst_iU]: "yes"
+[20/04/2026 1:50:30 AM] [Info] [World] Myst [Myst_iU]: "then rinse repeat"
+[20/04/2026 1:50:35 AM] [Info] [World] Myst [Myst_iU]: "i think we can go to the other hospital na"
+[20/04/2026 1:50:39 AM] [Info] [World] Myst [Myst_iU]: "then ganun na lang"
+[20/04/2026 1:50:42 AM] [Info] [World] Myst [Myst_iU]: "bale may rotation"
+[20/04/2026 1:50:53 AM] [Info] [World] Myst [Myst_iU]: "uwi muna tayo though"
+[20/04/2026 1:51:08 AM] [Info] [World] wiggielicious [wiggielicious]: "tara"
+[20/04/2026 1:55:58 AM] [Info] Saving server
+[20/04/2026 2:25:58 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 2:25:58 AM] [Info] Saving server
+[20/04/2026 2:26:57 AM] [Info] MoreHomes >> 4 player homes data has been saved!
+[20/04/2026 2:26:57 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp twicemiku"
+[20/04/2026 2:28:42 AM] [Info] wiggielicious teleported to twicemiku
+[20/04/2026 2:28:42 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 2:28:42 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 2:28:43 AM] [Info] wiggielicious moved x:242.8906 y:55.67392(+22.15536) z:-691.1797 in the last second (0.1145897)
+[20/04/2026 2:28:45 AM] [Info] [World] twicemiku [twicemiku]: "/tp myst"
+[20/04/2026 2:28:46 AM] [Info] twicemiku teleported to Myst
+[20/04/2026 2:28:46 AM] [Info] twicemiku moved x:242.4375 y:55.79623(+23.33042) z:-691.2109 in the last second (0.1145897)
+[20/04/2026 2:31:42 AM] [Info] [World] twicemiku [twicemiku]: "/tp wiggie"
+[20/04/2026 2:31:42 AM] [Info] twicemiku teleported to wiggielicious
+[20/04/2026 2:41:21 AM] [Info] wiggielicious moved x:-40.07813 y:58.12495(+31.97648) z:288.3438 in the last second (0.1000023)
+[20/04/2026 2:43:42 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 2:43:42 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 2:43:43 AM] [Info] wiggielicious moved x:256.3717 y:52.72403(+17.9243) z:-687.8299 in the last second (0.1000023)
+[20/04/2026 2:49:39 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp my"
+[20/04/2026 2:49:39 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 2:49:40 AM] [Info] wiggielicious moved x:263.9063 y:52.72403(+22.35236) z:-677.4766 in the last second (0.1000023)
+[20/04/2026 2:51:14 AM] [Info] [World] Myst [Myst_iU]: "/give 36009 2"
+[20/04/2026 2:52:57 AM] [Info] Successfully gave Myst_iU 36009 x2!
+[20/04/2026 2:52:57 AM] [Info] [World] wiggielicious [wiggielicious]: "/myst"
+[20/04/2026 2:53:02 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 2:53:02 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 2:55:58 AM] [Info] Saving server
+[20/04/2026 3:17:42 AM] [Info] MoreHomes >> 5 player homes data has been saved!
+[20/04/2026 3:17:42 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 3:17:42 AM] [Info] wiggielicious teleported to Myst
+[20/04/2026 3:17:43 AM] [Info] wiggielicious moved x:609.0313 y:90.87349(+23.5424) z:155.3672 in the last second (0.1038513)
+[20/04/2026 3:23:41 AM] [Info] Connecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 3:25:18 AM] [Info] [World] Myst [Myst_iU]: "/admin kopiko"
+[20/04/2026 3:25:58 AM] [Info] Saving server
+[20/04/2026 3:27:13 AM] [Info] MoreHomes >> 5 player homes data has been saved!
+[20/04/2026 3:27:13 AM] [Info] [World] kopiko [kopiko]: "/tp Mysti"
+[20/04/2026 3:27:30 AM] [Info] [World] kopiko [kopiko]: "/tp Myst"
+[20/04/2026 3:27:30 AM] [Info] kopiko teleported to Myst
+[20/04/2026 3:40:49 AM] [Info] [World] Myst [Myst_iU]: "/give 150 kopiko"
+[20/04/2026 3:40:49 AM] [Error] Failed to convert kopiko into a number.
+[20/04/2026 3:41:17 AM] [Info] [World] kopiko [kopiko]: "/exp 150"
+[20/04/2026 3:41:29 AM] [Info] [World] Myst [Myst_iU]: "/experience 150"
+[20/04/2026 3:41:29 AM] [Info] Successfully gave Myst_iU +150 experience!
+[20/04/2026 3:41:29 AM] [Info] [World] kopiko [kopiko]: "/experience 150"
+[20/04/2026 3:41:29 AM] [Info] Successfully gave kopiko +150 experience!
+[20/04/2026 3:44:02 AM] [Info] [World] kopiko [kopiko]: "/experience 150"
+[20/04/2026 3:44:02 AM] [Info] Successfully gave kopiko +150 experience!
+[20/04/2026 3:45:24 AM] [Info] [World] Myst [Myst_iU]: "/give 36327"
+[20/04/2026 3:45:24 AM] [Info] Successfully gave Myst_iU 36327 x1!
+[20/04/2026 3:48:39 AM] [Info] [World] twicemiku [twicemiku]: "/spy 76561198374187872"
+[20/04/2026 3:48:41 AM] [Info] Successfully taking a screenshot of Myst_iU.
+[20/04/2026 3:48:41 AM] [Info] [World] twicemiku [twicemiku]: "/spy 76561198374187872"
+[20/04/2026 3:48:41 AM] [Info] Successfully taking a screenshot of Myst_iU.
+[20/04/2026 3:48:42 AM] [Info] [World] twicemiku [twicemiku]: "/spy 76561198883421576"
+[20/04/2026 3:48:42 AM] [Info] Successfully taking a screenshot of kopiko.
+[20/04/2026 3:48:44 AM] [Info] [World] twicemiku [twicemiku]: "/spy 76561198811868695"
+[20/04/2026 3:48:44 AM] [Info] Successfully taking a screenshot of twicemiku.
+[20/04/2026 3:48:44 AM] [Info] [World] twicemiku [twicemiku]: "/spy 76561199571006509"
+[20/04/2026 3:48:44 AM] [Info] Successfully taking a screenshot of wiggielicious.
+[20/04/2026 3:55:58 AM] [Info] Saving server
+[20/04/2026 4:00:07 AM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:00:07 AM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 4:00:08 AM] [Info] Disconnecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 4:00:38 AM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 4:00:57 AM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:00:57 AM] [Info] Successfully saved the game.
+[20/04/2026 4:01:35 AM] [Info] Disconnecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 4:01:57 AM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:01:57 AM] [Info] Successfully saved the game.
+[20/04/2026 4:08:56 AM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:08:58 AM] [Info] 
+[unloading] Teleportation

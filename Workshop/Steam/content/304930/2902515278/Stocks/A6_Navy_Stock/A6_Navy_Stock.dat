@@ -1,0 +1,28 @@
+GUID d1fcdec006144f27aeb7e47433b89f9d
+
+
+
+Type Grip
+Rarity Legendary
+ID 30504
+
+Size_X 2
+
+
+Recoil_X 0.35
+Recoil_Y 0.35
+
+Spread 0.5
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30504
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 2

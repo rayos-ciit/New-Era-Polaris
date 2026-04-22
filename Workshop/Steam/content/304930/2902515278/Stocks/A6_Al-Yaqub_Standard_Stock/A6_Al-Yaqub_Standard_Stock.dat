@@ -1,0 +1,27 @@
+GUID 79d5aef1786e4f1dbaae532aabb8e7ff
+
+
+Type Grip
+Rarity Rare
+ID 30541
+
+Size_X 3
+
+
+Recoil_X 0.55
+Recoil_Y 0.55
+
+Spread 0.65
+
+Calibers 1
+Caliber_0 30540
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30541
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 2

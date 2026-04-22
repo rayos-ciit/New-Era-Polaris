@@ -232,12 +232,12 @@ Items
 
 	// > How long (in seconds) before an item dropped by a player is despawned.
 	// > Default: 600
-	Despawn_Dropped_Time
+	Despawn_Dropped_Time 1000
 
 	// > How long (in seconds) before a spawned item is despawned.
 	// > (For example, an item nobody wants to pick up.)
 	// > Default: 900
-	Despawn_Natural_Time 1200
+	Despawn_Natural_Time
 
 	// > When less than the target amount of items are dropped (determined by Spawn_Chance), a new
 	// > item is spawned approximately this often (in seconds).
@@ -246,38 +246,38 @@ Items
 
 	// > Percentage [0 to 1] probability of item spawning at max quality.
 	// > Easy: 0.1    Normal: 0.1    Hard: 0.01
-	Quality_Full_Chance 0.0095
+	Quality_Full_Chance 0.095
 
 	// > When an item spawns without max quality, the random quality is scaled by this factor.
 	// > For example, 0.5 halves the initial quality.
 	// > Default: 1
-	Quality_Multiplier 0.975
+	Quality_Multiplier 0.98
 
 	// > Percentage [0 to 1] probability of gun spawning with full ammo.
 	// > Easy: 0.1    Normal: 0.05    Hard: 0.025
-	Gun_Bullets_Full_Chance 0.015
+	Gun_Bullets_Full_Chance 0.035
 
 	// > When a gun spawns without full ammo, the random amount is scaled by this factor.
 	// > Easy: 1    Normal: 0.25    Hard: 0.1
-	Gun_Bullets_Multiplier 0.195
+	Gun_Bullets_Multiplier 0.2
 
 	// > Percentage [0 to 1] probability of magazines spawning with full ammo.
 	// > Easy: 0.1    Normal: 0.05    Hard: 0.025
-	Magazine_Bullets_Full_Chance 0.035
+	Magazine_Bullets_Full_Chance 0.175
 
 	// > When a magazine spawns without full ammo, the random amount is scaled by this factor.
 	// > Easy: 1    Normal: 0.5    Hard: 0.25
-	Magazine_Bullets_Multiplier 0.4
+	Magazine_Bullets_Multiplier 0.525
 
 	// > Percentage [0 to 1] probability of non-magazines spawning with full amount.
 	// > (E.g., ammo boxes.)
 	// > Easy: 0.1    Normal: 0.05    Hard: 0.025
-	Crate_Bullets_Full_Chance 0.035
+	Crate_Bullets_Full_Chance 0.0355
 
 	// > When a non-magazine spawns without full amount, the random amount is scaled by this factor.
 	// > (E.g., ammo boxes.)
 	// > Easy: 1    Normal: 1    Hard: 0.75
-	Crate_Bullets_Multiplier 0.875
+	Crate_Bullets_Multiplier 0.885
 
 	// > Original option for disabling item quality. If false, items spawn at 100% quality and
 	// > their quality doesn't decrease. For backwards compatibility, the newer per-item-type
@@ -355,7 +355,7 @@ Vehicles
 	// > Scales the amount of damage taken by vehicles.
 	// > For example, 0.5 halves the amount of damage dealt to vehicles.
 	// > Default: 1
-	Armor_Multiplier
+	Armor_Multiplier 3
 
 	// > Scales damage to the vehicle when an attached barricade obstructions an explosion.
 	// > For example, 0.5 halves the explosion damage when blocked by a barricade.
@@ -365,7 +365,7 @@ Vehicles
 	// > Scales the amount of damage taken by vehicles from non-"Heavy Weapon" guns.
 	// > For example, 2.0 doubles the amount of damage dealt to vehicles by non-"Heavy Weapon" guns.
 	// > Default: 1
-	Gun_Lowcal_Damage_Multiplier
+	Gun_Lowcal_Damage_Multiplier 2.5
 
 	// > Scales the amount of damage taken by vehicles from "Heavy Weapon" guns.
 	// > For example, 2.0 doubles the amount of damage dealt to vehicles by "Heavy Weapon" guns.
@@ -375,7 +375,7 @@ Vehicles
 	// > Scales the amount of damage taken by vehicles from melee weapons and fists.
 	// > For example, 2.0 doubles the amount of damage dealt to vehicles by melee.
 	// > Default: 1
-	Melee_Damage_Multiplier
+	Melee_Damage_Multiplier 2
 
 	// > Scales the amount of HP restored by melee items like the Blowtorch.
 	// > For example, 2.0 doubles the amount of health restored by melee items.
@@ -415,7 +415,7 @@ Zombies
 	// > Percentage [0 to 1] of zombie spawns to use.
 	// > For example, if set to 0.2 and an area has 100 zombie spawns, max 20 zombies will spawn at a time.
 	// > Easy: 0.2    Normal: 0.25    Hard: 0.3
-	Spawn_Chance 0.55
+	Spawn_Chance 0.625
 
 	// > Percentage [0 to 1] chance of zombie dropping an item except when dropping more than one item.
 	// > Easy: 0.55    Normal: 0.5    Hard: 0.3
@@ -423,23 +423,23 @@ Zombies
 
 	// > Percentage [0 to 1] chance of zombie spawning as a crawler.
 	// > Easy: 0    Normal: 0.15    Hard: 0.125
-	Crawler_Chance 0.35
+	Crawler_Chance 0.25
 
 	// > Percentage [0 to 1] chance of zombie spawning as a sprinter.
 	// > Easy: 0    Normal: 0.15    Hard: 0.175
-	Sprinter_Chance 0.35
+	Sprinter_Chance 0.25
 
 	// > Percentage [0 to 1] chance of zombie spawning as a flanker.
 	// > Easy: 0    Normal: 0.025    Hard: 0.05
-	Flanker_Chance 0.35
+	Flanker_Chance 0.25
 
 	// > Percentage [0 to 1] chance of zombie spawning as a burner.
 	// > Easy: 0    Normal: 0.025    Hard: 0.05
-	Burner_Chance 0.35
+	Burner_Chance 0.25
 
 	// > Percentage [0 to 1] chance of zombie spawning as an acid spitter.
 	// > Easy: 0    Normal: 0.025    Hard: 0.05
-	Acid_Chance 0.35
+	Acid_Chance 0.25
 
 	// > Percentage [0 to 1] chance of zombie spawning as an electric boss.
 	// > Default: 0
@@ -498,7 +498,7 @@ Zombies
 	// > Scales the amount of damage taken by zombies.
 	// > For example, 0.5 halves the amount of damage dealt to zombies.
 	// > Easy: 1.25    Normal: 1    Hard: 0.75
-	Armor_Multiplier 0.485
+	Armor_Multiplier 0.4855
 
 	// > Scales the amount of damage taken by zombies when attacked from behind.
 	// > Only certain weapons quality for this modifier.
@@ -529,20 +529,20 @@ Zombies
 	// > Minimum number of loot drops from non-boss mega zombies.
 	// > Loot_Chance applies if the rolled number of drops between [min, max] is one.
 	// > Default: 5
-	Min_Mega_Drops
+	Min_Mega_Drops 3
 
 	// > Maximum number of loot drops from non-boss mega zombies.
 	// > Default: 5
-	Max_Mega_Drops
+	Max_Mega_Drops 5
 
 	// > Minimum number of loot drops from boss zombies.
 	// > Loot_Chance applies if the rolled number of drops between [min, max] is one.
 	// > Default: 8
-	Min_Boss_Drops
+	Min_Boss_Drops 5
 
 	// > Maximum number of loot drops from boss zombies.
 	// > Default: 10
-	Max_Boss_Drops
+	Max_Boss_Drops 5
 
 	// > If true, all zombies are a bit slower, making it easier to escape them.
 	// > Easy: True    Normal: False    Hard: False
@@ -751,7 +751,7 @@ Players
 	// > How quickly players food meter depletes.
 	// > Lower values burn food faster, higher values burn food slower.
 	// > Easy: 350    Normal: 300    Hard: 250
-	Food_Use_Ticks 180
+	Food_Use_Ticks 185
 
 	// > How quickly players starve to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
@@ -765,7 +765,7 @@ Players
 	// > How quickly players water meter depletes.
 	// > Lower values lose water faster, higher values lose water slower.
 	// > Easy: 320    Normal: 270    Hard: 220
-	Water_Use_Ticks 180
+	Water_Use_Ticks 185
 
 	// > How quickly players dehydrate to death.
 	// > Lower values kill the player faster, higher values kill the player slower.
@@ -828,7 +828,7 @@ Players
 
 	// > Percentage [0 to 1] of skill levels to retain when killed by another player.
 	// > Default: 1
-	Lose_Skills_PvP 0
+	Lose_Skills_PvP 1
 
 	// > Percentage [0 to 1] of skill levels to retain when killed by the environment (e.g., zombies).
 	// > Default: 1
@@ -844,11 +844,11 @@ Players
 
 	// > Percentage [0 to 1] of XP to retain when killed by another player.
 	// > Default: 0.5
-	Lose_Experience_PvP 0
+	Lose_Experience_PvP 1
 
 	// > Percentage [0 to 1] of XP to retain when killed by the environment (e.g., zombies).
 	// > Default: 0.5
-	Lose_Experience_PvE
+	Lose_Experience_PvE 0.95
 
 	// > Scales XP cost to purchase/upgrade skills.
 	// > Default: 1
@@ -1119,7 +1119,7 @@ Gameplay
 
 	// > Should a hit confirmation be shown when players deal damage?
 	// > Easy: True    Normal: True    Hard: False
-	Hitmarkers
+	Hitmarkers True
 
 	// > Should a crosshair be visible while holding a gun?
 	// > Easy: True    Normal: True    Hard: False

@@ -1,0 +1,28 @@
+GUID 4ce2ba22d804413887cd31ab2d062ba9
+
+
+
+Type Grip
+Rarity Rare
+ID 30516
+
+Size_X 2
+
+
+Recoil_X 0.6
+Recoil_Y 0.6
+
+Spread 0.55
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30516
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 2

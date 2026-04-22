@@ -1,0 +1,248 @@
+ManifestFileVersion: 0
+CRC: 2925679152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c9060dc6e2c7c1ac95bf054ebae3f39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 020538a35f16984b9ab8870f31cd3aed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Polaris+/Iron_Sights/A6_BR-16_Iron_Sights/Sight.prefab
+- Assets/Polaris+/Guns/A6_XM21A/Item.prefab
+- Assets/Polaris+/Guns/A6_GPAS-14/Animations.prefab
+- Assets/Polaris+/Guns/A6_NUG-A3/Animations.prefab
+- Assets/Polaris+/Stocks/A6_XM5E1_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_PPZ-20/Animations.prefab
+- Assets/Polaris+/Guns/A6_AR-16/Reload.ogg
+- Assets/Polaris+/Guns/A6_NUG-P/Shoot.mp3
+- Assets/Polaris+/Guns/A6_AZS-79U/Shoot.wav
+- Assets/Polaris+/Guns/A6_AZ-102/Hammer.ogg
+- Assets/Polaris+/Stocks/A6_AL_Military_Stock/Item.prefab
+- Assets/Polaris+/Iron_Sights/A6_R10_Iron_Sights/Item.prefab
+- Assets/Polaris+/Stocks/A6_Valentine_Skeleton_Stock/Grip.prefab
+- Assets/Polaris+/Stocks/A6_Navy_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_Uzy/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M/Item.prefab
+- Assets/Polaris+/Stocks/A6_Al-Yaqub_Standard_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_LAR-58_OSW/Item.prefab
+- Assets/Polaris+/Guns/A6_LAR-58/Hammer.wav
+- Assets/Polaris+/Guns/A6_XM5E1/Animations.prefab
+- Assets/Polaris+/Stocks/A6_Skinner_Heavy_Stock/Grip.prefab
+- Assets/Polaris+/Iron_Sights/A6_XM5E1_Iron_Sights/Sight.prefab
+- Assets/Polaris+/Guns/A6_AZ-102_Summit/Shoot.wav
+- Assets/Polaris+/Guns/A6_LAR-58/Item.prefab
+- Assets/Polaris+/Guns/A6_XM21A/Reload.mp3
+- Assets/Polaris+/Iron_Sights/A6_R10_Iron_Sights/Sight.prefab
+- Assets/Polaris+/Guns/A6_SAR_Summit/Item.prefab
+- Assets/Polaris+/Guns/A6_LAR-58/Shoot.wav
+- Assets/Polaris+/Stocks/A6_Al-Yaqub_Standard_Stock/Item.prefab
+- Assets/Polaris+/Iron_Sights/A6_ENSAS_Iron_Sights/Sight.prefab
+- Assets/Polaris+/Guns/A6_AG-V45/Reload.mp3
+- Assets/Polaris+/Guns/A6_XM5E1_SOP2/Animations.prefab
+- Assets/Polaris+/Guns/A6_AL-E/Item.prefab
+- Assets/Polaris+/Guns/A6_NUG-A3/Shoot.wav
+- Assets/Polaris+/Guns/A6_SAR/Reload.ogg
+- Assets/Polaris+/Guns/A6_AZ-102/Item.prefab
+- Assets/Polaris+/Guns/A6_M93/Animations.prefab
+- Assets/Polaris+/Guns/A6_AL-E/Reload.mp3
+- Assets/Polaris+/Guns/A6_XM21A/Animations.prefab
+- Assets/Polaris+/Stocks/A6_Al-Yaqub_Modernized_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_SAR/Animations.prefab
+- Assets/Polaris+/Guns/A6_PZMN/Shoot.wav
+- Assets/Polaris+/Guns/A6_XM5E1/Item.prefab
+- Assets/Polaris+/Guns/A6_CAR-825/Animations.prefab
+- Assets/Polaris+/Guns/A6_XM5E1_SOP2/Shoot.mp3
+- Assets/Polaris+/Guns/A6_AZS-79U/Item.prefab
+- Assets/Polaris+/Guns/A6_AR-16/Animations.prefab
+- Assets/Polaris+/Guns/A6_XM5E1/Reload.ogg
+- Assets/Polaris+/Guns/A6_R10/Shoot.wav
+- Assets/Polaris+/Guns/A6_SAR/Hammer.ogg
+- Assets/Polaris+/Guns/A6_PZMN_Summit/Hammer.mp3
+- Assets/Polaris+/Stocks/A6_XM5E1_Stock/Item.prefab
+- Assets/Polaris+/Iron_Sights/A6_XM5E1_Iron_Sights/Item.prefab
+- Assets/Polaris+/Stocks/A6_Desert_Raider_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_AZ-102/Animations.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M_Hex/Item.prefab
+- Assets/Polaris+/Stocks/A6_AL_Military_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_CAR-825/Shoot.wav
+- Assets/Polaris+/Guns/A6_M93/Shoot.wav
+- Assets/Polaris+/Guns/A6_Uzy/Reload.mp3
+- Assets/Polaris+/Guns/A6_M1923/Hammer.mp3
+- Assets/Polaris+/Guns/A6_M1923/Animations.prefab
+- Assets/Polaris+/Guns/A6_GPAS-14/Reload.wav
+- Assets/Polaris+/Guns/A6_AZ-79M/Shoot.wav
+- Assets/Polaris+/Stocks/A6_Skinner_Soild_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_PZMN_Summit/Item.prefab
+- Assets/Polaris+/Guns/A6_GPAS-14/Hammer.wav
+- Assets/Polaris+/Guns/A6_SAR_Summit/Hammer.ogg
+- Assets/Polaris+/Stocks/A6_ENSAS_Polymer_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_AL-E/Shoot.wav
+- Assets/Polaris+/Guns/A6_XM5E1/Shoot.mp3
+- Assets/Polaris+/Iron_Sights/A6_BR-16_Iron_Sights/Item.prefab
+- Assets/Polaris+/Guns/A6_NUG-A3/Hammer.mp3
+- Assets/Polaris+/Guns/A6_AR-16/Hammer.ogg
+- Assets/Polaris+/Guns/A6_PZMN/Item.prefab
+- Assets/Polaris+/Guns/A6_AZS-79U/Reload.ogg
+- Assets/Polaris+/Stocks/A6_Hexagon_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_ENSAS/Item.prefab
+- Assets/Polaris+/Guns/A6_XM5E1_SOP2/Hammer.ogg
+- Assets/Polaris+/Guns/A6_R10/Item.prefab
+- Assets/Polaris+/Guns/A6_LAR-58/Animations.prefab
+- Assets/Polaris+/Guns/A6_AR-16/Item.prefab
+- Assets/Polaris+/Guns/A6_R10/Reload.ogg
+- Assets/Polaris+/Guns/A6_SAR_Summit/Shoot.wav
+- Assets/Polaris+/Guns/A6_AZ-79M_Hex/Animations.prefab
+- Assets/Polaris+/Barrels/A6_SAR_Silencer/Barrel.prefab
+- Assets/Polaris+/Guns/A6_M76/Hammer.mp3
+- Assets/Polaris+/Stocks/A6_PZMN_Stable_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-102_Summit/Animations.prefab
+- Assets/Polaris+/Guns/A6_PPZ-20/Item.prefab
+- Assets/Polaris+/Stocks/A6_Summit_PT-3_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_GPAS-14/Shoot.wav
+- Assets/Polaris+/Guns/A6_M93/Hammer.ogg
+- Assets/Polaris+/Stocks/A6_Zhrek_Wooden_Stock/Item.prefab
+- Assets/Polaris+/Stocks/A6_Summit_PT-3_Stock/Item.prefab
+- Assets/Polaris+/Stocks/A6_Desert_Raider_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_ENSAS/Reload.ogg
+- Assets/Polaris+/Guns/A6_AZ-102/Shoot.wav
+- Assets/Polaris+/Stocks/A6_Al-Yaqub_Modernized_Stock/Grip.prefab
+- Assets/Polaris+/Stocks/A6_Zhrek-M_Polymer_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_MG43V/Shoot.mp3
+- Assets/Polaris+/Guns/A6_AZ-102_Summit/Reload.ogg
+- Assets/Polaris+/Stocks/A6_Skinner_EBR_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_PZMN/Hammer.mp3
+- Assets/Polaris+/Guns/A6_MG43V/Reload.mp3
+- Assets/Polaris+/Stocks/A6_Redfield_Nation_Match_Stock/Grip.prefab
+- Assets/Polaris+/Stocks/A6_Skinner_EBR_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M_Hex/Hammer.ogg
+- Assets/Polaris+/Guns/A6_SAR_Summit/Animations.prefab
+- Assets/Polaris+/Guns/A6_AL-E/Animations.prefab
+- Assets/Polaris+/Guns/A6_PZMN/Animations.prefab
+- Assets/Polaris+/Guns/A6_GPAS-14/Item.prefab
+- Assets/Polaris+/Guns/A6_Uzy/Hammer.mp3
+- Assets/Polaris+/Guns/A6_AZ-79M_Hex/Shoot.wav
+- Assets/Polaris+/Barrels/A6_SAR_Silencer/Shoot.mp3
+- Assets/Polaris+/Guns/A6_PZMN_Summit/Animations.prefab
+- Assets/Polaris+/Stocks/A6_Zhrek_Skeleton_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_M76/Shoot.mp3
+- Assets/Polaris+/Stocks/A6_Zhrek_Wooden_Stock/Grip.prefab
+- Assets/Polaris+/Stocks/A6_Skinner_Heavy_Stock/Item.prefab
+- Assets/Polaris+/Stocks/A6_AL_Precision_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_R10/Animations.prefab
+- Assets/Polaris+/Guns/A6_BR-16/Hammer.ogg
+- Assets/Polaris+/Guns/A6_AZS-79U/Animations.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M_Hex/Reload.ogg
+- Assets/Polaris+/Guns/A6_ENSAS/Animations.prefab
+- Assets/Polaris+/Guns/A6_M1923/Shoot.wav
+- Assets/Polaris+/Guns/A6_Uzy/Shoot.wav
+- Assets/Polaris+/Guns/A6_SAR_Summit/Reload.ogg
+- Assets/Polaris+/Guns/A6_PPZ-20/Shoot.mp3
+- Assets/Polaris+/Guns/A6_PPZ-20/Hammer.ogg
+- Assets/Polaris+/Guns/A6_XM5E1_SOP2/Reload.ogg
+- Assets/Polaris+/Stocks/A6_PZMN_Stable_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_CAR-825/Item.prefab
+- Assets/Polaris+/Stocks/A6_Hexagon_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_BR-16/Animations.prefab
+- Assets/Polaris+/Guns/A6_AZ-102/Reload.ogg
+- Assets/Polaris+/Guns/A6_M93/Reload.ogg
+- Assets/Polaris+/Guns/A6_MG43V/Hammer.mp3
+- Assets/Polaris+/Guns/A6_AZ-102_Summit/Hammer.ogg
+- Assets/Polaris+/Guns/A6_PZMN_Summit/Reload.mp3
+- Assets/Polaris+/Guns/A6_AG-V45/Shoot.wav
+- Assets/Polaris+/Guns/A6_NUG-P/Animations.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M/Reload.ogg
+- Assets/Polaris+/Guns/A6_M1923/Item.prefab
+- Assets/Polaris+/Guns/A6_XM21A/Hammer.mp3
+- Assets/Polaris+/Guns/A6_AR-16/Shoot.wav
+- Assets/Polaris+/Guns/A6_AG-V45/Animations.prefab
+- Assets/Polaris+/Guns/A6_XM5E1_SOP1/Hammer.ogg
+- Assets/Polaris+/Guns/A6_PPZ-20/Reload.ogg
+- Assets/Polaris+/Guns/A6_BR-16/Shoot.wav
+- Assets/Polaris+/Guns/A6_LAR-58_OSW/Animations.prefab
+- Assets/Polaris+/Guns/A6_LAR-58_OSW/Hammer.wav
+- Assets/Polaris+/Guns/A6_LAR-58_OSW/Reload.wav
+- Assets/Polaris+/Guns/A6_NUG-P/Hammer.mp3
+- Assets/Polaris+/Stocks/A6_Carbine_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-102_Summit/Item.prefab
+- Assets/Polaris+/Stocks/A6_Redfield_Nation_Match_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M/Animations.prefab
+- Assets/Polaris+/Guns/A6_M76/Animations.prefab
+- Assets/Polaris+/Stocks/A6_Carbine_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_SAR/Shoot.wav
+- Assets/Polaris+/Guns/A6_BR-16/Reload.ogg
+- Assets/Polaris+/Guns/A6_NUG-P/Item.prefab
+- Assets/Polaris+/Guns/A6_BR-16/Item.prefab
+- Assets/Polaris+/Stocks/A6_Valentine_Skeleton_Stock/Item.prefab
+- Assets/Polaris+/Stocks/A6_Skinner_Soild_Stock/Grip.prefab
+- Assets/Polaris+/Barrels/A6_SAR_Silencer/Item.prefab
+- Assets/Polaris+/Stocks/A6_Navy_Stock/Grip.prefab
+- Assets/Polaris+/Guns/A6_SAR/Item.prefab
+- Assets/Polaris+/Guns/A6_XM5E1/Hammer.ogg
+- Assets/Polaris+/Stocks/A6_ENSAS_Polymer_Stock/Item.prefab
+- Assets/Polaris+/Guns/A6_MG43V/Animations.prefab
+- Assets/Polaris+/Guns/A6_XM5E1_SOP1/Reload.ogg
+- Assets/Polaris+/Guns/A6_M93/Item.prefab
+- Assets/Polaris+/Guns/A6_LAR-58_OSW/Shoot.wav
+- Assets/Polaris+/Guns/A6_MG43V/Item.prefab
+- Assets/Polaris+/Guns/A6_AZ-79M/Hammer.ogg
+- Assets/Polaris+/Guns/A6_AL-E/Hammer.mp3
+- Assets/Polaris+/Guns/A6_CAR-825/Hammer.ogg
+- Assets/Polaris+/Guns/A6_XM5E1_SOP1/Animations.prefab
+- Assets/Polaris+/Iron_Sights/A6_ENSAS_Iron_Sights/Item.prefab
+- Assets/Polaris+/Guns/A6_CAR-825/Reload.ogg
+- Assets/Polaris+/Guns/A6_XM5E1_SOP2/Item.prefab
+- Assets/Polaris+/Guns/A6_R10/Hammer.wav
+- Assets/Polaris+/Guns/A6_PZMN/Reload.mp3
+- Assets/Polaris+/Guns/A6_LAR-58/Reload.wav
+- Assets/Polaris+/Guns/A6_XM5E1_SOP1/Item.prefab
+- Assets/Polaris+/Guns/A6_NUG-A3/Item.prefab
+- Assets/Polaris+/Guns/A6_AG-V45/Item.prefab
+- Assets/Polaris+/Guns/A6_PZMN_Summit/Shoot.wav
+- Assets/Polaris+/Stocks/A6_AL_Precision_Stock/Grip.prefab
+- Assets/Polaris+/Stocks/A6_Zhrek_Skeleton_Stock/Grip.prefab
+- Assets/Polaris+/Iron_Sights/A6_CAR-825_Iron_Sights/Sight.prefab
+- Assets/Polaris+/Guns/A6_XM21A/Shoot.wav
+- Assets/Polaris+/Guns/A6_M76/Item.prefab
+- Assets/Polaris+/Guns/A6_M76/Reload.mp3
+- Assets/Polaris+/Guns/A6_Uzy/Animations.prefab
+- Assets/Polaris+/Guns/A6_AZS-79U/Hammer.ogg
+- Assets/Polaris+/Iron_Sights/A6_CAR-825_Iron_Sights/Item.prefab
+- Assets/Polaris+/Guns/A6_ENSAS/Hammer.mp3
+- Assets/Polaris+/Guns/A6_XM5E1_SOP1/Shoot.mp3
+- Assets/Polaris+/Guns/A6_AG-V45/Hammer.mp3
+- Assets/Polaris+/Guns/A6_ENSAS/Shoot.wav
+- Assets/Polaris+/Guns/A6_M1923/Reload.mp3
+- Assets/Polaris+/Guns/A6_NUG-A3/Reload.mp3
+- Assets/Polaris+/Guns/A6_NUG-P/Reload.mp3
+- Assets/Polaris+/Stocks/A6_Zhrek-M_Polymer_Stock/Grip.prefab
+Dependencies: []

@@ -1,0 +1,28 @@
+GUID 1ffdda38d91f4f41837222435442a29d
+
+
+
+Type Grip
+Rarity Epic
+ID 30506
+
+Size_X 2
+
+
+Recoil_X 0.42
+Recoil_Y 0.42
+
+Spread 0.42
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30506
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 3

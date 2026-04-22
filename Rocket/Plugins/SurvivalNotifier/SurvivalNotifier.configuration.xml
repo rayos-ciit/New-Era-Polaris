@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SurvivalNotifierConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MessageColor>yellow</MessageColor>
+  <EnableFoodWarnings>true</EnableFoodWarnings>
+  <FoodWarningThreshold>50</FoodWarningThreshold>
+  <FoodWarningMessage>You are starting to feel hungry. [50% Hunger]</FoodWarningMessage>
+  <FoodDangerThreshold>25</FoodDangerThreshold>
+  <FoodDangerMessage>You are starving. Find food soon! [25% Hunger]</FoodDangerMessage>
+  <FoodCriticalThreshold>5</FoodCriticalThreshold>
+  <FoodCriticalMessage>WARNING: You are about to die of starvation! [5% Hunger]</FoodCriticalMessage>
+  <EnableWaterWarnings>true</EnableWaterWarnings>
+  <WaterWarningThreshold>50</WaterWarningThreshold>
+  <WaterWarningMessage>You are starting to feel thirsty. [50% Thirst]</WaterWarningMessage>
+  <WaterDangerThreshold>25</WaterDangerThreshold>
+  <WaterDangerMessage>You are dehydrated. Find water soon! [25% Thirst]</WaterDangerMessage>
+  <WaterCriticalThreshold>5</WaterCriticalThreshold>
+  <WaterCriticalMessage>WARNING: You are about to die of dehydration! [5% Thirst]</WaterCriticalMessage>
+</SurvivalNotifierConfiguration>

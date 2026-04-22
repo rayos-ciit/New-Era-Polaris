@@ -1,0 +1,113 @@
+GUID 882efa7ef0ba4267915a1aba849c034a
+
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 30547
+
+Size_X 5
+Size_Y 2
+
+Magazine 36130
+Grip 36608
+Sight 30548
+
+
+Hook_Sight
+Hook_Grip
+Hook_Barrel
+Hook_Tactical
+
+Ammo_Min 3
+Ammo_Max 8
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 36002
+
+Attachment_Calibers 1
+Attachment_Caliber_0 36013
+
+Firerate 16
+Action Trigger
+
+Gunshot_Rolloff_Distance 1000
+
+Damage_Falloff_Range 0.5
+Damage_Falloff_Multiplier 0
+
+Player_Damage 72
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 300
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 72
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 80
+Structure_Damage 80
+Vehicle_Damage 80
+Resource_Damage 80
+Object_Damage 80
+
+Durability 0.035
+
+Spread_Aim 0.01
+Spread_Hip 0.45
+
+Recoil_Min_X 3.35
+Recoil_Min_Y 6.85
+Recoil_Max_X 4.5
+Recoil_Max_Y 11.7
+
+Recover_X 0.55
+Recover_Y 0.55
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.00075
+Shake_Min_Z -0.045
+Shake_Max_X -0.01
+Shake_Max_Y 0.0005
+Shake_Max_Z -0.055
+
+
+Range 950
+Ballistic_Drop 0.0003
+Ballistic_Steps 60
+Ballistic_Travel 18
+Instakill_Headshots True
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 30547
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 3
+//Salvage
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 36011
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+Blueprint_1_Tool 36090
+Blueprint_1_Level 2
+Blueprint_1_Skill Repair
+//Repair

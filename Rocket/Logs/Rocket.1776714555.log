@@ -1,0 +1,984 @@
+[20/04/2026 3:50:29 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[20/04/2026 3:50:30 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[20/04/2026 3:50:30 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[20/04/2026 3:50:30 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[20/04/2026 3:50:30 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[20/04/2026 3:50:30 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[20/04/2026 3:50:30 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[20/04/2026 3:50:30 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[20/04/2026 3:50:30 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[20/04/2026 3:50:30 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[20/04/2026 3:50:30 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[20/04/2026 3:50:30 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[20/04/2026 3:50:30 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[20/04/2026 3:50:30 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[20/04/2026 3:50:30 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[20/04/2026 3:50:30 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[20/04/2026 3:50:30 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[20/04/2026 3:50:30 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[20/04/2026 3:50:30 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[20/04/2026 3:50:30 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[20/04/2026 3:50:30 PM] [Info] Loading HardcoreDurability from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\HardcoreDurability.dll
+[20/04/2026 3:50:30 PM] [Info] Loading MoreHomes from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\MoreHomes.dll
+[20/04/2026 3:50:30 PM] [Info] Loading Teleportation from E:\SteamLibrary\steamapps\common\U3DS\Servers\New Era Polaris\Rocket\Plugins\Teleportation.dll
+[20/04/2026 3:50:30 PM] [Error] mscorlib >> Caught exception resolving dependency: 0Harmony -> Exception in DoAssemblyResolve: System.ArgumentNullException: Value cannot be null.
+Parameter name: v1
+  at System.Version.op_LessThanOrEqual (System.Version v1, System.Version v2) [0x00003] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Version.op_GreaterThanOrEqual (System.Version v1, System.Version v2) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at Rocket.Core.Plugins.RocketPluginManager+<>c__DisplayClass12_0.<Awake>b__1 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] lib) [0x00035] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate, System.Boolean& found) [0x0003f] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at System.Linq.Enumerable.FirstOrDefault[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00000] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at Rocket.Core.Plugins.RocketPluginManager.<Awake>b__12_0 (System.Object sender, System.ResolveEventArgs args) [0x00017] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[20/04/2026 3:50:30 PM] [Error] Could not find dependency: 0Harmony
+[20/04/2026 3:50:30 PM] [Info] 
+[loading] HardcoreDurability
+[20/04/2026 3:50:30 PM] [Info] HardcoreDurability >> Hardcore Durability Loaded! Master StackTrace enabled.
+[20/04/2026 3:50:30 PM] [Info] 
+[loading] MoreHomes
+[20/04/2026 3:50:30 PM] [Info] [registered] /home (RestoreMonarchy.MoreHomes.Commands.HomeCommand/home)
+[20/04/2026 3:50:30 PM] [Info] [registered] /homes (RestoreMonarchy.MoreHomes.Commands.HomesCommand/homes)
+[20/04/2026 3:50:30 PM] [Info] [registered] /destroyhome (RestoreMonarchy.MoreHomes.Commands.DestroyHomeCommand/destroyhome)
+[20/04/2026 3:50:30 PM] [Info] [registered] /renamehome (RestoreMonarchy.MoreHomes.Commands.RenameHomeCommand/renamehome)
+[20/04/2026 3:50:30 PM] [Info] [registered] /restorehomes (RestoreMonarchy.MoreHomes.Commands.RestoreHomesCommand/restorehomes)
+[20/04/2026 3:50:30 PM] [Info] MoreHomes >> MoreHomes 1.7.2.0 has been loaded!
+[20/04/2026 3:50:30 PM] [Info] MoreHomes >> Brought to you by RestoreMonarchy.com
+[20/04/2026 3:50:30 PM] [Error] mscorlib >> Caught exception resolving dependency: Steamworks.NET -> Exception in DoAssemblyResolve: System.ArgumentNullException: Value cannot be null.
+Parameter name: v1
+  at System.Version.op_LessThanOrEqual (System.Version v1, System.Version v2) [0x00003] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at System.Version.op_GreaterThanOrEqual (System.Version v1, System.Version v2) [0x00000] in <1071a2cb0cb3433aae80a793c277a048>:0 
+  at Rocket.Core.Plugins.RocketPluginManager+<>c__DisplayClass12_0.<Awake>b__1 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] lib) [0x00035] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate, System.Boolean& found) [0x0003f] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at System.Linq.Enumerable.FirstOrDefault[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00000] in <ea489521390f48908a7ce45cb17a6848>:0 
+  at Rocket.Core.Plugins.RocketPluginManager.<Awake>b__12_0 (System.Object sender, System.ResolveEventArgs args) [0x00017] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[20/04/2026 3:50:30 PM] [Error] Could not find dependency: Steamworks.NET
+[20/04/2026 3:50:30 PM] [Info] 
+[loading] Teleportation
+[20/04/2026 3:50:30 PM] [Info] [registered] /tpa (RestoreMonarchy.Teleportation.Commands.TPACommand/tpa)
+[20/04/2026 3:50:30 PM] [Info] Teleportation >> Teleportation 1.6.0.0 has been loaded!
+[20/04/2026 3:50:30 PM] [Info] This server will automatically save every 1800 seconds
+[20/04/2026 3:50:30 PM] [Info] Steam servers ready!
+[20/04/2026 3:50:30 PM] [Info] Workshop install folder: E:\SteamLibrary\steamapps\common\U3DS/Servers/New Era Polaris/Workshop/Steam
+[20/04/2026 3:50:30 PM] [Info] 1 workshop item(s) requested
+[20/04/2026 3:50:30 PM] [Info] Submitting workshop query for 1 item(s)...
+[20/04/2026 3:50:30 PM] [Info] Workshop query yielded 1 result(s)
+[20/04/2026 3:50:30 PM] [Info] This server's allowed IP for Workshop downloads: [redacted]
+[20/04/2026 3:50:30 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[20/04/2026 3:50:30 PM] [Info] 1 workshop item(s) to download...
+[20/04/2026 3:50:30 PM] [Info] Workshop item found in cache: 2898548949
+[20/04/2026 3:50:30 PM] [Info] Installing workshop item: 2898548949
+[20/04/2026 3:50:30 PM] [Info] Installed workshop item: 2898548949
+[20/04/2026 3:50:30 PM] [Info] Searched 0 of 1 locations and found 284 asset files...
+[20/04/2026 3:50:30 PM] [Info] Read 0 of 284 asset file contents into memory...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 284 assets...
+[20/04/2026 3:50:30 PM] [Info] Searched 0 of 1 locations and found 555 asset files...
+[20/04/2026 3:50:30 PM] [Info] Read 0 of 555 asset file contents into memory...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 555 assets...
+[20/04/2026 3:50:30 PM] [Info] Searched 0 of 1 locations and found 856 asset files...
+[20/04/2026 3:50:30 PM] [Info] Read 0 of 856 asset file contents into memory...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 856 assets...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 1 asset bundles...
+[20/04/2026 3:50:30 PM] [Info] Searched 0 of 1 locations and found 1092 asset files...
+[20/04/2026 3:50:30 PM] [Info] Read 92 of 1092 asset file contents into memory...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 1092 assets...
+[20/04/2026 3:50:30 PM] [Info] Searched 0 of 1 locations and found 1382 asset files...
+[20/04/2026 3:50:30 PM] [Info] Read 217 of 1382 asset file contents into memory...
+[20/04/2026 3:50:30 PM] [Info] Loaded 0 of 1382 assets...
+[20/04/2026 3:50:31 PM] [Info] Searched 0 of 1 locations and found 1625 asset files...
+[20/04/2026 3:50:31 PM] [Info] Read 303 of 1625 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Loaded 0 of 1625 assets...
+[20/04/2026 3:50:31 PM] [Info] Searched 0 of 1 locations and found 1829 asset files...
+[20/04/2026 3:50:31 PM] [Info] Read 385 of 1829 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Loaded 0 of 1829 assets...
+[20/04/2026 3:50:31 PM] [Info] Searched 0 of 1 locations and found 2056 asset files...
+[20/04/2026 3:50:31 PM] [Info] Read 467 of 2056 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Loaded 0 of 2056 assets...
+[20/04/2026 3:50:31 PM] [Info] Searched 0 of 1 locations and found 2300 asset files...
+[20/04/2026 3:50:31 PM] [Info] Read 522 of 2300 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Loaded 0 of 2300 assets...
+[20/04/2026 3:50:31 PM] [Info] Searched 1 of 1 locations and found 2378 asset files...
+[20/04/2026 3:50:31 PM] [Info] Read 594 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Loaded 0 of 2378 assets...
+[20/04/2026 3:50:31 PM] [Info] Read 660 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 739 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 810 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 872 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 941 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1016 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1110 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1205 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1299 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1384 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1466 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1538 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1624 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1712 of 2378 asset file contents into memory...
+[20/04/2026 3:50:31 PM] [Info] Read 1846 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 1954 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 2016 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 2087 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 2151 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 2219 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Read 2300 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Loaded 1 of 1 asset bundles...
+[20/04/2026 3:50:32 PM] [Info] Read 2378 of 2378 asset file contents into memory...
+[20/04/2026 3:50:32 PM] [Info] Loaded 3 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 9 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 59 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 92 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 240 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 290 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 324 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 354 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 386 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 465 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 563 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 694 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 726 of 2378 assets...
+[20/04/2026 3:50:32 PM] [Info] Loaded 759 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 793 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 816 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 829 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 843 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 908 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 1965 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Loaded 2378 of 2378 assets...
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Animals.Max_Instances_Medium: 256
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Items.Quality_Full_Chance because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Gun_Lowcal_Damage_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Gun_Highcal_Damage_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Gun_Lowcal_Damage_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Gun_Highcal_Damage_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Melee_Damage_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Structures.Melee_Repair_Multiplier: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Events.Airdrop_Speed: 96
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Events.Airdrop_Force: 8.55
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Vehicles.Min_Battery_Charge: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Vehicles.Max_Battery_Charge: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Vehicles.Has_Battery_Chance: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Vehicles.Max_Instances_Medium: 48
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Vehicles.Armor_Multiplier because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Experience_Multiplier because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Lose_Experience_PvP because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Players.Lose_Experience_PvE: 1
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Lose_Skill_Levels_PvP because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Lose_Skill_Levels_PvE because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Players.Virus_Infect because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Players.Can_Break_Legs: False
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Zombies.Armor_Multiplier because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Zombies.Full_Moon_Experience_Multiplier: 2
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Zombies.Spawn_Chance because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Zombies.Max_Mega_Drops: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Zombies.Min_Boss_Drops: 1
+[20/04/2026 3:50:33 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 1
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Zombies.Loot_Chance because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Skipping level config override Gameplay.Chart because it's overridden in server config
+[20/04/2026 3:50:33 PM] [Info] Monitoring workshop map "A6 Polaris" (2898548949) for changes
+[20/04/2026 3:50:33 PM] [Info] Loading level: 5%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 10%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 15%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 21%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 26%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 31%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 36%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 42%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 47%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 52%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 57%
+[20/04/2026 3:50:36 PM] [Info] Loading level: 63%
+[20/04/2026 3:50:38 PM] [Info] Loading level: 68%
+[20/04/2026 3:50:38 PM] [Info] Loading level: 73%
+[20/04/2026 3:50:38 PM] [Info] Loading level: 89%
+[20/04/2026 3:50:38 PM] [Info] Loading level: 94%
+[20/04/2026 3:50:39 PM] [Info] //////////////////////////////////////////////////////
+[20/04/2026 3:50:39 PM] [Info] Server Code: 85568392936196484
+[20/04/2026 3:50:39 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[20/04/2026 3:50:39 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[20/04/2026 3:50:39 PM] [Info] //////////////////////////////////////////////////////
+[20/04/2026 3:50:39 PM] [Info] Loading level: 100%
+[20/04/2026 4:12:02 PM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 4:20:30 PM] [Info] Saving server
+[20/04/2026 4:28:54 PM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:28:54 PM] [Info] Myst [Myst_iU] was mauled by a zombie!
+[20/04/2026 4:29:07 PM] [Info] Myst moved x:258.4297 y:57.41091(+20.03096) z:-697.7656 in the last second (0.09999847)
+[20/04/2026 4:29:15 PM] [Info] [World] Myst [Myst_iU]: "/tp st.erikson"
+[20/04/2026 4:29:24 PM] [Info] [World] Myst [Myst_iU]: "/tp St. Erikson"
+[20/04/2026 4:29:43 PM] [Info] Connecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 4:29:54 PM] [Info] [World] Myst [Myst_iU]: "/teleport St Erikson"
+[20/04/2026 4:30:54 PM] [Info] Successfully teleported Myst_iU to Location!
+[20/04/2026 4:30:54 PM] [Info] [World] kopiko [kopiko]: "/tp Myst"
+[20/04/2026 4:30:54 PM] [Info] kopiko teleported to Myst
+[20/04/2026 4:34:53 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 4:35:09 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 4:50:30 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 4:50:30 PM] [Info] Saving server
+[20/04/2026 4:54:35 PM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 4:54:35 PM] [Info] [World] Myst [Myst_iU]: "/give 36049 2"
+[20/04/2026 4:54:35 PM] [Info] Successfully gave Myst_iU 36049 x2!
+[20/04/2026 5:00:50 PM] [Info] [World] Myst [Myst_iU]: "/kick wig"
+[20/04/2026 5:01:14 PM] [Info] Successfully kicked wiggielicious!
+[20/04/2026 5:01:14 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 5:06:22 PM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 5:06:22 PM] [Info] Successfully saved the game.
+[20/04/2026 5:06:27 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[20/04/2026 5:06:33 PM] [Info] Kicking for inactivity: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 5:06:33 PM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 5:06:33 PM] [Info] Kicking for inactivity: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 5:06:33 PM] [Info] Disconnecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 5:06:33 PM] [Info] Kicking for inactivity: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 5:06:50 PM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 5:06:50 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[20/04/2026 5:06:54 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[20/04/2026 5:07:00 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[20/04/2026 5:07:44 PM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 5:08:18 PM] [Info] Connecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[20/04/2026 5:09:34 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 5:20:30 PM] [Info] Saving server
+[20/04/2026 5:21:03 PM] [Info] MoreHomes >> 6 player homes data has been saved!
+[20/04/2026 5:21:03 PM] [Info] Connecting: PlayerID: 76561199385707538 Name: Sairentokira Character: Sairentokira
+[20/04/2026 5:21:52 PM] [Info] [World] Myst [Myst_iU]: "/home bed1"
+[20/04/2026 5:22:19 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp MYst"
+[20/04/2026 5:22:19 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 5:22:19 PM] [Info] Sairentokira moved x:264.2188 y:52.72403(+26.55994) z:-677.1563 in the last second (0.1000023)
+[20/04/2026 5:26:55 PM] [Info] [World] Myst [Myst_iU]: "/tp 36049"
+[20/04/2026 5:27:00 PM] [Info] [World] Myst [Myst_iU]: "/give 36049"
+[20/04/2026 5:27:00 PM] [Info] Successfully gave Myst_iU 36049 x1!
+[20/04/2026 5:27:06 PM] [Info] [World] Myst [Myst_iU]: "/give 36409"
+[20/04/2026 5:27:06 PM] [Info] Successfully gave Myst_iU 36409 x1!
+[20/04/2026 5:27:45 PM] [Info] [World] Myst [Myst_iU]: "/tp kopiko"
+[20/04/2026 5:27:45 PM] [Info] Myst teleported to kopiko
+[20/04/2026 5:32:43 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp myst"
+[20/04/2026 5:32:43 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 5:48:39 PM] [Info] wiggielicious [wiggielicious] bled to death!
+[20/04/2026 5:48:56 PM] [Info] [World] wiggielicious [wiggielicious]: "/TP SAREINTOKI"
+[20/04/2026 5:49:05 PM] [Info] [World] wiggielicious [wiggielicious]: "/TP SAREINTOKI"
+[20/04/2026 5:49:20 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp sareintoki"
+[20/04/2026 5:49:37 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp sai"
+[20/04/2026 5:49:37 PM] [Info] wiggielicious teleported to Sairentokira
+[20/04/2026 5:49:37 PM] [Info] wiggielicious moved x:635.8047 y:75.18877(+49.23884) z:102.6797 in the last second (0.1101532)
+[20/04/2026 5:50:30 PM] [Info] Saving server
+[20/04/2026 5:53:41 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 5:53:41 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 5:53:41 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 5:53:56 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp wig"
+[20/04/2026 5:53:56 PM] [Info] Sairentokira teleported to wiggielicious
+[20/04/2026 5:56:12 PM] [Info] [World] Myst [Myst_iU]: "/give 36370"
+[20/04/2026 5:56:12 PM] [Info] Successfully gave Myst_iU 36370 x1!
+[20/04/2026 5:57:23 PM] [Info] Disconnecting: PlayerID: 76561199385707538 Name: Sairentokira Character: Sairentokira
+[20/04/2026 5:57:43 PM] [Info] Connecting: PlayerID: 76561199385707538 Name: Sairentokira Character: Sairentokira
+[20/04/2026 6:01:14 PM] [Info] Sairentokira [Sairentokira] was mauled by a zombie!
+[20/04/2026 6:01:30 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp myst"
+[20/04/2026 6:01:30 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 6:11:10 PM] [Info] [World] Myst [Myst_iU]: "/give 36054"
+[20/04/2026 6:11:10 PM] [Info] Successfully gave Myst_iU 36054 x1!
+[20/04/2026 6:19:39 PM] [Info] wiggielicious moved x:-73.92188 y:54.42304(+28.57146) z:-180.7266 in the last second (0.09999847)
+[20/04/2026 6:19:52 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 6:19:52 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 6:20:30 PM] [Info] Saving server
+[20/04/2026 6:29:50 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 6:29:50 PM] [Info] [World] Myst [Myst_iU]: "/tp sai"
+[20/04/2026 6:29:50 PM] [Info] Myst teleported to Sairentokira
+[20/04/2026 6:30:38 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 6:30:38 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 6:30:38 PM] [Info] Myst moved x:263.0326 y:52.72403(+26.55994) z:-674.3499 in the last second (0.1000023)
+[20/04/2026 6:30:51 PM] [Info] [World] Myst [Myst_iU]: "/tp sai"
+[20/04/2026 6:30:51 PM] [Info] Myst teleported to Sairentokira
+[20/04/2026 6:31:49 PM] [Info] [World] Myst [Myst_iU]: "/"
+[20/04/2026 6:31:52 PM] [Info] [World] Myst [Myst_iU]: "/give 36124"
+[20/04/2026 6:31:52 PM] [Info] Successfully gave Myst_iU 36124 x1!
+[20/04/2026 6:36:02 PM] [Info] Sairentokira moved x:-73.92188 y:54.42304(+28.25896) z:-180.7266 in the last second (0.09999847)
+[20/04/2026 6:41:25 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 6:41:25 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 6:41:26 PM] [Info] kopiko moved x:257.8906 y:52.72403(+26.55994) z:-688.9297 in the last second (0.1000023)
+[20/04/2026 6:41:38 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 6:41:39 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 6:41:39 PM] [Info] Myst moved x:262.3594 y:52.72403(+26.92033) z:-675.5078 in the last second (0.1000023)
+[20/04/2026 6:47:14 PM] [Info] Sairentokira [Sairentokira] starved to death!
+[20/04/2026 6:47:27 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp myst"
+[20/04/2026 6:47:27 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 6:47:40 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp myst"
+[20/04/2026 6:47:40 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 6:47:50 PM] [Info] Sairentokira [Sairentokira] was mauled by a zombie!
+[20/04/2026 6:48:27 PM] [Info] [World] Myst [Myst_iU]: "/admin sai"
+[20/04/2026 6:49:18 PM] [Info] [World] Sairentokira [Sairentokira]: "/give 36028"
+[20/04/2026 6:49:18 PM] [Info] Successfully gave Sairentokira 36028 x1!
+[20/04/2026 6:49:36 PM] [Info] [World] Sairentokira [Sairentokira]: "/tp myst"
+[20/04/2026 6:49:36 PM] [Info] Sairentokira teleported to Myst
+[20/04/2026 6:49:37 PM] [Info] Sairentokira moved x:287.6797 y:40.53128(+16.32088) z:-658.3906 in the last second (0.1051331)
+[20/04/2026 6:49:49 PM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 6:50:03 PM] [Info] [World] kopiko [kopiko]: "/spy 76561199571006509"
+[20/04/2026 6:50:05 PM] [Info] Successfully taking a screenshot of wiggielicious.
+[20/04/2026 6:50:05 PM] [Info] [World] kopiko [kopiko]: "/spy 76561199571006509"
+[20/04/2026 6:50:05 PM] [Info] Successfully taking a screenshot of wiggielicious.
+[20/04/2026 6:50:08 PM] [Info] [World] Sairentokira [Sairentokira]: "/give experience 500"
+[20/04/2026 6:50:08 PM] [Info] [World] kopiko [kopiko]: "/spy 76561199571006509"
+[20/04/2026 6:50:08 PM] [Info] Successfully taking a screenshot of wiggielicious.
+[20/04/2026 6:50:30 PM] [Info] Saving server
+[20/04/2026 6:52:35 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 6:52:35 PM] [Info] Disconnecting: PlayerID: 76561199385707538 Name: Sairentokira Character: Sairentokira
+[20/04/2026 6:57:57 PM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 7:15:47 PM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 7:20:30 PM] [Info] Saving server
+[20/04/2026 7:35:15 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 7:35:15 PM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 7:36:33 PM] [Info] [World] Myst [Myst_iU]: "/home1"
+[20/04/2026 7:36:37 PM] [Info] [World] Myst [Myst_iU]: "/bed hom1"
+[20/04/2026 7:36:40 PM] [Info] [World] Myst [Myst_iU]: "/bed home1"
+[20/04/2026 7:36:45 PM] [Info] [World] Myst [Myst_iU]: "/bed"
+[20/04/2026 7:36:48 PM] [Info] [World] Myst [Myst_iU]: "/home bed1"
+[20/04/2026 7:36:51 PM] [Info] Myst moved x:258.1216 y:57.17294(+30.80112) z:-696.6715 in the last second (0.298912)
+[20/04/2026 7:45:46 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 7:45:46 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 7:49:56 PM] [Info] [World] kopiko [kopiko]: "/give wood"
+[20/04/2026 7:50:04 PM] [Info] Successfully gave kopiko 36016 x1!
+[20/04/2026 7:50:04 PM] [Info] [World] kopiko [kopiko]: "/give wood"
+[20/04/2026 7:50:30 PM] [Info] Successfully gave kopiko 36016 x1!
+[20/04/2026 7:50:30 PM] [Info] Saving server
+[20/04/2026 7:51:13 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 7:51:13 PM] [Info] [World] Myst [Myst_iU]: "/GIVE 36164"
+[20/04/2026 7:51:13 PM] [Info] Successfully gave Myst_iU 36164 x1!
+[20/04/2026 7:51:16 PM] [Info] [World] Myst [Myst_iU]: "/GIVE 36164 2"
+[20/04/2026 7:51:16 PM] [Info] Successfully gave Myst_iU 36164 x2!
+[20/04/2026 7:51:29 PM] [Info] Connecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 7:51:54 PM] [Info] [World] Myst [Myst_iU]: "/home bed1"
+[20/04/2026 7:51:58 PM] [Info] Myst moved x:258.4297 y:57.41091(+24.56686) z:-697.7656 in the last second (0.09999847)
+[20/04/2026 7:53:28 PM] [Info] Kicking because ping (754) exceeds limit (750): PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 7:54:16 PM] [Info] Disconnecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 7:54:16 PM] [Info] Connecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[20/04/2026 7:57:08 PM] [Info] [World] Myst [Myst_iU]: "/give 36009 5"
+[20/04/2026 7:57:08 PM] [Info] Successfully gave Myst_iU 36009 x5!
+[20/04/2026 8:08:39 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 8:08:39 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 8:20:30 PM] [Info] Saving server
+[20/04/2026 8:22:28 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 8:22:28 PM] [Info] [World] Myst [Myst_iU]: "/tp lee"
+[20/04/2026 8:22:37 PM] [Info] [World] Myst [Myst_iU]: "/tp miku"
+[20/04/2026 8:22:37 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 8:22:43 PM] [Info] [World] Myst [Myst_iU]: "/home bed1"
+[20/04/2026 8:22:47 PM] [Info] Myst moved x:258.4297 y:57.41091(+26.88193) z:-697.7656 in the last second (0.09999847)
+[20/04/2026 8:24:48 PM] [Info] [World] Myst [Myst_iU]: "/give 36147"
+[20/04/2026 8:24:48 PM] [Info] Successfully gave Myst_iU 36147 x1!
+[20/04/2026 8:26:21 PM] [Info] [World] kopiko [kopiko]: "/tp Myst"
+[20/04/2026 8:26:21 PM] [Info] kopiko teleported to Myst
+[20/04/2026 8:26:22 PM] [Info] kopiko moved x:262.9297 y:52.72403(+26.7459) z:-694.4766 in the last second (0.1000023)
+[20/04/2026 8:30:48 PM] [Info] [World] Myst [Myst_iU]: "/god"
+[20/04/2026 8:31:01 PM] [Info] Myst enabled Godmode
+[20/04/2026 8:31:01 PM] [Info] [World] Myst [Myst_iU]: "/god"
+[20/04/2026 8:31:01 PM] [Info] Myst disabled Godmode
+[20/04/2026 8:31:13 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 8:31:13 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 8:31:27 PM] [Info] [World] wiggielicious [wiggielicious]: "/give sakhalin"
+[20/04/2026 8:35:58 PM] [Info] Successfully gave wiggielicious 36068 x1!
+[20/04/2026 8:35:58 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 8:35:58 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 8:35:59 PM] [Info] wiggielicious moved x:254.5313 y:52.72403(+26.55994) z:-686.4688 in the last second (0.1000023)
+[20/04/2026 8:39:04 PM] [Info] [World] twicemiku [twicemiku]: "/TP WIGGIE"
+[20/04/2026 8:39:04 PM] [Info] twicemiku teleported to wiggielicious
+[20/04/2026 8:39:05 PM] [Info] twicemiku moved x:253.9453 y:52.72403(+26.55994) z:-686.2891 in the last second (0.1000023)
+[20/04/2026 8:39:40 PM] [Info] [World] Myst [Myst_iU]: "/give 36055"
+[20/04/2026 8:39:40 PM] [Info] Successfully gave Myst_iU 36055 x1!
+[20/04/2026 8:39:44 PM] [Info] [World] twicemiku [twicemiku]: "/tp kopiko"
+[20/04/2026 8:40:01 PM] [Info] twicemiku teleported to kopiko
+[20/04/2026 8:40:01 PM] [Info] [World] Myst [Myst_iU]: "/tp twice"
+[20/04/2026 8:40:01 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 8:42:30 PM] [Info] [World] twicemiku [twicemiku]: "/tp wiggie"
+[20/04/2026 8:42:31 PM] [Info] twicemiku teleported to wiggielicious
+[20/04/2026 8:42:31 PM] [Info] [World] Myst [Myst_iU]: "/home bed1"
+[20/04/2026 8:42:31 PM] [Info] twicemiku moved x:262.9609 y:52.72403(+26.55994) z:-675.6797 in the last second (0.1000023)
+[20/04/2026 8:42:35 PM] [Info] Myst moved x:258.4297 y:57.41091(+31.24682) z:-697.7656 in the last second (0.09999847)
+[20/04/2026 8:50:08 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 8:50:08 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 8:50:30 PM] [Info] Saving server
+[20/04/2026 8:51:28 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 8:51:28 PM] [Info] [World] kopiko [kopiko]: "/tp myst"
+[20/04/2026 8:51:28 PM] [Info] kopiko teleported to Myst
+[20/04/2026 8:53:24 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 8:53:24 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 8:55:30 PM] [Info] [World] Myst [Myst_iU]: "/tp tw"
+[20/04/2026 8:55:30 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 8:55:31 PM] [Info] Myst moved x:260.6617 y:52.72403(+20.99063) z:-679.4675 in the last second (0.1000023)
+[20/04/2026 8:55:45 PM] [Info] [World] Myst [Myst_iU]: "/tp kopi"
+[20/04/2026 8:55:45 PM] [Info] Myst teleported to kopiko
+[20/04/2026 8:55:49 PM] [Info] [World] Myst [Myst_iU]: "/tp kopiko"
+[20/04/2026 9:03:11 PM] [Info] Myst teleported to kopiko
+[20/04/2026 9:03:11 PM] [Info] [World] Myst [Myst_iU]: "/give 36294"
+[20/04/2026 9:03:11 PM] [Info] Successfully gave Myst_iU 36294 x1!
+[20/04/2026 9:03:51 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp mys"
+[20/04/2026 9:03:51 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 9:03:52 PM] [Info] wiggielicious moved x:262.2969 y:52.72403(+23.68652) z:-694.6016 in the last second (0.1000023)
+[20/04/2026 9:04:22 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp twice"
+[20/04/2026 9:04:22 PM] [Info] wiggielicious teleported to twicemiku
+[20/04/2026 9:05:58 PM] [Info] [World] Myst [Myst_iU]: "/give 36092 2"
+[20/04/2026 9:05:58 PM] [Info] Successfully gave Myst_iU 36092 x2!
+[20/04/2026 9:08:06 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 9:08:06 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 9:10:51 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp bed 1"
+[20/04/2026 9:10:57 PM] [Info] [World] kopiko [kopiko]: "/tp bed1"
+[20/04/2026 9:11:01 PM] [Info] [World] kopiko [kopiko]: "/tp bed 1"
+[20/04/2026 9:11:02 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 9:11:02 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 9:11:10 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 9:11:10 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 9:11:13 PM] [Info] [World] kopiko [kopiko]: "/tp myst"
+[20/04/2026 9:11:23 PM] [Info] kopiko teleported to Myst
+[20/04/2026 9:11:23 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 9:11:23 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 9:17:49 PM] [Info] [World] Myst [Myst_iU]: "/twice"
+[20/04/2026 9:17:52 PM] [Info] [World] Myst [Myst_iU]: "/tp twice"
+[20/04/2026 9:17:53 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 9:17:53 PM] [Info] Myst moved x:271.8906 y:56.97403(+30.80994) z:-672.4297 in the last second (0.1000023)
+[20/04/2026 9:20:30 PM] [Info] Saving server
+[20/04/2026 9:26:00 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 9:26:00 PM] [Info] kopiko [kopiko] bled to death!
+[20/04/2026 9:26:06 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 9:26:06 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 9:26:07 PM] [Info] kopiko moved x:380.0625 y:48.91177(+23.33622) z:437.4609 in the last second (0.1012192)
+[20/04/2026 9:29:11 PM] [Info] [World] Myst [Myst_iU]: "/tp twice"
+[20/04/2026 9:29:11 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 9:29:20 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 9:29:20 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 9:29:23 PM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[20/04/2026 9:29:23 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 9:42:14 PM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 9:43:03 PM] [Info] [World] kopiko [kopiko]: "/tp myst"
+[20/04/2026 9:43:03 PM] [Info] kopiko teleported to Myst
+[20/04/2026 9:46:32 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 9:46:49 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp kopi"
+[20/04/2026 9:46:49 PM] [Info] wiggielicious teleported to kopiko
+[20/04/2026 9:46:57 PM] [Info] twicemiku [twicemiku] starved to death!
+[20/04/2026 9:47:24 PM] [Info] twicemiku moved x:254.125 y:57.88176(+29.22885) z:-686.8828 in the last second (0.5708466)
+[20/04/2026 9:48:00 PM] [Info] [World] twicemiku [twicemiku]: "/tp rein"
+[20/04/2026 9:48:06 PM] [Info] [World] twicemiku [twicemiku]: "/tp myst"
+[20/04/2026 9:48:06 PM] [Info] twicemiku teleported to Myst
+[20/04/2026 9:49:00 PM] [Info] [World] Myst [Myst_iU]: "/give 36293"
+[20/04/2026 9:49:15 PM] [Info] Successfully gave Myst_iU 36293 x1!
+[20/04/2026 9:49:15 PM] [Info] [World] kopiko [kopiko]: "/give jerrycan"
+[20/04/2026 9:49:24 PM] [Info] Successfully gave kopiko 1115 x1!
+[20/04/2026 9:49:24 PM] [Info] [World] Myst [Myst_iU]: "/give 36241 4"
+[20/04/2026 9:49:24 PM] [Info] Successfully gave Myst_iU 36241 x4!
+[20/04/2026 9:50:03 PM] [Info] [World] Myst [Myst_iU]: "/tp twice"
+[20/04/2026 9:50:03 PM] [Info] Myst teleported to twicemiku
+[20/04/2026 9:50:13 PM] [Info] kopiko [kopiko] was mauled by a zombie!
+[20/04/2026 9:50:19 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 9:50:19 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 9:50:19 PM] [Info] kopiko moved x:14.97656 y:46.51709(+20.64104) z:320.2578 in the last second (1.44788)
+[20/04/2026 9:50:30 PM] [Info] Saving server
+[20/04/2026 9:50:38 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 9:50:38 PM] [Info] [World] Myst [Myst_iU]: "/tp wiggie"
+[20/04/2026 9:50:38 PM] [Info] Myst teleported to wiggielicious
+[20/04/2026 9:50:39 PM] [Info] Myst moved x:9.136425 y:45.2726(+16.87513) z:323.8993 in the last second (0.09999466)
+[20/04/2026 9:50:51 PM] [Info] kopiko [kopiko] was blown up by a vehicle!
+[20/04/2026 9:50:59 PM] [Info] [World] kopiko [kopiko]: "/tp wig"
+[20/04/2026 9:50:59 PM] [Info] kopiko teleported to wiggielicious
+[20/04/2026 9:50:59 PM] [Info] kopiko moved x:18.34375 y:45.19117(+19.33023) z:324.4844 in the last second (0.1001015)
+[20/04/2026 9:53:49 PM] [Info] [World] Myst [Myst_iU]: "/give 36221 5"
+[20/04/2026 9:53:49 PM] [Info] Successfully gave Myst_iU 36221 x5!
+[20/04/2026 9:54:17 PM] [Info] [World] Myst [Myst_iU]: "/give 36221 10"
+[20/04/2026 9:54:17 PM] [Info] Successfully gave Myst_iU 36221 x10!
+[20/04/2026 9:54:32 PM] [Info] [World] kopiko [kopiko]: "/tp bed"
+[20/04/2026 9:54:44 PM] [Info] [World] kopiko [kopiko]: "/home bed1"
+[20/04/2026 9:54:44 PM] [Info] [World] wiggielicious [wiggielicious]: "/home bed1"
+[20/04/2026 9:54:47 PM] [Info] kopiko moved x:255.2656 y:57.85832(+31.69423) z:-696.2109 in the last second (0.5723114)
+[20/04/2026 9:54:47 PM] [Info] wiggielicious moved x:258.25 y:57.88176(+31.71767) z:-694.1953 in the last second (0.5708466)
+[20/04/2026 9:54:50 PM] [Info] [World] Myst [Myst_iU]: "/give 36221 10"
+[20/04/2026 9:54:50 PM] [Info] Successfully gave Myst_iU 36221 x10!
+[20/04/2026 9:55:47 PM] [Info] [World] Myst [Myst_iU]: "/give 36241 8"
+[20/04/2026 9:56:44 PM] [Info] Successfully gave Myst_iU 36241 x8!
+[20/04/2026 9:56:44 PM] [Info] [World] Myst [Myst_iU]: "/god"
+[20/04/2026 9:56:44 PM] [Info] Myst enabled Godmode
+[20/04/2026 9:58:03 PM] [Info] [World] Myst [Myst_iU]: "\"
+[20/04/2026 9:58:08 PM] [Info] [World] Myst [Myst_iU]: "/give 36241 5"
+[20/04/2026 9:58:08 PM] [Info] Successfully gave Myst_iU 36241 x5!
+[20/04/2026 9:59:32 PM] [Info] [World] Myst [Myst_iU]: "/give 36241"
+[20/04/2026 9:59:32 PM] [Info] Successfully gave Myst_iU 36241 x1!
+[20/04/2026 10:00:27 PM] [Info] [World] Myst [Myst_iU]: "/give 36241 6"
+[20/04/2026 10:00:27 PM] [Info] Successfully gave Myst_iU 36241 x6!
+[20/04/2026 10:01:16 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp rein"
+[20/04/2026 10:01:23 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp my"
+[20/04/2026 10:01:23 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 10:02:20 PM] [Info] [World] Myst [Myst_iU]: "/give 36241 10"
+[20/04/2026 10:02:20 PM] [Info] Successfully gave Myst_iU 36241 x10!
+[20/04/2026 10:03:11 PM] [Info] [World] Myst [Myst_iU]: "/give 36220 20"
+[20/04/2026 10:05:03 PM] [Info] Successfully gave Myst_iU 36220 x20!
+[20/04/2026 10:05:03 PM] [Info] [World] Myst [Myst_iU]: "/give 36220 20"
+[20/04/2026 10:05:03 PM] [Info] Successfully gave Myst_iU 36220 x20!
+[20/04/2026 10:08:03 PM] [Info] [World] wiggielicious [wiggielicious]: "/t[ my"
+[20/04/2026 10:08:10 PM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[20/04/2026 10:08:10 PM] [Info] wiggielicious teleported to Myst
+[20/04/2026 10:09:17 PM] [Info] [World] Myst [Myst_iU]: "/give 36233"
+[20/04/2026 10:09:17 PM] [Info] Successfully gave Myst_iU 36233 x1!
+[20/04/2026 10:09:35 PM] [Info] [World] Myst [Myst_iU]: "/give 36233"
+[20/04/2026 10:09:35 PM] [Info] Successfully gave Myst_iU 36233 x1!
+[20/04/2026 10:09:56 PM] [Info] [World] Myst [Myst_iU]: "/give 36217 5"
+[20/04/2026 10:09:56 PM] [Info] Successfully gave Myst_iU 36217 x5!
+[20/04/2026 10:11:11 PM] [Info] [World] Myst [Myst_iU]: "/give 36217 10"
+[20/04/2026 10:11:11 PM] [Info] Successfully gave Myst_iU 36217 x10!
+[20/04/2026 10:11:38 PM] [Info] [World] Myst [Myst_iU]: "s"
+[20/04/2026 10:11:43 PM] [Info] [World] Myst [Myst_iU]: "/give 36217 10"
+[20/04/2026 10:12:43 PM] [Info] Successfully gave Myst_iU 36217 x10!
+[20/04/2026 10:12:43 PM] [Info] [World] Myst [Myst_iU]: "/give 36217 10"
+[20/04/2026 10:12:43 PM] [Info] Successfully gave Myst_iU 36217 x10!
+[20/04/2026 10:13:40 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[20/04/2026 10:13:40 PM] [Info] Successfully gave Myst_iU 36222 x10!
+[20/04/2026 10:15:07 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 20"
+[20/04/2026 10:16:00 PM] [Info] Successfully gave Myst_iU 36222 x20!
+[20/04/2026 10:16:00 PM] [Info] [World] Myst [Myst_iU]: "/give 36222"
+[20/04/2026 10:16:00 PM] [Info] Successfully gave Myst_iU 36222 x1!
+[20/04/2026 10:16:14 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[20/04/2026 10:16:14 PM] [Info] Successfully gave Myst_iU 36240 x5!
+[20/04/2026 10:16:28 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[20/04/2026 10:16:28 PM] [Info] Successfully gave Myst_iU 36240 x5!
+[20/04/2026 10:17:05 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[20/04/2026 10:17:28 PM] [Info] Successfully gave Myst_iU 36240 x10!
+[20/04/2026 10:17:28 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 15"
+[20/04/2026 10:20:30 PM] [Info] Successfully gave Myst_iU 36240 x15!
+[20/04/2026 10:20:30 PM] [Info] Saving server
+[20/04/2026 10:20:37 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 10:20:37 PM] [Info] [World] Myst [Myst_iU]: "/give 36244"
+[20/04/2026 10:20:37 PM] [Info] Successfully gave Myst_iU 36244 x1!
+[20/04/2026 10:21:04 PM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 10:21:07 PM] [Info] [World] Myst [Myst_iU]: "/give 36291"
+[20/04/2026 10:23:27 PM] [Info] Successfully gave Myst_iU 36291 x1!
+[20/04/2026 10:23:27 PM] [Info] [World] Myst [Myst_iU]: "/give 36291 1"
+[20/04/2026 10:23:27 PM] [Info] Successfully gave Myst_iU 36291 x1!
+[20/04/2026 10:24:45 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 10:25:14 PM] [Info] [World] Myst [Myst_iU]: "/give 36236"
+[20/04/2026 10:25:14 PM] [Info] Successfully gave Myst_iU 36236 x1!
+[20/04/2026 10:26:28 PM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[20/04/2026 10:26:28 PM] [Info] Successfully gave Myst_iU 36240 x1!
+[20/04/2026 10:26:36 PM] [Info] [World] Myst [Myst_iU]: "/give 36244"
+[20/04/2026 10:26:36 PM] [Info] Successfully gave Myst_iU 36244 x1!
+[20/04/2026 10:27:43 PM] [Info] [World] Myst [Myst_iU]: "/give 36291"
+[20/04/2026 10:27:43 PM] [Info] Successfully gave Myst_iU 36291 x1!
+[20/04/2026 10:28:57 PM] [Info] [World] Myst [Myst_iU]: "/give 36241"
+[20/04/2026 10:28:57 PM] [Info] Successfully gave Myst_iU 36241 x1!
+[20/04/2026 10:32:45 PM] [Info] [World] Myst [Myst_iU]: "/give 36220 10"
+[20/04/2026 10:32:45 PM] [Info] Successfully gave Myst_iU 36220 x10!
+[20/04/2026 10:34:03 PM] [Info] [World] Myst [Myst_iU]: "/give 36220 25"
+[20/04/2026 10:34:03 PM] [Info] Successfully gave Myst_iU 36220 x25!
+[20/04/2026 10:37:20 PM] [Info] [World] Myst [Myst_iU]: "/give 36217 10"
+[20/04/2026 10:37:20 PM] [Info] Successfully gave Myst_iU 36217 x10!
+[20/04/2026 10:43:50 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[20/04/2026 10:43:50 PM] [Info] Successfully gave Myst_iU 36222 x10!
+[20/04/2026 10:44:44 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 6"
+[20/04/2026 10:44:44 PM] [Info] Successfully gave Myst_iU 36222 x6!
+[20/04/2026 10:45:00 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 8"
+[20/04/2026 10:45:00 PM] [Info] Successfully gave Myst_iU 36240 x8!
+[20/04/2026 10:45:54 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[20/04/2026 10:47:37 PM] [Info] Successfully gave Myst_iU 36240 x10!
+[20/04/2026 10:47:37 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[20/04/2026 10:47:37 PM] [Info] Successfully gave Myst_iU 36240 x10!
+[20/04/2026 10:50:30 PM] [Info] Saving server
+[20/04/2026 10:54:23 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 10:54:23 PM] [Info] [World] Myst [Myst_iU]: "/give 36220 20"
+[20/04/2026 10:54:23 PM] [Info] Successfully gave Myst_iU 36220 x20!
+[20/04/2026 10:54:59 PM] [Info] [World] Myst [Myst_iU]: "/give 36222"
+[20/04/2026 10:54:59 PM] [Info] Successfully gave Myst_iU 36222 x1!
+[20/04/2026 10:55:22 PM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[20/04/2026 10:55:22 PM] [Info] Successfully gave Myst_iU 36240 x1!
+[20/04/2026 10:56:53 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[20/04/2026 10:56:53 PM] [Info] Successfully gave Myst_iU 36240 x10!
+[20/04/2026 10:58:12 PM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[20/04/2026 10:58:12 PM] [Info] Successfully gave Myst_iU 36240 x5!
+[20/04/2026 10:58:18 PM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[20/04/2026 10:58:18 PM] [Info] Successfully gave Myst_iU 36240 x1!
+[20/04/2026 10:58:31 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 3"
+[20/04/2026 10:58:31 PM] [Info] Successfully gave Myst_iU 36222 x3!
+[20/04/2026 10:59:45 PM] [Info] [World] twicemiku [twicemiku]: "/tp kopiko"
+[20/04/2026 11:04:34 PM] [Info] twicemiku teleported to kopiko
+[20/04/2026 11:04:34 PM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 11:05:25 PM] [Info] [World] kopiko [kopiko]: "/home bed1"
+[20/04/2026 11:05:25 PM] [Info] [World] twicemiku [twicemiku]: "/home bed1"
+[20/04/2026 11:05:29 PM] [Info] kopiko moved x:255.8611 y:57.38601(+27.16575) z:-696.8506 in the last second (0.1000023)
+[20/04/2026 11:05:29 PM] [Info] twicemiku moved x:254.125 y:57.41091(+31.24682) z:-686.8828 in the last second (0.09999847)
+[20/04/2026 11:05:35 PM] [Info] [World] Myst [Myst_iU]: "/give 36222 2"
+[20/04/2026 11:05:35 PM] [Info] Successfully gave Myst_iU 36222 x2!
+[20/04/2026 11:06:06 PM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[20/04/2026 11:06:11 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 11:06:11 PM] [Info] Successfully saved the game.
+[20/04/2026 11:07:25 PM] [Info] [World] kopiko [kopiko]: "/give bed"
+[20/04/2026 11:08:03 PM] [Info] Successfully gave kopiko 386 x1!
+[20/04/2026 11:08:03 PM] [Info] [World] kopiko [kopiko]: "/give 379"
+[20/04/2026 11:08:03 PM] [Info] Successfully gave kopiko 379 x1!
+[20/04/2026 11:08:39 PM] [Info] [World] kopiko [kopiko]: "/give 36285"
+[20/04/2026 11:08:39 PM] [Info] Successfully gave kopiko 36285 x1!
+[20/04/2026 11:12:00 PM] [Info] kopiko [kopiko] was shredded to bits!
+[20/04/2026 11:12:30 PM] [Info] [World] kopiko [kopiko]: "/tp twi"
+[20/04/2026 11:12:30 PM] [Info] kopiko teleported to twicemiku
+[20/04/2026 11:12:31 PM] [Info] kopiko moved x:257.0391 y:56.97403(+29.40171) z:-680.4219 in the last second (0.1000023)
+[20/04/2026 11:20:30 PM] [Info] Saving server
+[20/04/2026 11:45:33 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 11:45:33 PM] [Info] [World] kopiko [kopiko]: "/tp twi"
+[20/04/2026 11:45:33 PM] [Info] kopiko teleported to twicemiku
+[20/04/2026 11:50:17 PM] [Info] Connecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[20/04/2026 11:50:30 PM] [Info] Saving server
+[20/04/2026 11:53:57 PM] [Info] MoreHomes >> 7 player homes data has been saved!
+[20/04/2026 11:53:57 PM] [Info] [World] wiggielicious [wiggielicious]: "/TP KOP"
+[20/04/2026 11:53:57 PM] [Info] wiggielicious teleported to kopiko
+[20/04/2026 11:58:08 PM] [Info] kopiko moved x:-814.5222 y:26.04971(+103.4432) z:-1056.334 in the last second (0.1002483)
+[20/04/2026 11:58:18 PM] [Info] kopiko moved x:-74.27453 y:54.42304(+28.26296) z:-180.5905 in the last second (0.09999847)
+[21/04/2026 12:04:22 AM] [Info] Connecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[21/04/2026 12:06:54 AM] [Info] [World] twicemiku [twicemiku]: "/TP KOPIKO"
+[21/04/2026 12:06:54 AM] [Info] twicemiku teleported to kopiko
+[21/04/2026 12:07:00 AM] [Info] [World] twicemiku [twicemiku]: "/TP KOPIKO"
+[21/04/2026 12:07:00 AM] [Info] twicemiku teleported to kopiko
+[21/04/2026 12:07:11 AM] [Info] [World] twicemiku [twicemiku]: "/TP KOPIKO"
+[21/04/2026 12:07:11 AM] [Info] twicemiku teleported to kopiko
+[21/04/2026 12:08:28 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 4"
+[21/04/2026 12:08:28 AM] [Info] Successfully gave Myst_iU 36217 x4!
+[21/04/2026 12:09:03 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 10"
+[21/04/2026 12:09:03 AM] [Info] Successfully gave Myst_iU 36217 x10!
+[21/04/2026 12:10:09 AM] [Info] [World] Myst [Myst_iU]: "/give 36234 5"
+[21/04/2026 12:10:09 AM] [Info] Successfully gave Myst_iU 36234 x5!
+[21/04/2026 12:10:56 AM] [Info] [World] Myst [Myst_iU]: "/give 36234 3"
+[21/04/2026 12:10:56 AM] [Info] Successfully gave Myst_iU 36234 x3!
+[21/04/2026 12:12:25 AM] [Info] [World] twicemiku [twicemiku]: "/TP MYST"
+[21/04/2026 12:12:35 AM] [Info] twicemiku teleported to Myst
+[21/04/2026 12:12:35 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[21/04/2026 12:12:35 AM] [Info] wiggielicious teleported to Myst
+[21/04/2026 12:12:51 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp kopiko"
+[21/04/2026 12:12:51 AM] [Info] wiggielicious teleported to kopiko
+[21/04/2026 12:16:52 AM] [Info] [World] twicemiku [twicemiku]: "/HOME BED1"
+[21/04/2026 12:16:55 AM] [Info] twicemiku moved x:254.125 y:57.41091(+31.5238) z:-686.8828 in the last second (0.09999847)
+[21/04/2026 12:17:34 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[21/04/2026 12:17:34 AM] [Info] wiggielicious teleported to Myst
+[21/04/2026 12:17:56 AM] [Info] [World] Myst [Myst_iU]: "/give 36220"
+[21/04/2026 12:17:56 AM] [Info] Successfully gave Myst_iU 36220 x1!
+[21/04/2026 12:18:06 AM] [Info] [World] Myst [Myst_iU]: "/give 36220 9"
+[21/04/2026 12:18:06 AM] [Info] Successfully gave Myst_iU 36220 x9!
+[21/04/2026 12:18:20 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp kopiko"
+[21/04/2026 12:18:20 AM] [Info] wiggielicious teleported to kopiko
+[21/04/2026 12:18:52 AM] [Info] [World] Myst [Myst_iU]: "/give 36234"
+[21/04/2026 12:18:52 AM] [Info] Successfully gave Myst_iU 36234 x1!
+[21/04/2026 12:19:03 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 2"
+[21/04/2026 12:19:03 AM] [Info] Successfully gave Myst_iU 36217 x2!
+[21/04/2026 12:19:29 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 5"
+[21/04/2026 12:19:29 AM] [Info] Successfully gave Myst_iU 36217 x5!
+[21/04/2026 12:19:57 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp kop"
+[21/04/2026 12:19:57 AM] [Info] wiggielicious teleported to kopiko
+[21/04/2026 12:20:07 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 3"
+[21/04/2026 12:20:07 AM] [Info] Successfully gave Myst_iU 36217 x3!
+[21/04/2026 12:20:19 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 4"
+[21/04/2026 12:20:19 AM] [Info] Successfully gave Myst_iU 36217 x4!
+[21/04/2026 12:20:30 AM] [Info] Saving server
+[21/04/2026 12:20:33 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 12:20:33 AM] [Info] [World] Myst [Myst_iU]: "/give 36217 3"
+[21/04/2026 12:20:33 AM] [Info] Successfully gave Myst_iU 36217 x3!
+[21/04/2026 12:21:06 AM] [Info] [World] Myst [Myst_iU]: "/give 36217"
+[21/04/2026 12:21:06 AM] [Info] Successfully gave Myst_iU 36217 x1!
+[21/04/2026 12:23:19 AM] [Info] [World] kopiko [kopiko]: "/give carjack"
+[21/04/2026 12:23:54 AM] [Info] Successfully gave kopiko 277 x1!
+[21/04/2026 12:23:54 AM] [Info] [World] Myst [Myst_iU]: "/give 36298"
+[21/04/2026 12:23:54 AM] [Info] Successfully gave Myst_iU 36298 x1!
+[21/04/2026 12:24:05 AM] [Info] [World] Myst [Myst_iU]: "/tp wig"
+[21/04/2026 12:24:05 AM] [Info] Myst teleported to wiggielicious
+[21/04/2026 12:25:20 AM] [Info] [World] Myst [Myst_iU]: "/home bed2"
+[21/04/2026 12:25:38 AM] [Info] [World] Myst [Myst_iU]: "/home bed2"
+[21/04/2026 12:25:46 AM] [Info] [World] Myst [Myst_iU]: "/home bed2"
+[21/04/2026 12:26:19 AM] [Info] [World] Myst [Myst_iU]: "/give 36220"
+[21/04/2026 12:26:19 AM] [Info] Successfully gave Myst_iU 36220 x1!
+[21/04/2026 12:27:01 AM] [Info] [World] Myst [Myst_iU]: "/give 36244"
+[21/04/2026 12:27:01 AM] [Info] Successfully gave Myst_iU 36244 x1!
+[21/04/2026 12:27:21 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 2"
+[21/04/2026 12:27:21 AM] [Info] Successfully gave Myst_iU 36222 x2!
+[21/04/2026 12:27:30 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 12:27:30 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 12:27:38 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 12:27:38 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 12:28:18 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 12:28:18 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 12:29:19 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 12:29:19 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 12:30:30 AM] [Info] twicemiku [twicemiku] starved to death!
+[21/04/2026 12:30:37 AM] [Info] [World] Myst [Myst_iU]: "/GOD"
+[21/04/2026 12:30:37 AM] [Info] Myst enabled Godmode
+[21/04/2026 12:31:16 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[21/04/2026 12:31:16 AM] [Info] Successfully gave Myst_iU 36240 x5!
+[21/04/2026 12:31:59 AM] [Info] [World] Myst [Myst_iU]: "/give 36222"
+[21/04/2026 12:31:59 AM] [Info] Successfully gave Myst_iU 36222 x1!
+[21/04/2026 12:32:33 AM] [Info] [World] Myst [Myst_iU]: "/give 36217"
+[21/04/2026 12:32:33 AM] [Info] Successfully gave Myst_iU 36217 x1!
+[21/04/2026 12:33:05 AM] [Info] [World] Myst [Myst_iU]: "/give 36234 2"
+[21/04/2026 12:33:05 AM] [Info] Successfully gave Myst_iU 36234 x2!
+[21/04/2026 12:34:37 AM] [Info] [World] Myst [Myst_iU]: "/give 36220 8"
+[21/04/2026 12:34:37 AM] [Info] Successfully gave Myst_iU 36220 x8!
+[21/04/2026 12:35:35 AM] [Info] [World] kopiko [kopiko]: "/give 500"
+[21/04/2026 12:35:35 AM] [Error] Failed to find any item called 500.
+[21/04/2026 12:35:43 AM] [Info] [World] twicemiku [twicemiku]: "/EXPERIENCE 1000"
+[21/04/2026 12:35:54 AM] [Info] Successfully gave twicemiku +1000 experience!
+[21/04/2026 12:35:54 AM] [Info] [World] kopiko [kopiko]: "/exp 10000"
+[21/04/2026 12:36:01 AM] [Info] [World] kopiko [kopiko]: "/exp 500"
+[21/04/2026 12:36:06 AM] [Info] [World] kopiko [kopiko]: "/experience 500"
+[21/04/2026 12:36:06 AM] [Info] Successfully gave kopiko +500 experience!
+[21/04/2026 12:36:24 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 4"
+[21/04/2026 12:36:24 AM] [Info] Successfully gave Myst_iU 36222 x4!
+[21/04/2026 12:36:24 AM] [Info] [World] kopiko [kopiko]: "/experience 1000"
+[21/04/2026 12:36:24 AM] [Info] Successfully gave kopiko +1000 experience!
+[21/04/2026 12:38:23 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[21/04/2026 12:38:23 AM] [Info] wiggielicious teleported to Myst
+[21/04/2026 12:38:23 AM] [Info] wiggielicious moved x:342.9609 y:59.24086(+24.7675) z:252.0625 in the last second (0.1135406)
+[21/04/2026 12:42:26 AM] [Info] [World] Myst [Myst_iU]: "/give 36078"
+[21/04/2026 12:42:26 AM] [Info] Successfully gave Myst_iU 36078 x1!
+[21/04/2026 12:46:12 AM] [Info] [World] Myst [Myst_iU]: "/give 36242"
+[21/04/2026 12:46:12 AM] [Info] Successfully gave Myst_iU 36242 x1!
+[21/04/2026 12:46:16 AM] [Info] [World] Myst [Myst_iU]: "/give 36242 10"
+[21/04/2026 12:46:16 AM] [Info] Successfully gave Myst_iU 36242 x10!
+[21/04/2026 12:49:08 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[21/04/2026 12:50:30 AM] [Info] Successfully gave Myst_iU 36222 x10!
+[21/04/2026 12:50:30 AM] [Info] Saving server
+[21/04/2026 12:51:24 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 12:51:24 AM] [Info] [World] Myst [Myst_iU]: "/give 36283"
+[21/04/2026 12:51:24 AM] [Error] Failed to find any item called 36283.
+[21/04/2026 12:51:33 AM] [Info] [World] Myst [Myst_iU]: "/give 36283"
+[21/04/2026 12:51:33 AM] [Error] Failed to find any item called 36283.
+[21/04/2026 12:51:43 AM] [Info] [World] Myst [Myst_iU]: "/give 36283"
+[21/04/2026 12:51:43 AM] [Error] Failed to find any item called 36283.
+[21/04/2026 12:58:22 AM] [Info] [World] Myst [Myst_iU]: "/give 36340"
+[21/04/2026 12:58:22 AM] [Info] Successfully gave Myst_iU 36340 x1!
+[21/04/2026 12:59:37 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 12:59:37 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:00:47 AM] [Info] [World] Myst [Myst_iU]: "/give 36291"
+[21/04/2026 1:00:47 AM] [Info] Successfully gave Myst_iU 36291 x1!
+[21/04/2026 1:02:42 AM] [Info] wiggielicious [wiggielicious] starved to death!
+[21/04/2026 1:03:01 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp kopiko"
+[21/04/2026 1:03:02 AM] [Info] wiggielicious teleported to kopiko
+[21/04/2026 1:03:02 AM] [Info] wiggielicious moved x:258.9766 y:52.72403(+25.37574) z:-690.5781 in the last second (0.1000023)
+[21/04/2026 1:09:32 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:09:32 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:09:39 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:09:39 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:09:45 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:09:45 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:09:52 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:09:52 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:11:34 AM] [Info] [World] wiggielicious [wiggielicious]: "/tp myst"
+[21/04/2026 1:14:02 AM] [Info] wiggielicious teleported to Myst
+[21/04/2026 1:14:02 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:14:02 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:14:20 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:14:20 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:14:28 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 1:14:28 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 1:14:35 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 4"
+[21/04/2026 1:14:35 AM] [Info] Successfully gave Myst_iU 36240 x4!
+[21/04/2026 1:14:49 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 6"
+[21/04/2026 1:14:49 AM] [Info] Successfully gave Myst_iU 36240 x6!
+[21/04/2026 1:17:16 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 1:17:16 AM] [Info] Myst disabled Godmode
+[21/04/2026 1:17:18 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 1:17:18 AM] [Info] Myst enabled Godmode
+[21/04/2026 1:20:04 AM] [Info] [World] wiggielicious [wiggielicious]: "/TP TWICE"
+[21/04/2026 1:20:04 AM] [Info] wiggielicious teleported to twicemiku
+[21/04/2026 1:20:05 AM] [Info] wiggielicious moved x:263.1563 y:52.72403(+26.85889) z:-676.2578 in the last second (0.1000023)
+[21/04/2026 1:20:30 AM] [Info] Saving server
+[21/04/2026 1:22:04 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 1:22:04 AM] [Info] Connecting: PlayerID: 76561199187292394 Name: LowieSu Character: LowieSu
+[21/04/2026 1:24:11 AM] [Info] [World] Myst [Myst_iU]: "/admin lowie"
+[21/04/2026 1:26:47 AM] [Info] [World] wiggielicious [wiggielicious]: "/TP MYST\"
+[21/04/2026 1:26:56 AM] [Info] [World] wiggielicious [wiggielicious]: "/TP MYST"
+[21/04/2026 1:26:56 AM] [Info] wiggielicious teleported to Myst
+[21/04/2026 1:27:14 AM] [Info] [World] wiggielicious [wiggielicious]: "/TP TWICE"
+[21/04/2026 1:27:14 AM] [Info] wiggielicious teleported to twicemiku
+[21/04/2026 1:27:15 AM] [Info] wiggielicious moved x:265.0469 y:56.97403(+26.3751) z:-682.6563 in the last second (0.1000023)
+[21/04/2026 1:29:20 AM] [Info] Kicking because ping (763) exceeds limit (750): PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 1:30:15 AM] [Info] Disconnecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 1:30:15 AM] [Info] Connecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 1:33:55 AM] [Info] Disconnecting: PlayerID: 76561199571006509 Name: wiggielicious Character: wiggielicious
+[21/04/2026 1:41:34 AM] [Info] kopiko [kopiko] starved to death!
+[21/04/2026 1:49:11 AM] [Info] [World] kopiko [kopiko]: "/tp twi"
+[21/04/2026 1:49:11 AM] [Info] kopiko teleported to twicemiku
+[21/04/2026 1:49:12 AM] [Info] kopiko moved x:252.2206 y:52.72403(+20.50933) z:-678.7759 in the last second (0.1000023)
+[21/04/2026 1:50:13 AM] [Info] [World] Myst [Myst_iU]: "/give 36124"
+[21/04/2026 1:50:13 AM] [Info] Successfully gave Myst_iU 36124 x1!
+[21/04/2026 1:50:30 AM] [Info] Saving server
+[21/04/2026 1:53:35 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 1:53:35 AM] [Info] [World] kopiko [kopiko]: "/tp Myst"
+[21/04/2026 1:53:35 AM] [Info] kopiko teleported to Myst
+[21/04/2026 1:53:46 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 1:53:46 AM] [Info] Myst disabled Godmode
+[21/04/2026 1:59:46 AM] [Info] Kicking for inactivity: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 2:00:24 AM] [Info] Disconnecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 2:00:24 AM] [Info] Connecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 2:07:29 AM] [Info] kopiko [kopiko] was mauled by a zombie!
+[21/04/2026 2:07:38 AM] [Info] [World] kopiko [kopiko]: "/tp Low"
+[21/04/2026 2:07:38 AM] [Info] kopiko teleported to LowieSu
+[21/04/2026 2:08:08 AM] [Info] [World] kopiko [kopiko]: "/tp twi"
+[21/04/2026 2:08:08 AM] [Info] kopiko teleported to twicemiku
+[21/04/2026 2:08:09 AM] [Info] kopiko moved x:241.0078 y:56.36303(+18.28848) z:-696.8594 in the last second (0.113884)
+[21/04/2026 2:14:41 AM] [Info] Myst moved x:-40.07813 y:58.57031(+32.41109) z:288.3438 in the last second (0.5453644)
+[21/04/2026 2:14:42 AM] [Info] LowieSu moved x:-40.07813 y:58.12495(+31.9851) z:288.3438 in the last second (0.1000023)
+[21/04/2026 2:20:30 AM] [Info] Saving server
+[21/04/2026 2:20:32 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 2:20:32 AM] [Info] [World] kopiko [kopiko]: "BAKIT NAGINVERT UNG MOUSE MOVEMENT K FOR A BIT"
+[21/04/2026 2:20:40 AM] [Info] [World] Myst [Myst_iU]: "baka may nakain ka"
+[21/04/2026 2:20:40 AM] [Info] [World] kopiko [kopiko]: "TAS NAG GREEN"
+[21/04/2026 2:20:43 AM] [Info] [World] Myst [Myst_iU]: "yeahh"
+[21/04/2026 2:20:45 AM] [Info] [World] Myst [Myst_iU]: "may nakain ka"
+[21/04/2026 2:20:45 AM] [Info] [World] kopiko [kopiko]: "hoh"
+[21/04/2026 2:20:53 AM] [Info] [World] Myst [Myst_iU]: "or nainom"
+[21/04/2026 2:20:55 AM] [Info] [World] kopiko [kopiko]: "i ate cooked fish"
+[21/04/2026 2:21:03 AM] [Info] [World] kopiko [kopiko]: "and snow berry drink"
+[21/04/2026 2:21:08 AM] [Info] [World] Myst [Myst_iU]: "yung snowberry yon"
+[21/04/2026 2:21:11 AM] [Info] [World] Myst [Myst_iU]: "the drink"
+[21/04/2026 2:21:52 AM] [Info] [World] Myst [Myst_iU]: "/home bed2"
+[21/04/2026 2:21:57 AM] [Info] [World] Myst [Myst_iU]: "/home bed2"
+[21/04/2026 2:22:03 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 2:22:06 AM] [Info] Myst enabled Godmode
+[21/04/2026 2:22:06 AM] [Info] [World] Myst [Myst_iU]: "w"
+[21/04/2026 2:22:09 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 2:22:09 AM] [Info] Myst disabled Godmode
+[21/04/2026 2:24:23 AM] [Info] [World] kopiko [kopiko]: "/spy 76561199571006509"
+[21/04/2026 2:24:23 AM] [Error] Failed to find anyone called 76561199571006509.
+[21/04/2026 2:24:29 AM] [Info] [World] kopiko [kopiko]: "/spy 76561198374187872"
+[21/04/2026 2:24:29 AM] [Info] Successfully taking a screenshot of Myst_iU.
+[21/04/2026 2:24:49 AM] [Info] [World] twicemiku [twicemiku]: "/HOME BED1"
+[21/04/2026 2:24:52 AM] [Info] twicemiku moved x:250.6094 y:57.88176(+19.78689) z:-678.9531 in the last second (0.5708466)
+[21/04/2026 2:30:13 AM] [Info] [World] twicemiku [twicemiku]: "/HOME BED1"
+[21/04/2026 2:30:29 AM] [Info] twicemiku [twicemiku] bled to death!
+[21/04/2026 2:38:22 AM] [Info] [World] kopiko [kopiko]: "MAY BAGPACK N GELO NO"
+[21/04/2026 2:38:32 AM] [Info] [World] LowieSu [LowieSu]: "yizz I have one na"
+[21/04/2026 2:38:33 AM] [Info] [World] kopiko [kopiko]: "save q nalang ung akin kay thari"
+[21/04/2026 2:40:23 AM] [Info] [World] twicemiku [twicemiku]: "experience 1500"
+[21/04/2026 2:40:33 AM] [Info] [World] twicemiku [twicemiku]: "wala kayo nabasa"
+[21/04/2026 2:40:42 AM] [Info] [World] twicemiku [twicemiku]: "/experience 1500"
+[21/04/2026 2:40:42 AM] [Info] Successfully gave twicemiku +1500 experience!
+[21/04/2026 2:45:23 AM] [Info] [World] kopiko [kopiko]: "cno may bala 5"
+[21/04/2026 2:45:35 AM] [Info] [World] kopiko [kopiko]: "5.56"
+[21/04/2026 2:45:38 AM] [Info] [World] LowieSu [LowieSu]: "im out na pii"
+[21/04/2026 2:45:39 AM] [Info] [World] twicemiku [twicemiku]: "am all out aswell"
+[21/04/2026 2:45:49 AM] [Info] [World] twicemiku [twicemiku]: "pwede kayo gumawa may gunpowder don sa base"
+[21/04/2026 2:45:50 AM] [Info] [World] kopiko [kopiko]: "NAUURR"
+[21/04/2026 2:45:55 AM] [Info] [World] kopiko [kopiko]: "okei"
+[21/04/2026 2:46:44 AM] [Info] [World] twicemiku [twicemiku]: "/home bed1"
+[21/04/2026 2:49:53 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[21/04/2026 2:49:53 AM] [Info] Successfully gave Myst_iU 36222 x10!
+[21/04/2026 2:50:30 AM] [Info] Saving server
+[21/04/2026 2:50:39 AM] [Info] MoreHomes >> 7 player homes data has been saved!
+[21/04/2026 2:50:39 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[21/04/2026 2:50:39 AM] [Info] Successfully gave Myst_iU 36222 x10!
+[21/04/2026 2:52:07 AM] [Info] [World] Myst [Myst_iU]: "gusto niyo ba taasan ko ba yung ammo spawn ng unti"
+[21/04/2026 2:52:43 AM] [Info] [World] kopiko [kopiko]: "/tp myst"
+[21/04/2026 2:52:45 AM] [Info] kopiko teleported to Myst
+[21/04/2026 2:52:45 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 5"
+[21/04/2026 2:52:45 AM] [Info] Successfully gave Myst_iU 36222 x5!
+[21/04/2026 2:52:51 AM] [Info] [World] kopiko [kopiko]: "bwoah"
+[21/04/2026 2:52:59 AM] [Info] [World] kopiko [kopiko]: "ANLAKI GAGU"
+[21/04/2026 2:53:03 AM] [Info] [World] kopiko [kopiko]: "/tp low"
+[21/04/2026 2:53:03 AM] [Info] kopiko teleported to LowieSu
+[21/04/2026 2:53:23 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 4"
+[21/04/2026 2:53:23 AM] [Info] Successfully gave Myst_iU 36240 x4!
+[21/04/2026 2:53:38 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[21/04/2026 2:53:38 AM] [Info] Successfully gave Myst_iU 36240 x5!
+[21/04/2026 2:53:53 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[21/04/2026 2:53:53 AM] [Info] Successfully gave Myst_iU 36240 x10!
+[21/04/2026 2:54:37 AM] [Info] LowieSu moved x:-40.07813 y:58.12495(+31.96086) z:288.3438 in the last second (0.1000023)
+[21/04/2026 2:54:40 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 10"
+[21/04/2026 2:55:39 AM] [Info] Successfully gave Myst_iU 36240 x10!
+[21/04/2026 2:55:39 AM] [Info] LowieSu moved x:-73.92188 y:54.42304(+28.26518) z:-180.7266 in the last second (0.09999847)
+[21/04/2026 2:57:12 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 4"
+[21/04/2026 2:57:12 AM] [Info] Successfully gave Myst_iU 36240 x4!
+[21/04/2026 2:57:23 AM] [Info] [World] Myst [Myst_iU]: "/give 36240"
+[21/04/2026 2:57:23 AM] [Info] Successfully gave Myst_iU 36240 x1!
+[21/04/2026 2:57:35 AM] [Info] [World] kopiko [kopiko]: "i got broken gas mask"
+[21/04/2026 2:57:44 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 8"
+[21/04/2026 2:57:44 AM] [Info] Successfully gave Myst_iU 36222 x8!
+[21/04/2026 2:57:49 AM] [Info] [World] Myst [Myst_iU]: "niceee"
+[21/04/2026 2:58:10 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 3"
+[21/04/2026 2:58:10 AM] [Info] Successfully gave Myst_iU 36222 x3!
+[21/04/2026 2:58:28 AM] [Info] [World] Myst [Myst_iU]: "/give 36240 5"
+[21/04/2026 2:58:28 AM] [Info] Successfully gave Myst_iU 36240 x5!
+[21/04/2026 3:00:33 AM] [Info] [World] kopiko [kopiko]: "/tp twi"
+[21/04/2026 3:00:33 AM] [Info] kopiko teleported to twicemiku
+[21/04/2026 3:00:33 AM] [Info] kopiko moved x:258.5234 y:52.72403(+19.09973) z:-678.4219 in the last second (0.1000023)
+[21/04/2026 3:04:11 AM] [Info] [World] Myst [Myst_iU]: "/give 36477 20"
+[21/04/2026 3:05:18 AM] [Info] Successfully gave Myst_iU 36477 x20!
+[21/04/2026 3:05:18 AM] [Info] [World] Myst [Myst_iU]: "/give 36477 10"
+[21/04/2026 3:05:18 AM] [Info] Successfully gave Myst_iU 36477 x10!
+[21/04/2026 3:05:44 AM] [Info] [World] Myst [Myst_iU]: "/give 36477 5"
+[21/04/2026 3:05:44 AM] [Info] Successfully gave Myst_iU 36477 x5!
+[21/04/2026 3:07:40 AM] [Info] [World] Myst [Myst_iU]: "/give 36222 10"
+[21/04/2026 3:07:40 AM] [Info] Successfully gave Myst_iU 36222 x10!
+[21/04/2026 3:09:05 AM] [Info] [World] kopiko [kopiko]: "/tp low"
+[21/04/2026 3:09:05 AM] [Info] kopiko teleported to LowieSu
+[21/04/2026 3:09:22 AM] [Info] [World] kopiko [kopiko]: "NAKADEAFEN AK AH"
+[21/04/2026 3:09:33 AM] [Info] [World] LowieSu [LowieSu]: "Ikaw naka deafen ya"
+[21/04/2026 3:10:08 AM] [Info] [World] Myst [Myst_iU]: "/give 36220 10"
+[21/04/2026 3:10:08 AM] [Info] Successfully gave Myst_iU 36220 x10!
+[21/04/2026 3:10:15 AM] [Info] [World] kopiko [kopiko]: "JANREIN MAY BOSS DTO KE GELO"
+[21/04/2026 3:10:22 AM] [Info] [World] kopiko [kopiko]: "NARINIG KO UNG BATO"
+[21/04/2026 3:10:31 AM] [Info] [World] Myst [Myst_iU]: "/tp gelo"
+[21/04/2026 3:10:35 AM] [Info] [World] Myst [Myst_iU]: "/tp low"
+[21/04/2026 3:10:35 AM] [Info] Myst teleported to LowieSu
+[21/04/2026 3:10:35 AM] [Info] [World] twicemiku [twicemiku]: "/tp gelo"
+[21/04/2026 3:10:36 AM] [Info] Myst moved x:-316.2373 y:51.96132(+21.82421) z:157.6679 in the last second (0.1333122)
+[21/04/2026 3:10:42 AM] [Info] [World] kopiko [kopiko]: "oki n"
+[21/04/2026 3:10:44 AM] [Info] [World] twicemiku [twicemiku]: "/tp lowie"
+[21/04/2026 3:10:44 AM] [Info] twicemiku teleported to LowieSu
+[21/04/2026 3:10:44 AM] [Info] twicemiku moved x:-290.25 y:50.95058(+24.78649) z:129.5859 in the last second (0.09999847)
+[21/04/2026 3:10:44 AM] [Info] [World] kopiko [kopiko]: "wla drop"
+[21/04/2026 3:10:56 AM] [Info] [World] kopiko [kopiko]: "hayop"
+[21/04/2026 3:12:59 AM] [Info] [World] twicemiku [twicemiku]: "/home bed1"
+[21/04/2026 3:13:24 AM] [Info] [World] kopiko [kopiko]: "PAKYU"
+[21/04/2026 3:13:46 AM] [Info] [World] Myst [Myst_iU]: "/tp intel"
+[21/04/2026 3:13:46 AM] [Info] Myst teleported to Intelligence
+[21/04/2026 3:13:46 AM] [Info] [World] kopiko [kopiko]: "AHAHAHA"
+[21/04/2026 3:14:13 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 3:14:13 AM] [Info] Myst enabled Godmode
+[21/04/2026 3:14:15 AM] [Info] [World] Myst [Myst_iU]: "/god"
+[21/04/2026 3:14:15 AM] [Info] Myst disabled Godmode
+[21/04/2026 3:15:07 AM] [Info] [World] Myst [Myst_iU]: "/give 36222"
+[21/04/2026 3:15:07 AM] [Info] Successfully gave Myst_iU 36222 x1!
+[21/04/2026 3:15:36 AM] [Info] [World] Myst [Myst_iU]: "/give 36220 15"
+[21/04/2026 3:15:36 AM] [Info] Successfully gave Myst_iU 36220 x15!
+[21/04/2026 3:15:52 AM] [Info] [World] kopiko [kopiko]: "NO KEY"
+[21/04/2026 3:16:07 AM] [Info] [World] LowieSu [LowieSu]: "no gas"
+[21/04/2026 3:16:25 AM] [Info] [World] LowieSu [LowieSu]: "we go haurermm"
+[21/04/2026 3:16:54 AM] [Info] [World] Myst [Myst_iU]: "/give 36220 20"
+[21/04/2026 3:16:54 AM] [Info] Successfully gave Myst_iU 36220 x20!
+[21/04/2026 3:16:56 AM] [Info] [World] LowieSu [LowieSu]: "skid nga ya"
+[21/04/2026 3:17:43 AM] [Info] [World] kopiko [kopiko]: "KOTSE"
+[21/04/2026 3:17:45 AM] [Info] [World] kopiko [kopiko]: "grab"
+[21/04/2026 3:17:57 AM] [Info] [World] kopiko [kopiko]: "angel ser?"
+[21/04/2026 3:18:04 AM] [Info] [World] LowieSu [LowieSu]: "medjo"
+[21/04/2026 3:18:05 AM] [Info] [World] kopiko [kopiko]: "sa cubao lang ya"
+[21/04/2026 3:18:12 AM] [Info] [World] kopiko [kopiko]: "GAGO"
+[21/04/2026 3:18:52 AM] [Info] [World] Myst [Myst_iU]: "/give 36242 20"
+[21/04/2026 3:18:52 AM] [Info] Successfully gave Myst_iU 36242 x20!
+[21/04/2026 3:19:16 AM] [Info] [World] kopiko [kopiko]: "oohh lopit"
+[21/04/2026 3:19:41 AM] [Info] [World] LowieSu [LowieSu]: "mangha ka nanaman aye"
+[21/04/2026 3:19:46 AM] [Info] [World] Myst [Myst_iU]: "/give 36242 20"
+[21/04/2026 3:19:46 AM] [Info] Successfully gave Myst_iU 36242 x20!
+[21/04/2026 3:20:30 AM] [Info] Saving server
+[21/04/2026 3:20:54 AM] [Info] MoreHomes >> 8 player homes data has been saved!
+[21/04/2026 3:20:54 AM] [Info] [World] Myst [Myst_iU]: "/give 36243 10"
+[21/04/2026 3:20:54 AM] [Info] Successfully gave Myst_iU 36243 x10!
+[21/04/2026 3:21:22 AM] [Info] [World] Myst [Myst_iU]: "/give 36243 10"
+[21/04/2026 3:21:22 AM] [Info] Successfully gave Myst_iU 36243 x10!
+[21/04/2026 3:21:44 AM] [Info] [World] Myst [Myst_iU]: "/give 36243 10"
+[21/04/2026 3:21:44 AM] [Info] Successfully gave Myst_iU 36243 x10!
+[21/04/2026 3:22:08 AM] [Info] [World] Myst [Myst_iU]: "/give 36243 10"
+[21/04/2026 3:22:08 AM] [Info] Successfully gave Myst_iU 36243 x10!
+[21/04/2026 3:22:38 AM] [Info] [World] Myst [Myst_iU]: "/give 36243 5"
+[21/04/2026 3:22:38 AM] [Info] Successfully gave Myst_iU 36243 x5!
+[21/04/2026 3:24:03 AM] [Info] Disconnecting: PlayerID: 76561199187292394 Name: LowieSu Character: LowieSu
+[21/04/2026 3:24:09 AM] [Info] Disconnecting: PlayerID: 76561198374187872 Name: Myst_iU Character: Myst
+[21/04/2026 3:24:19 AM] [Info] [World] kopiko [kopiko]: "tawag mo bako"
+[21/04/2026 3:24:41 AM] [Info] MoreHomes >> 8 player homes data has been saved!
+[21/04/2026 3:24:41 AM] [Info] Successfully saved the game.
+[21/04/2026 3:24:46 AM] [Info] Disconnecting: PlayerID: 76561198811868695 Name: twicemiku Character: twicemiku
+[21/04/2026 3:24:49 AM] [Info] Disconnecting: PlayerID: 76561198883421576 Name: kopiko Character: kopiko
+[21/04/2026 3:25:01 AM] [Info] MoreHomes >> 8 player homes data has been saved!
+[21/04/2026 3:25:01 AM] [Info] Successfully saved the game.
+[21/04/2026 3:25:04 AM] [Info] MoreHomes >> 8 player homes data has been saved!
+[21/04/2026 3:25:05 AM] [Info] 
+[unloading] Teleportation

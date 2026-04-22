@@ -1,0 +1,28 @@
+GUID 54425a960d284e1c82e02d1e0c5aa184
+
+
+
+Type Grip
+Rarity Rare
+ID 30508
+
+Size_X 2
+
+
+Recoil_X 0.5
+Recoil_Y 0.5
+
+Spread 0.5
+
+Calibers 1
+Caliber_0 36013
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 30508
+//本物品ID
+Blueprint_0_Build 27
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36011
+//铁
+Blueprint_0_Output_0_Amount 2
